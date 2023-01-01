@@ -1,0 +1,1 @@
+./a.exe ft neg_08.txt neg_08_out.txt

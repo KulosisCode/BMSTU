@@ -1,0 +1,10 @@
+release/action.o
+release/circle.o
+release/dot.o
+release/errors.o
+release/main.o
+release/mainwindow.o
+release/painter.o
+release/parabol.o
+release/shape.o
+release/moc_mainwindow.o

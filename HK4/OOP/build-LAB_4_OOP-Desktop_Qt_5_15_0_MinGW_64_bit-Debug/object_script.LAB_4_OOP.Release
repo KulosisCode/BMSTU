@@ -1,0 +1,13 @@
+release/Button.o
+release/Cabin.o
+release/Controller.o
+release/Door.o
+release/Lift.o
+release/main.o
+release/mainwindow.o
+release/moc_Button.o
+release/moc_Cabin.o
+release/moc_Controller.o
+release/moc_Door.o
+release/moc_Lift.o
+release/moc_mainwindow.o

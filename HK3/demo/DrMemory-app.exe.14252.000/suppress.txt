@@ -1,0 +1,212 @@
+# File for suppressing errors found in pid 14252: "app.exe"
+
+# Suppression for Error #1
+UNADDRESSABLE ACCESS
+name=Error #1 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!_pei386_runtime_relocator
+app.exe!__tmainCRTStartup
+app.exe!.l_start
+KERNEL32.dll!BaseThreadInitThunk
+
+## Mod+offs-style suppression for Error #1:
+UNADDRESSABLE ACCESS
+name=Error #1 (update to meaningful name)
+<app.exe+0x341b>
+<app.exe+0x2896>
+<app.exe+0x1251>
+<app.exe+0x14e6>
+<KERNEL32.dll+0x17034>
+
+# Suppression for Error #2
+UNADDRESSABLE ACCESS
+name=Error #2 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #2:
+UNADDRESSABLE ACCESS
+name=Error #2 (update to meaningful name)
+<app.exe+0x3406>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1cc1>
+<app.exe+0x16a7>
+
+# Suppression for Error #3
+UNADDRESSABLE ACCESS
+name=Error #3 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #3:
+UNADDRESSABLE ACCESS
+name=Error #3 (update to meaningful name)
+<app.exe+0x341b>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1cc1>
+<app.exe+0x16a7>
+
+# Suppression for Error #4
+UNADDRESSABLE ACCESS
+name=Error #4 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #4:
+UNADDRESSABLE ACCESS
+name=Error #4 (update to meaningful name)
+<app.exe+0x3406>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1d4a>
+<app.exe+0x16a7>
+
+# Suppression for Error #5
+UNADDRESSABLE ACCESS
+name=Error #5 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #5:
+UNADDRESSABLE ACCESS
+name=Error #5 (update to meaningful name)
+<app.exe+0x341b>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1d4a>
+<app.exe+0x16a7>
+
+# Suppression for Error #6
+UNADDRESSABLE ACCESS
+name=Error #6 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #6:
+UNADDRESSABLE ACCESS
+name=Error #6 (update to meaningful name)
+<app.exe+0x3406>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1cc1>
+<app.exe+0x16dd>
+
+# Suppression for Error #7
+UNADDRESSABLE ACCESS
+name=Error #7 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #7:
+UNADDRESSABLE ACCESS
+name=Error #7 (update to meaningful name)
+<app.exe+0x341b>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1cc1>
+<app.exe+0x16dd>
+
+# Suppression for Error #8
+UNADDRESSABLE ACCESS
+name=Error #8 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #8:
+UNADDRESSABLE ACCESS
+name=Error #8 (update to meaningful name)
+<app.exe+0x3406>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1d4a>
+<app.exe+0x16dd>
+
+# Suppression for Error #9
+UNADDRESSABLE ACCESS
+name=Error #9 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__mingw_vfscanf
+app.exe!fscanf
+app.exe!read_from_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #9:
+UNADDRESSABLE ACCESS
+name=Error #9 (update to meaningful name)
+<app.exe+0x341b>
+<app.exe+0x6f7b>
+<app.exe+0x1bb7>
+<app.exe+0x1d4a>
+<app.exe+0x16dd>
+
+# Suppression for Error #10
+UNADDRESSABLE ACCESS
+name=Error #10 (update to meaningful name)
+app.exe!___chkstk_ms
+app.exe!__pformat_int.isra.0
+app.exe!__mingw_pformat
+app.exe!__mingw_vfprintf
+app.exe!fprintf
+app.exe!write_to_file
+app.exe!main
+
+## Mod+offs-style suppression for Error #10:
+UNADDRESSABLE ACCESS
+name=Error #10 (update to meaningful name)
+<app.exe+0x341b>
+<app.exe+0x808a>
+<app.exe+0x93ae>
+<app.exe+0x345f>
+<app.exe+0x1bfa>
+<app.exe+0x1e17>
+<app.exe+0x180c>
+
+# Suppression for Error #11
+POSSIBLE LEAK
+name=Error #11 (update to meaningful name)
+drmemorylib.dll!replace_malloc
+msvcrt.dll!malloc_crt
+msvcrt.dll!_setargv
+msvcrt.dll!_getmainargs
+app.exe!pre_cpp_init
+msvcrt.dll!initterm
+app.exe!__tmainCRTStartup
+app.exe!.l_start
+KERNEL32.dll!BaseThreadInitThunk
+
+## Mod+offs-style suppression for Error #11:
+POSSIBLE LEAK
+name=Error #11 (update to meaningful name)
+<drmemorylib.dll+0x27f00>
+<msvcrt.dll+0x19f44>
+<msvcrt.dll+0x3b68d>
+<msvcrt.dll+0x7a01>
+<app.exe+0x1173>
+<msvcrt.dll+0x3a553>
+<app.exe+0x1437>
+<app.exe+0x14e6>
+<KERNEL32.dll+0x17034>
+

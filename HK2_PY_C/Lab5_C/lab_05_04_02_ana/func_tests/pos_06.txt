@@ -1,0 +1,1 @@
+./a.exe ft pos_06_in.txt e1

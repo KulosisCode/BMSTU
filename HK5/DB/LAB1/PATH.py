@@ -1,0 +1,11 @@
+PATH_HOUSEWARES = "D:\PROGRAM\HK5\DB\LAB1\data\housewares.txt"
+PATH_BRANDS = "D:\PROGRAM\HK5\DB\LAB1\data\listbrands.txt"
+PATH_CHARACS = "D:\PROGRAM\HK5\DB\LAB1\data\materials.txt"
+PATH_CUSTOMERS = "D:\PROGRAM\HK5\DB\LAB1\data\customers.txt" 
+PATH_STORES = "D:\PROGRAM\HK5\DB\LAB1\data\stores.txt"
+
+PATH_HOUSEWARES_DATABASE = "D:\PROGRAM\HK5\DB\LAB1\csv\housewares.csv"
+PATH_BRANDS_DATABASE = "D:\PROGRAM\HK5\DB\LAB1\csv\listbrands.csv"
+PATH_CHARACS_DATABASE = "D:\PROGRAM\HK5\DB\LAB1\csv\characteristics.csv"
+PATH_CUSTOMERS_DATABASE = "D:\PROGRAM\HK5\DB\LAB1\csv\customers.csv" 
+PATH_STORES_DATABASE = "D:\PROGRAM\HK5\DB\LAB1\csv\stores.csv"

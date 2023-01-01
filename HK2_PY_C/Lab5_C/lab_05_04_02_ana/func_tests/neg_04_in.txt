@@ -1,0 +1,1 @@
+./a.exe ft a.txt a_out.txt hi

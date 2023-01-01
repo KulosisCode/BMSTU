@@ -1,0 +1,1000 @@
+1,Living room,long-term use,rubber
+2,Kitchen,out of date,brass
+3,Kitchen,long-term use,tin
+4,Living room,just bought,mud
+5,Living room,damaged,gas
+6,Bathroom,just bought,tin
+7,Bathroom,long-term use,iron
+8,Kitchen,just bought,steel
+9,Bathroom,damaged,helium
+10,Bedroom,long-term use,dust
+11,Bedroom,long-term use,stone
+12,Kitchen,good,ice
+13,Kitchen,out of date,oil
+14,Kitchen,long-term use,aluminum
+15,Bathroom,long-term use,copper
+16,Bedroom,out of date,cloth
+17,Living room,damaged,coal
+18,Living room,just bought,cement
+19,Living room,just bought,brass
+20,Living room,long-term use,alloy
+21,Bedroom,long-term use,brickbronze
+22,Bedroom,damaged,magnesium
+23,Bathroom,long-term use,slate
+24,Living room,long-term use,smoke
+25,Bathroom,damaged,clay
+26,Bedroom,long-term use,coal
+27,Bedroom,long-term use,ice
+28,Bathroom,damaged,hydrogen
+29,Bathroom,damaged,mud
+30,Living room,damaged,uranium
+31,Living room,out of date,mercury
+32,Bedroom,out of date,uranium
+33,Kitchen,out of date,chalk
+34,Bedroom,damaged,alloy
+35,Bedroom,out of date,petrol
+36,Bathroom,long-term use,mercury
+37,Living room,long-term use,brickbronze
+38,Bathroom,good,cement
+39,Bedroom,just bought,slate
+40,Kitchen,out of date,platinum
+41,Kitchen,long-term use,tin
+42,Bathroom,long-term use,glass
+43,Bedroom,good,cement
+44,Bedroom,out of date,stone
+45,Kitchen,damaged,mortar
+46,Bedroom,long-term use,gas
+47,Bedroom,just bought,mortar
+48,Bedroom,out of date,lace
+49,Living room,good,gold
+50,Kitchen,out of date,rubber
+51,Bedroom,good,cloth
+52,Kitchen,damaged,coal
+53,Bathroom,out of date,gold
+54,Kitchen,damaged,soil
+55,Bedroom,good,chalk
+56,Kitchen,long-term use,mortar
+57,Bedroom,damaged,soil
+58,Bathroom,damaged,magnesium
+59,Bathroom,good,stone
+60,Kitchen,long-term use,glass
+61,Bathroom,out of date,alloy
+62,Kitchen,long-term use,tin
+63,Bathroom,damaged,copper
+64,Bedroom,good,uranium
+65,Kitchen,long-term use,dust
+66,Kitchen,long-term use,fiberglass
+67,Bedroom,good,charcoal
+68,Bathroom,long-term use,stone
+69,Bathroom,just bought,mortar
+70,Bedroom,out of date,marble
+71,Living room,good,chalk
+72,Kitchen,out of date,linen
+73,Living room,just bought,cotton
+74,Bathroom,just bought,leather
+75,Bathroom,long-term use,asbestos
+76,Kitchen,just bought,steel
+77,Bedroom,good,slate
+78,Bedroom,damaged,stone
+79,Living room,damaged,steel
+80,Kitchen,just bought,man-made fibers
+81,Bedroom,just bought,chalk
+82,Kitchen,out of date,chalk
+83,Bedroom,out of date,gas
+84,Kitchen,damaged,2lead
+85,Kitchen,out of date,iron
+86,Kitchen,out of date,paraffin
+87,Bathroom,damaged,petrol
+88,Kitchen,out of date,lace
+89,Bedroom,just bought,paraffin
+90,Living room,good,sand
+91,Bedroom,damaged,cloth
+92,Living room,long-term use,silk
+93,Bedroom,damaged,ice
+94,Living room,damaged,leather
+95,Living room,out of date,dust
+96,Living room,damaged,silk
+97,Kitchen,damaged,helium
+98,Bathroom,out of date,nickel
+99,Living room,damaged,cotton
+100,Kitchen,out of date,platinum
+101,Living room,long-term use,charcoal
+102,Living room,just bought,rubber
+103,Kitchen,long-term use,carbon dioxide
+104,Living room,out of date,mud
+105,Bedroom,damaged,ice
+106,Living room,damaged,2lead
+107,Living room,out of date,smoke
+108,Bathroom,just bought,gold
+109,Bathroom,good,nylon
+110,Bedroom,long-term use,straw
+111,Living room,good,rubber
+112,Bedroom,just bought,cardboard
+113,Bedroom,out of date,ash
+114,Bathroom,just bought,smoke
+115,Living room,out of date,2lead
+116,Bedroom,just bought,steel
+117,Living room,damaged,oxygen
+118,Bedroom,just bought,plaster
+119,Bathroom,damaged,petrol
+120,Kitchen,out of date,helium
+121,Bedroom,out of date,glass
+122,Bathroom,out of date,stone
+123,Bedroom,good,fiberglass
+124,Living room,just bought,alloy
+125,Living room,out of date,copper
+126,Kitchen,just bought,paraffin
+127,Bathroom,good,dust
+128,Bathroom,damaged,steam
+129,Kitchen,just bought,iron
+130,Bathroom,long-term use,plaster
+131,Bedroom,just bought,soil
+132,Bedroom,damaged,cotton
+133,Kitchen,long-term use,nitrogen
+134,Bathroom,good,charcoal
+135,Living room,just bought,fiberglass
+136,Bathroom,just bought,chalk
+137,Kitchen,long-term use,nylon
+138,Bathroom,good,linen
+139,Kitchen,out of date,carbon dioxide
+140,Kitchen,just bought,ash
+141,Bathroom,long-term use,tin
+142,Living room,out of date,copper
+143,Living room,out of date,cardboard
+144,Kitchen,just bought,cotton
+145,Bedroom,just bought,polyester
+146,Kitchen,just bought,alloy
+147,Bedroom,just bought,steam
+148,Bathroom,long-term use,linen
+149,Living room,long-term use,aluminum
+150,Bedroom,out of date,soil
+151,Bedroom,good,cotton
+152,Living room,damaged,charcoal
+153,Bathroom,good,cement
+154,Kitchen,damaged,stone
+155,Bathroom,long-term use,charcoal
+156,Bathroom,good,magnesium
+157,Bedroom,out of date,aluminum
+158,Kitchen,out of date,cardboard
+159,Living room,damaged,carbon dioxide
+160,Bedroom,out of date,bamboo
+161,Bedroom,just bought,soil
+162,Bathroom,out of date,lace
+163,Kitchen,long-term use,tin
+164,Bathroom,just bought,coal
+165,Living room,damaged,cloth
+166,Bathroom,long-term use,dust
+167,Bathroom,long-term use,silver
+168,Living room,just bought,zinc
+169,Bathroom,just bought,oxygen
+170,Kitchen,good,tin
+171,Kitchen,good,straw
+172,Bathroom,just bought,dust
+173,Bedroom,long-term use,straw
+174,Living room,just bought,lace
+175,Bedroom,just bought,nylon
+176,Bedroom,good,sand
+177,Bedroom,damaged,stone
+178,Kitchen,good,uranium
+179,Living room,good,ash
+180,Kitchen,long-term use,nylon
+181,Living room,damaged,magnesium
+182,Bathroom,damaged,cloth
+183,Bathroom,long-term use,slate
+184,Kitchen,damaged,nitrogen
+185,Kitchen,good,aluminum
+186,Kitchen,out of date,gas
+187,Bathroom,damaged,aluminum
+188,Kitchen,long-term use,nickel
+189,Living room,just bought,magnesium
+190,Living room,out of date,chalk
+191,Bathroom,damaged,mercury
+192,Bathroom,out of date,charcoal
+193,Kitchen,out of date,smoke
+194,Kitchen,good,dust
+195,Living room,long-term use,polyester
+196,Bathroom,damaged,smoke
+197,Bathroom,damaged,dust
+198,Kitchen,just bought,mercury
+199,Bathroom,damaged,plaster
+200,Bathroom,long-term use,tin
+201,Kitchen,good,ash
+202,Bathroom,just bought,sand
+203,Bathroom,damaged,mercury
+204,Living room,long-term use,asbestos
+205,Kitchen,out of date,aluminum
+206,Kitchen,just bought,soil
+207,Bedroom,just bought,iron
+208,Kitchen,just bought,magnesium
+209,Living room,good,man-made fibers
+210,Living room,out of date,coal
+211,Kitchen,long-term use,2lead
+212,Kitchen,just bought,brass
+213,Living room,just bought,cement
+214,Bathroom,long-term use,fiberglass
+215,Living room,just bought,oil
+216,Bedroom,good,charcoal
+217,Bathroom,long-term use,oxygen
+218,Kitchen,just bought,leather
+219,Living room,just bought,charcoal
+220,Kitchen,just bought,carbon dioxide
+221,Bedroom,long-term use,steam
+222,Kitchen,long-term use,nickel
+223,Kitchen,damaged,slate
+224,Bathroom,good,bamboo
+225,Bedroom,good,iron
+226,Bathroom,out of date,petrol
+227,Bedroom,just bought,smoke
+228,Kitchen,long-term use,stone
+229,Bedroom,just bought,oil
+230,Living room,out of date,rubber
+231,Bathroom,long-term use,sand
+232,Bedroom,out of date,nickel
+233,Bedroom,damaged,mud
+234,Kitchen,long-term use,steam
+235,Bathroom,good,nickel
+236,Bedroom,good,brickbronze
+237,Bedroom,long-term use,sand
+238,Bathroom,just bought,nitrogen
+239,Bathroom,long-term use,steam
+240,Living room,good,charcoal
+241,Kitchen,just bought,iron
+242,Kitchen,out of date,glass
+243,Kitchen,just bought,oil
+244,Living room,out of date,magnesium
+245,Kitchen,just bought,gas
+246,Kitchen,just bought,polyester
+247,Kitchen,just bought,chalk
+248,Living room,good,marble
+249,Bedroom,just bought,nickel
+250,Kitchen,out of date,brickbronze
+251,Bathroom,out of date,helium
+252,Living room,damaged,cardboard
+253,Bathroom,damaged,coal
+254,Kitchen,long-term use,platinum
+255,Kitchen,just bought,ash
+256,Living room,damaged,paraffin
+257,Bathroom,long-term use,fiberglass
+258,Bedroom,out of date,mercury
+259,Bathroom,just bought,cardboard
+260,Bedroom,just bought,dust
+261,Kitchen,long-term use,hydrogen
+262,Kitchen,damaged,iron
+263,Bathroom,damaged,mercury
+264,Kitchen,just bought,cotton
+265,Kitchen,out of date,magnesium
+266,Kitchen,damaged,glass
+267,Living room,good,smoke
+268,Bathroom,just bought,clay
+269,Living room,long-term use,lace
+270,Bathroom,long-term use,slate
+271,Kitchen,long-term use,helium
+272,Bathroom,good,slate
+273,Bedroom,long-term use,man-made fibers
+274,Kitchen,good,cotton
+275,Living room,out of date,dust
+276,Bathroom,long-term use,charcoal
+277,Kitchen,out of date,fiberglass
+278,Bedroom,good,steel
+279,Bathroom,just bought,charcoal
+280,Kitchen,long-term use,alloy
+281,Bathroom,good,brass
+282,Bathroom,long-term use,oxygen
+283,Kitchen,damaged,coal
+284,Bedroom,out of date,petrol
+285,Bathroom,good,tin
+286,Living room,just bought,gas
+287,Living room,just bought,cardboard
+288,Bathroom,long-term use,oxygen
+289,Kitchen,out of date,zinc
+290,Living room,long-term use,soil
+291,Bathroom,out of date,stone
+292,Living room,good,fiberglass
+293,Living room,out of date,leather
+294,Kitchen,long-term use,hydrogen
+295,Bathroom,good,aluminum
+296,Kitchen,damaged,zinc
+297,Bedroom,damaged,hydrogen
+298,Living room,damaged,chalk
+299,Kitchen,just bought,rubber
+300,Living room,out of date,2lead
+301,Bedroom,just bought,plaster
+302,Bedroom,out of date,iron
+303,Living room,long-term use,steam
+304,Living room,good,paper
+305,Kitchen,just bought,carbon dioxide
+306,Kitchen,out of date,ice
+307,Bedroom,damaged,sand
+308,Bedroom,good,rubber
+309,Living room,out of date,gas
+310,Living room,just bought,hydrogen
+311,Bedroom,long-term use,nickel
+312,Kitchen,damaged,rubber
+313,Bathroom,good,alloy
+314,Bathroom,just bought,cement
+315,Bedroom,damaged,stone
+316,Living room,good,brass
+317,Bathroom,just bought,mercury
+318,Kitchen,good,paper
+319,Kitchen,long-term use,charcoal
+320,Bathroom,long-term use,slate
+321,Kitchen,just bought,iron
+322,Bathroom,long-term use,cardboard
+323,Bedroom,good,zinc
+324,Living room,good,oil
+325,Bathroom,long-term use,dust
+326,Kitchen,damaged,leather
+327,Bathroom,long-term use,paper
+328,Kitchen,good,steel
+329,Kitchen,good,nickel
+330,Bathroom,out of date,alloy
+331,Bedroom,good,magnesium
+332,Living room,good,paraffin
+333,Bedroom,good,asbestos
+334,Bedroom,out of date,coal
+335,Bedroom,out of date,lace
+336,Bedroom,out of date,ice
+337,Kitchen,just bought,straw
+338,Living room,good,oxygen
+339,Bathroom,out of date,man-made fibers
+340,Bathroom,damaged,asbestos
+341,Living room,out of date,magnesium
+342,Kitchen,long-term use,tin
+343,Bathroom,damaged,cement
+344,Living room,out of date,polyester
+345,Living room,just bought,silk
+346,Bedroom,just bought,sand
+347,Bathroom,good,asbestos
+348,Bathroom,damaged,aluminum
+349,Bathroom,long-term use,gas
+350,Living room,damaged,nylon
+351,Living room,good,cotton
+352,Living room,out of date,coal
+353,Living room,out of date,petrol
+354,Bathroom,damaged,smoke
+355,Living room,out of date,ice
+356,Bathroom,out of date,platinum
+357,Bedroom,damaged,oil
+358,Living room,out of date,alloy
+359,Kitchen,long-term use,petrol
+360,Kitchen,out of date,sand
+361,Bedroom,good,brass
+362,Bedroom,good,dust
+363,Bathroom,out of date,cotton
+364,Bedroom,out of date,rubber
+365,Bedroom,good,iron
+366,Kitchen,just bought,ash
+367,Bedroom,good,plaster
+368,Kitchen,long-term use,gold
+369,Bedroom,damaged,paper
+370,Living room,damaged,marble
+371,Bathroom,damaged,man-made fibers
+372,Living room,just bought,fiberglass
+373,Living room,long-term use,marble
+374,Kitchen,out of date,brass
+375,Kitchen,good,cement
+376,Kitchen,good,cardboard
+377,Kitchen,damaged,nitrogen
+378,Bedroom,good,dust
+379,Bedroom,damaged,magnesium
+380,Bathroom,just bought,steel
+381,Bathroom,damaged,cement
+382,Kitchen,just bought,charcoal
+383,Bathroom,good,soil
+384,Bathroom,just bought,mercury
+385,Living room,just bought,man-made fibers
+386,Kitchen,out of date,2lead
+387,Bedroom,good,coal
+388,Bathroom,out of date,paraffin
+389,Kitchen,out of date,steam
+390,Kitchen,just bought,silver
+391,Living room,long-term use,marble
+392,Living room,good,cement
+393,Bedroom,good,smoke
+394,Bedroom,damaged,linen
+395,Kitchen,good,sand
+396,Bathroom,long-term use,leather
+397,Bathroom,good,cement
+398,Bathroom,damaged,uranium
+399,Kitchen,good,ice
+400,Kitchen,out of date,cardboard
+401,Bathroom,just bought,rubber
+402,Bedroom,long-term use,stone
+403,Kitchen,out of date,aluminum
+404,Living room,damaged,smoke
+405,Bedroom,damaged,mud
+406,Kitchen,out of date,mercury
+407,Bedroom,good,stone
+408,Bathroom,good,magnesium
+409,Living room,damaged,paper
+410,Bathroom,good,rubber
+411,Kitchen,out of date,silver
+412,Bathroom,out of date,iron
+413,Bedroom,good,rubber
+414,Bathroom,good,paraffin
+415,Bathroom,out of date,fiberglass
+416,Bathroom,just bought,paraffin
+417,Kitchen,out of date,steam
+418,Bathroom,out of date,clay
+419,Bathroom,damaged,steam
+420,Kitchen,out of date,straw
+421,Kitchen,out of date,helium
+422,Bathroom,long-term use,cardboard
+423,Kitchen,damaged,charcoal
+424,Bedroom,good,soil
+425,Living room,out of date,marble
+426,Bathroom,just bought,steam
+427,Living room,long-term use,leather
+428,Bathroom,long-term use,asbestos
+429,Bathroom,out of date,uranium
+430,Living room,out of date,brass
+431,Kitchen,out of date,copper
+432,Living room,damaged,copper
+433,Bedroom,out of date,dust
+434,Kitchen,good,paraffin
+435,Bedroom,out of date,magnesium
+436,Bathroom,damaged,marble
+437,Kitchen,out of date,sand
+438,Bedroom,out of date,fiberglass
+439,Bedroom,out of date,cement
+440,Bedroom,long-term use,steel
+441,Living room,damaged,linen
+442,Kitchen,good,stone
+443,Bedroom,damaged,chalk
+444,Kitchen,long-term use,nitrogen
+445,Kitchen,good,carbon dioxide
+446,Living room,long-term use,asbestos
+447,Kitchen,long-term use,oxygen
+448,Bedroom,out of date,silver
+449,Living room,just bought,uranium
+450,Living room,good,silver
+451,Kitchen,good,nitrogen
+452,Living room,long-term use,cloth
+453,Kitchen,just bought,glass
+454,Living room,just bought,sand
+455,Living room,out of date,slate
+456,Kitchen,just bought,zinc
+457,Kitchen,just bought,slate
+458,Bedroom,just bought,cement
+459,Bathroom,just bought,plaster
+460,Bedroom,good,brass
+461,Living room,good,cement
+462,Kitchen,out of date,oxygen
+463,Bathroom,out of date,gas
+464,Bathroom,long-term use,uranium
+465,Bathroom,long-term use,chalk
+466,Living room,good,slate
+467,Bathroom,damaged,cement
+468,Kitchen,damaged,2lead
+469,Bedroom,out of date,bamboo
+470,Bedroom,damaged,copper
+471,Living room,just bought,nitrogen
+472,Bathroom,long-term use,mercury
+473,Bathroom,damaged,coal
+474,Bathroom,good,hydrogen
+475,Living room,damaged,leather
+476,Bedroom,good,iron
+477,Bedroom,just bought,slate
+478,Living room,good,paper
+479,Kitchen,good,mercury
+480,Bathroom,out of date,uranium
+481,Bedroom,damaged,petrol
+482,Bathroom,damaged,clay
+483,Living room,good,dust
+484,Bathroom,damaged,helium
+485,Bathroom,just bought,iron
+486,Living room,long-term use,alloy
+487,Kitchen,good,smoke
+488,Bedroom,damaged,sand
+489,Bathroom,out of date,steel
+490,Living room,good,steel
+491,Bathroom,out of date,charcoal
+492,Bathroom,out of date,mercury
+493,Kitchen,good,charcoal
+494,Bathroom,long-term use,smoke
+495,Bedroom,damaged,steam
+496,Living room,just bought,bamboo
+497,Kitchen,just bought,carbon dioxide
+498,Bathroom,out of date,leather
+499,Living room,long-term use,nylon
+500,Kitchen,just bought,copper
+501,Kitchen,long-term use,steam
+502,Bedroom,long-term use,oxygen
+503,Kitchen,good,oxygen
+504,Living room,good,mortar
+505,Bathroom,just bought,leather
+506,Kitchen,long-term use,magnesium
+507,Kitchen,long-term use,carbon dioxide
+508,Bedroom,out of date,straw
+509,Living room,long-term use,sand
+510,Living room,long-term use,fiberglass
+511,Kitchen,out of date,copper
+512,Kitchen,damaged,linen
+513,Bedroom,good,silver
+514,Bedroom,good,charcoal
+515,Bedroom,just bought,silk
+516,Living room,damaged,slate
+517,Bedroom,damaged,cloth
+518,Living room,good,lace
+519,Kitchen,damaged,aluminum
+520,Bathroom,just bought,man-made fibers
+521,Kitchen,good,platinum
+522,Kitchen,damaged,plaster
+523,Kitchen,out of date,charcoal
+524,Living room,long-term use,cotton
+525,Bathroom,just bought,rubber
+526,Bedroom,out of date,lace
+527,Kitchen,damaged,glass
+528,Bathroom,just bought,leather
+529,Bathroom,damaged,clay
+530,Bathroom,long-term use,stone
+531,Living room,just bought,charcoal
+532,Bathroom,good,clay
+533,Kitchen,just bought,platinum
+534,Living room,good,mercury
+535,Bathroom,long-term use,cement
+536,Bathroom,damaged,nickel
+537,Kitchen,damaged,tin
+538,Kitchen,damaged,silk
+539,Kitchen,good,paraffin
+540,Kitchen,long-term use,hydrogen
+541,Bedroom,good,cardboard
+542,Living room,damaged,rubber
+543,Bedroom,just bought,tin
+544,Bedroom,just bought,petrol
+545,Bathroom,just bought,soil
+546,Bathroom,long-term use,ice
+547,Bedroom,good,sand
+548,Bathroom,just bought,carbon dioxide
+549,Bathroom,long-term use,charcoal
+550,Bedroom,good,brickbronze
+551,Bedroom,out of date,aluminum
+552,Bedroom,out of date,bamboo
+553,Living room,damaged,mortar
+554,Kitchen,just bought,nickel
+555,Bedroom,just bought,asbestos
+556,Bedroom,just bought,zinc
+557,Living room,damaged,lace
+558,Living room,good,clay
+559,Kitchen,just bought,mud
+560,Bathroom,long-term use,hydrogen
+561,Bedroom,damaged,alloy
+562,Bedroom,long-term use,ash
+563,Kitchen,long-term use,magnesium
+564,Living room,good,silver
+565,Bedroom,just bought,charcoal
+566,Kitchen,damaged,mortar
+567,Living room,just bought,dust
+568,Bathroom,damaged,smoke
+569,Kitchen,good,straw
+570,Bedroom,just bought,man-made fibers
+571,Kitchen,out of date,hydrogen
+572,Living room,long-term use,fiberglass
+573,Bedroom,good,brickbronze
+574,Kitchen,good,smoke
+575,Bedroom,just bought,linen
+576,Living room,just bought,brickbronze
+577,Kitchen,out of date,sand
+578,Living room,long-term use,bamboo
+579,Bedroom,out of date,ash
+580,Living room,good,leather
+581,Bathroom,long-term use,rubber
+582,Bathroom,long-term use,straw
+583,Kitchen,out of date,silver
+584,Bedroom,long-term use,nickel
+585,Bathroom,damaged,asbestos
+586,Bathroom,out of date,man-made fibers
+587,Bathroom,just bought,iron
+588,Kitchen,good,asbestos
+589,Bathroom,long-term use,charcoal
+590,Bathroom,just bought,carbon dioxide
+591,Living room,out of date,asbestos
+592,Kitchen,just bought,uranium
+593,Kitchen,good,stone
+594,Kitchen,damaged,glass
+595,Bedroom,long-term use,cardboard
+596,Bedroom,just bought,steam
+597,Living room,just bought,polyester
+598,Bathroom,just bought,clay
+599,Bedroom,good,platinum
+600,Bathroom,out of date,petrol
+601,Living room,good,helium
+602,Kitchen,damaged,smoke
+603,Bathroom,long-term use,iron
+604,Bedroom,just bought,copper
+605,Bedroom,damaged,zinc
+606,Bedroom,out of date,marble
+607,Living room,damaged,aluminum
+608,Bedroom,damaged,lace
+609,Bathroom,just bought,mortar
+610,Bathroom,out of date,rubber
+611,Living room,good,platinum
+612,Bedroom,long-term use,dust
+613,Kitchen,out of date,polyester
+614,Bedroom,just bought,tin
+615,Kitchen,good,lace
+616,Bathroom,long-term use,polyester
+617,Bathroom,long-term use,alloy
+618,Living room,long-term use,alloy
+619,Living room,out of date,zinc
+620,Bathroom,long-term use,man-made fibers
+621,Kitchen,just bought,steel
+622,Living room,just bought,magnesium
+623,Bedroom,damaged,tin
+624,Living room,damaged,mud
+625,Kitchen,out of date,nylon
+626,Kitchen,out of date,straw
+627,Kitchen,long-term use,alloy
+628,Kitchen,long-term use,gas
+629,Bathroom,good,marble
+630,Living room,just bought,platinum
+631,Bathroom,just bought,cloth
+632,Living room,good,platinum
+633,Kitchen,good,clay
+634,Kitchen,good,copper
+635,Bedroom,damaged,silk
+636,Bathroom,long-term use,glass
+637,Kitchen,out of date,oxygen
+638,Bathroom,out of date,gold
+639,Bedroom,just bought,copper
+640,Living room,good,hydrogen
+641,Kitchen,just bought,bamboo
+642,Bathroom,long-term use,glass
+643,Bedroom,long-term use,straw
+644,Kitchen,long-term use,mercury
+645,Bedroom,damaged,2lead
+646,Living room,damaged,brass
+647,Kitchen,long-term use,brickbronze
+648,Kitchen,just bought,gold
+649,Bathroom,long-term use,soil
+650,Kitchen,out of date,smoke
+651,Living room,good,nylon
+652,Bedroom,out of date,sand
+653,Bedroom,just bought,aluminum
+654,Kitchen,damaged,soil
+655,Living room,damaged,cloth
+656,Living room,damaged,marble
+657,Bathroom,long-term use,silk
+658,Bathroom,out of date,stone
+659,Bathroom,out of date,petrol
+660,Living room,damaged,paper
+661,Bathroom,just bought,cardboard
+662,Kitchen,out of date,bamboo
+663,Living room,damaged,cloth
+664,Living room,good,brickbronze
+665,Living room,good,dust
+666,Living room,long-term use,carbon dioxide
+667,Living room,damaged,linen
+668,Living room,out of date,coal
+669,Bathroom,long-term use,alloy
+670,Bathroom,just bought,platinum
+671,Bedroom,long-term use,gas
+672,Kitchen,out of date,leather
+673,Living room,out of date,mercury
+674,Kitchen,out of date,asbestos
+675,Bedroom,long-term use,ash
+676,Bathroom,just bought,oxygen
+677,Bathroom,long-term use,carbon dioxide
+678,Bedroom,damaged,smoke
+679,Bedroom,damaged,cotton
+680,Bathroom,out of date,uranium
+681,Kitchen,good,iron
+682,Kitchen,out of date,lace
+683,Bedroom,just bought,magnesium
+684,Bedroom,good,fiberglass
+685,Bedroom,out of date,oil
+686,Living room,damaged,soil
+687,Kitchen,good,gold
+688,Bedroom,long-term use,petrol
+689,Bedroom,damaged,ice
+690,Living room,damaged,clay
+691,Bedroom,damaged,cement
+692,Bathroom,just bought,gold
+693,Bathroom,damaged,clay
+694,Bedroom,out of date,fiberglass
+695,Living room,good,alloy
+696,Bathroom,out of date,soil
+697,Living room,damaged,nylon
+698,Bathroom,out of date,carbon dioxide
+699,Kitchen,just bought,plaster
+700,Bedroom,just bought,cardboard
+701,Kitchen,long-term use,iron
+702,Bathroom,damaged,glass
+703,Living room,long-term use,smoke
+704,Bedroom,good,stone
+705,Bathroom,long-term use,clay
+706,Bedroom,long-term use,magnesium
+707,Living room,damaged,coal
+708,Kitchen,just bought,uranium
+709,Living room,good,silk
+710,Kitchen,long-term use,steel
+711,Bedroom,good,plaster
+712,Bedroom,good,asbestos
+713,Bathroom,out of date,cloth
+714,Bathroom,long-term use,slate
+715,Kitchen,good,2lead
+716,Living room,long-term use,slate
+717,Living room,good,oxygen
+718,Bathroom,long-term use,mud
+719,Living room,long-term use,gold
+720,Bedroom,damaged,plaster
+721,Bedroom,just bought,stone
+722,Kitchen,out of date,mortar
+723,Kitchen,just bought,oil
+724,Kitchen,out of date,marble
+725,Living room,just bought,stone
+726,Living room,long-term use,stone
+727,Bedroom,good,soil
+728,Living room,long-term use,nitrogen
+729,Bathroom,damaged,nylon
+730,Bedroom,long-term use,cloth
+731,Bedroom,long-term use,cardboard
+732,Bedroom,out of date,oil
+733,Living room,long-term use,plaster
+734,Bedroom,long-term use,brass
+735,Bathroom,just bought,cardboard
+736,Bedroom,just bought,charcoal
+737,Bedroom,good,polyester
+738,Bathroom,long-term use,dust
+739,Bathroom,just bought,paraffin
+740,Living room,out of date,oxygen
+741,Bathroom,long-term use,cloth
+742,Bathroom,damaged,leather
+743,Bedroom,good,silk
+744,Bathroom,long-term use,nylon
+745,Bathroom,long-term use,paraffin
+746,Bedroom,just bought,aluminum
+747,Bedroom,out of date,brickbronze
+748,Kitchen,good,aluminum
+749,Bathroom,long-term use,marble
+750,Bathroom,out of date,chalk
+751,Kitchen,damaged,paper
+752,Living room,good,brickbronze
+753,Bathroom,out of date,platinum
+754,Bathroom,long-term use,zinc
+755,Kitchen,long-term use,tin
+756,Living room,out of date,gold
+757,Bathroom,damaged,tin
+758,Bedroom,just bought,silver
+759,Bedroom,just bought,magnesium
+760,Bedroom,long-term use,nylon
+761,Bedroom,good,steel
+762,Kitchen,damaged,polyester
+763,Bedroom,just bought,fiberglass
+764,Bedroom,long-term use,plaster
+765,Bedroom,damaged,sand
+766,Bedroom,out of date,oil
+767,Bathroom,long-term use,coal
+768,Kitchen,damaged,iron
+769,Bedroom,out of date,cement
+770,Bedroom,just bought,coal
+771,Bedroom,good,nickel
+772,Kitchen,out of date,zinc
+773,Bathroom,out of date,mercury
+774,Kitchen,just bought,cotton
+775,Bathroom,damaged,mortar
+776,Kitchen,just bought,polyester
+777,Bathroom,long-term use,copper
+778,Bedroom,damaged,brass
+779,Living room,long-term use,sand
+780,Living room,just bought,polyester
+781,Living room,just bought,copper
+782,Bathroom,good,oxygen
+783,Kitchen,out of date,tin
+784,Kitchen,damaged,nickel
+785,Bedroom,long-term use,paper
+786,Bedroom,good,iron
+787,Bedroom,just bought,bamboo
+788,Bathroom,damaged,mud
+789,Kitchen,damaged,straw
+790,Living room,just bought,tin
+791,Living room,just bought,silk
+792,Bedroom,damaged,man-made fibers
+793,Kitchen,long-term use,nickel
+794,Living room,just bought,chalk
+795,Kitchen,damaged,straw
+796,Kitchen,just bought,alloy
+797,Living room,long-term use,cotton
+798,Bedroom,just bought,copper
+799,Bedroom,just bought,mortar
+800,Bathroom,long-term use,chalk
+801,Living room,damaged,mercury
+802,Bedroom,out of date,oxygen
+803,Kitchen,long-term use,oxygen
+804,Bathroom,just bought,soil
+805,Living room,damaged,paraffin
+806,Bedroom,damaged,helium
+807,Bathroom,out of date,petrol
+808,Bathroom,long-term use,dust
+809,Bedroom,out of date,silver
+810,Bathroom,just bought,rubber
+811,Bathroom,long-term use,ash
+812,Kitchen,just bought,sand
+813,Kitchen,long-term use,magnesium
+814,Bedroom,long-term use,2lead
+815,Bathroom,out of date,cotton
+816,Kitchen,just bought,clay
+817,Kitchen,out of date,paraffin
+818,Kitchen,good,cotton
+819,Bedroom,long-term use,straw
+820,Kitchen,good,glass
+821,Bathroom,damaged,mercury
+822,Kitchen,damaged,paraffin
+823,Bathroom,good,carbon dioxide
+824,Kitchen,long-term use,ice
+825,Living room,out of date,soil
+826,Kitchen,damaged,carbon dioxide
+827,Bedroom,damaged,oxygen
+828,Kitchen,damaged,uranium
+829,Living room,out of date,sand
+830,Bedroom,just bought,charcoal
+831,Living room,damaged,oxygen
+832,Kitchen,long-term use,zinc
+833,Bathroom,just bought,glass
+834,Bedroom,damaged,silk
+835,Bathroom,long-term use,uranium
+836,Living room,long-term use,gas
+837,Living room,just bought,brickbronze
+838,Living room,damaged,leather
+839,Kitchen,just bought,brass
+840,Bathroom,good,ice
+841,Bathroom,damaged,brickbronze
+842,Bathroom,just bought,man-made fibers
+843,Bathroom,out of date,rubber
+844,Bedroom,long-term use,asbestos
+845,Bathroom,out of date,oxygen
+846,Bedroom,good,brickbronze
+847,Living room,good,clay
+848,Kitchen,good,stone
+849,Bedroom,damaged,slate
+850,Living room,long-term use,straw
+851,Kitchen,out of date,linen
+852,Kitchen,just bought,stone
+853,Kitchen,good,paper
+854,Bedroom,just bought,sand
+855,Kitchen,good,leather
+856,Kitchen,good,oil
+857,Kitchen,damaged,man-made fibers
+858,Bedroom,long-term use,zinc
+859,Bathroom,just bought,brickbronze
+860,Kitchen,just bought,alloy
+861,Bedroom,damaged,brickbronze
+862,Bedroom,damaged,tin
+863,Bedroom,good,hydrogen
+864,Bedroom,damaged,cloth
+865,Bathroom,damaged,oxygen
+866,Living room,just bought,copper
+867,Bathroom,out of date,paraffin
+868,Living room,good,charcoal
+869,Bedroom,good,sand
+870,Kitchen,just bought,copper
+871,Living room,good,chalk
+872,Kitchen,damaged,clay
+873,Bathroom,damaged,mercury
+874,Kitchen,good,straw
+875,Bathroom,just bought,oil
+876,Kitchen,good,oil
+877,Bathroom,long-term use,steam
+878,Kitchen,good,brickbronze
+879,Living room,just bought,asbestos
+880,Living room,just bought,leather
+881,Kitchen,good,magnesium
+882,Living room,damaged,petrol
+883,Living room,damaged,aluminum
+884,Kitchen,long-term use,oil
+885,Living room,out of date,nylon
+886,Kitchen,out of date,glass
+887,Kitchen,good,silk
+888,Bedroom,just bought,linen
+889,Bathroom,long-term use,mortar
+890,Living room,long-term use,carbon dioxide
+891,Bedroom,out of date,polyester
+892,Bathroom,good,dust
+893,Kitchen,just bought,alloy
+894,Bedroom,damaged,glass
+895,Bedroom,good,silver
+896,Kitchen,out of date,steam
+897,Bedroom,long-term use,clay
+898,Living room,good,nickel
+899,Kitchen,just bought,brickbronze
+900,Bedroom,good,lace
+901,Bathroom,out of date,ash
+902,Bedroom,damaged,paper
+903,Kitchen,damaged,asbestos
+904,Bathroom,out of date,steel
+905,Kitchen,out of date,ash
+906,Bedroom,long-term use,carbon dioxide
+907,Bathroom,damaged,hydrogen
+908,Living room,just bought,straw
+909,Living room,damaged,bamboo
+910,Bedroom,long-term use,leather
+911,Living room,just bought,nylon
+912,Bedroom,good,platinum
+913,Bathroom,long-term use,tin
+914,Kitchen,damaged,cloth
+915,Kitchen,long-term use,soil
+916,Living room,out of date,cement
+917,Bathroom,just bought,ice
+918,Bedroom,damaged,petrol
+919,Kitchen,long-term use,coal
+920,Bedroom,long-term use,iron
+921,Bedroom,long-term use,uranium
+922,Bathroom,damaged,aluminum
+923,Bathroom,damaged,platinum
+924,Living room,damaged,rubber
+925,Living room,long-term use,coal
+926,Kitchen,good,paraffin
+927,Living room,good,steam
+928,Kitchen,just bought,platinum
+929,Kitchen,good,cement
+930,Bedroom,good,carbon dioxide
+931,Bedroom,damaged,aluminum
+932,Kitchen,out of date,silk
+933,Bedroom,just bought,chalk
+934,Bathroom,out of date,mud
+935,Bathroom,good,bamboo
+936,Bathroom,just bought,petrol
+937,Kitchen,damaged,nitrogen
+938,Bathroom,just bought,cloth
+939,Living room,damaged,oil
+940,Kitchen,good,gas
+941,Living room,long-term use,clay
+942,Bathroom,damaged,brickbronze
+943,Bathroom,long-term use,cardboard
+944,Bathroom,damaged,petrol
+945,Bedroom,long-term use,iron
+946,Kitchen,out of date,marble
+947,Living room,damaged,bamboo
+948,Kitchen,long-term use,gas
+949,Living room,out of date,tin
+950,Living room,damaged,gold
+951,Kitchen,just bought,brickbronze
+952,Bedroom,out of date,zinc
+953,Bathroom,just bought,platinum
+954,Bathroom,damaged,steel
+955,Living room,out of date,plaster
+956,Bathroom,long-term use,chalk
+957,Bathroom,damaged,slate
+958,Bathroom,just bought,straw
+959,Kitchen,just bought,coal
+960,Bathroom,damaged,bamboo
+961,Bathroom,out of date,paper
+962,Living room,long-term use,carbon dioxide
+963,Living room,just bought,silk
+964,Bedroom,just bought,ice
+965,Living room,long-term use,steel
+966,Kitchen,just bought,brass
+967,Bedroom,long-term use,mud
+968,Bedroom,just bought,mortar
+969,Bedroom,long-term use,mercury
+970,Kitchen,damaged,ash
+971,Bathroom,out of date,helium
+972,Kitchen,out of date,cardboard
+973,Bathroom,just bought,rubber
+974,Bathroom,out of date,oxygen
+975,Bedroom,out of date,nylon
+976,Living room,just bought,leather
+977,Bedroom,good,oil
+978,Kitchen,just bought,zinc
+979,Bathroom,damaged,ice
+980,Bedroom,out of date,straw
+981,Living room,good,lace
+982,Kitchen,just bought,cotton
+983,Bathroom,long-term use,brass
+984,Bathroom,long-term use,coal
+985,Living room,just bought,carbon dioxide
+986,Bedroom,long-term use,man-made fibers
+987,Bedroom,damaged,plaster
+988,Bedroom,good,iron
+989,Bedroom,out of date,helium
+990,Living room,out of date,magnesium
+991,Bathroom,long-term use,paper
+992,Kitchen,just bought,nitrogen
+993,Living room,long-term use,steam
+994,Living room,just bought,mercury
+995,Living room,just bought,lace
+996,Kitchen,good,cloth
+997,Bedroom,just bought,uranium
+998,Bathroom,just bought,paraffin
+999,Bedroom,damaged,fiberglass
+1000,Living room,long-term use,paraffin

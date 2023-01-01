@@ -1,0 +1,1000 @@
+{"id":10,"name":"Washing-up liquid","price":5754,"date_sale":"1979-12-24","id_type":983,"id_brand":387,"id_customer":222,"id_store":806}
+{"id":5,"name":"Glass cleaner","price":50,"date_sale":"1987-07-16","id_type":765,"id_brand":595,"id_customer":528,"id_store":50}
+{"id":1,"name":"Vacuum cleaner","price":230,"date_sale":"2000-06-27","id_type":936,"id_brand":616,"id_customer":176,"id_store":620}
+{"id":2,"name":"Rubbish bin and bin bags","price":7296,"date_sale":"1970-02-19","id_type":564,"id_brand":75,"id_customer":770,"id_store":296}
+{"id":3,"name":"Toaster","price":1470,"date_sale":"1983-04-12","id_type":52,"id_brand":442,"id_customer":430,"id_store":3}
+{"id":4,"name":"Mop and bucket","price":2951,"date_sale":"1987-03-16","id_type":547,"id_brand":946,"id_customer":596,"id_store":174}
+{"id":6,"name":"Rubbish bin and bin bags","price":1665,"date_sale":"2015-03-25","id_type":430,"id_brand":215,"id_customer":520,"id_store":338}
+{"id":7,"name":"Measuring tape","price":7733,"date_sale":"2007-11-29","id_type":738,"id_brand":13,"id_customer":37,"id_store":107}
+{"id":8,"name":"Washing-up liquid","price":3290,"date_sale":"2012-09-25","id_type":65,"id_brand":358,"id_customer":688,"id_store":711}
+{"id":9,"name":"Measuring tape","price":2774,"date_sale":"2014-03-29","id_type":128,"id_brand":937,"id_customer":628,"id_store":369}
+{"id":11,"name":"Floor cleaner","price":7642,"date_sale":"1986-04-15","id_type":705,"id_brand":897,"id_customer":167,"id_store":210}
+{"id":12,"name":"Mop and bucket","price":9985,"date_sale":"1975-10-12","id_type":788,"id_brand":956,"id_customer":897,"id_store":834}
+{"id":13,"name":"Mixing bowl","price":8628,"date_sale":"2000-12-24","id_type":279,"id_brand":581,"id_customer":107,"id_store":497}
+{"id":14,"name":"Shower squeegee","price":3494,"date_sale":"2018-07-21","id_type":786,"id_brand":766,"id_customer":910,"id_store":905}
+{"id":15,"name":"Couch","price":7572,"date_sale":"1986-11-09","id_type":698,"id_brand":643,"id_customer":784,"id_store":637}
+{"id":16,"name":"Fire extinguisher","price":9858,"date_sale":"1980-06-15","id_type":774,"id_brand":925,"id_customer":701,"id_store":821}
+{"id":17,"name":"Toilet brush","price":1096,"date_sale":"2018-09-21","id_type":200,"id_brand":323,"id_customer":314,"id_store":910}
+{"id":18,"name":"Can opener","price":6523,"date_sale":"2019-03-07","id_type":562,"id_brand":817,"id_customer":587,"id_store":128}
+{"id":19,"name":"Sellotape","price":7227,"date_sale":"1994-09-08","id_type":149,"id_brand":843,"id_customer":421,"id_store":447}
+{"id":20,"name":"Bathroom mat","price":6244,"date_sale":"1998-09-29","id_type":12,"id_brand":807,"id_customer":175,"id_store":162}
+{"id":21,"name":"Nail scissors","price":5231,"date_sale":"2011-09-26","id_type":285,"id_brand":149,"id_customer":829,"id_store":828}
+{"id":22,"name":"Wiping cloths","price":5242,"date_sale":"2008-06-08","id_type":388,"id_brand":14,"id_customer":201,"id_store":559}
+{"id":23,"name":"A mirror","price":6863,"date_sale":"2010-10-03","id_type":220,"id_brand":926,"id_customer":192,"id_store":828}
+{"id":24,"name":"Plug extension leads","price":8460,"date_sale":"1987-03-05","id_type":103,"id_brand":734,"id_customer":792,"id_store":680}
+{"id":25,"name":"Pots and pans","price":6582,"date_sale":"2013-02-10","id_type":83,"id_brand":382,"id_customer":774,"id_store":670}
+{"id":26,"name":"Chairs","price":6979,"date_sale":"1996-08-01","id_type":891,"id_brand":45,"id_customer":893,"id_store":328}
+{"id":27,"name":"A TV cable","price":9706,"date_sale":"1986-07-19","id_type":792,"id_brand":826,"id_customer":234,"id_store":479}
+{"id":28,"name":"Sponge","price":9168,"date_sale":"1992-03-16","id_type":521,"id_brand":250,"id_customer":600,"id_store":356}
+{"id":29,"name":"Pots and pans","price":7415,"date_sale":"1997-06-24","id_type":957,"id_brand":137,"id_customer":871,"id_store":104}
+{"id":30,"name":"Toilet roll","price":4058,"date_sale":"1980-05-16","id_type":643,"id_brand":402,"id_customer":678,"id_store":354}
+{"id":31,"name":"Sponge","price":3912,"date_sale":"1980-06-09","id_type":651,"id_brand":626,"id_customer":45,"id_store":490}
+{"id":32,"name":"Mugs","price":9751,"date_sale":"2005-08-15","id_type":56,"id_brand":253,"id_customer":223,"id_store":395}
+{"id":33,"name":"Batteries","price":4607,"date_sale":"1991-06-17","id_type":379,"id_brand":3,"id_customer":50,"id_store":13}
+{"id":34,"name":"Pots and pans","price":3640,"date_sale":"1991-06-08","id_type":745,"id_brand":853,"id_customer":285,"id_store":988}
+{"id":35,"name":"Plasters","price":6940,"date_sale":"1976-01-07","id_type":475,"id_brand":893,"id_customer":687,"id_store":71}
+{"id":36,"name":"Floor cleaner","price":1735,"date_sale":"1972-08-18","id_type":54,"id_brand":796,"id_customer":753,"id_store":570}
+{"id":37,"name":"Coffee table","price":1569,"date_sale":"2010-04-02","id_type":808,"id_brand":957,"id_customer":114,"id_store":528}
+{"id":38,"name":"Scissors","price":6397,"date_sale":"1990-06-01","id_type":170,"id_brand":162,"id_customer":791,"id_store":829}
+{"id":39,"name":"Chest of drawers","price":3111,"date_sale":"2009-05-26","id_type":175,"id_brand":479,"id_customer":215,"id_store":856}
+{"id":40,"name":"Bandages","price":7674,"date_sale":"2010-12-06","id_type":800,"id_brand":830,"id_customer":805,"id_store":768}
+{"id":41,"name":"Smoke alarm","price":2920,"date_sale":"1982-09-27","id_type":448,"id_brand":492,"id_customer":841,"id_store":353}
+{"id":42,"name":"Nail scissors","price":9241,"date_sale":"1984-09-24","id_type":893,"id_brand":212,"id_customer":341,"id_store":795}
+{"id":43,"name":"Shower squeegee","price":9548,"date_sale":"1996-06-10","id_type":821,"id_brand":364,"id_customer":583,"id_store":808}
+{"id":44,"name":"Kitchen and bathroom spray","price":4434,"date_sale":"2018-05-02","id_type":224,"id_brand":408,"id_customer":568,"id_store":414}
+{"id":45,"name":"Torch","price":9614,"date_sale":"2007-05-16","id_type":33,"id_brand":171,"id_customer":705,"id_store":126}
+{"id":46,"name":"Pots and pans","price":9378,"date_sale":"1989-10-14","id_type":48,"id_brand":983,"id_customer":394,"id_store":579}
+{"id":47,"name":"Glass cleaner","price":7660,"date_sale":"2001-02-14","id_type":416,"id_brand":967,"id_customer":875,"id_store":237}
+{"id":48,"name":"Kitchen and bathroom spray","price":2329,"date_sale":"2021-03-21","id_type":491,"id_brand":839,"id_customer":910,"id_store":974}
+{"id":49,"name":"Salt and pepper shakers","price":306,"date_sale":"1999-04-19","id_type":796,"id_brand":288,"id_customer":922,"id_store":253}
+{"id":50,"name":"Coffee table","price":3208,"date_sale":"2019-07-24","id_type":471,"id_brand":936,"id_customer":807,"id_store":686}
+{"id":51,"name":"Floor cleaner","price":8302,"date_sale":"2014-03-11","id_type":73,"id_brand":699,"id_customer":954,"id_store":244}
+{"id":52,"name":"Toilet brush","price":5143,"date_sale":"2000-08-15","id_type":362,"id_brand":1,"id_customer":279,"id_store":872}
+{"id":53,"name":"Screws","price":7064,"date_sale":"1994-04-16","id_type":514,"id_brand":129,"id_customer":946,"id_store":589}
+{"id":54,"name":"Lamp","price":5749,"date_sale":"2008-03-31","id_type":95,"id_brand":458,"id_customer":763,"id_store":781}
+{"id":55,"name":"Paper","price":9215,"date_sale":"2002-02-07","id_type":311,"id_brand":699,"id_customer":661,"id_store":261}
+{"id":56,"name":"Pipes","price":5447,"date_sale":"2006-05-13","id_type":567,"id_brand":654,"id_customer":857,"id_store":601}
+{"id":57,"name":"Glasses","price":5503,"date_sale":"2018-09-02","id_type":449,"id_brand":255,"id_customer":340,"id_store":378}
+{"id":58,"name":"Toilet brush","price":6307,"date_sale":"2003-11-18","id_type":256,"id_brand":723,"id_customer":63,"id_store":8}
+{"id":59,"name":"Oven gloves","price":5155,"date_sale":"2016-05-18","id_type":979,"id_brand":35,"id_customer":359,"id_store":142}
+{"id":60,"name":"Floor cleaner","price":3907,"date_sale":"1985-12-18","id_type":934,"id_brand":890,"id_customer":133,"id_store":794}
+{"id":61,"name":"Glass cleaner","price":2339,"date_sale":"2009-12-20","id_type":691,"id_brand":249,"id_customer":563,"id_store":876}
+{"id":62,"name":"Limescale remover","price":4360,"date_sale":"2021-10-01","id_type":781,"id_brand":248,"id_customer":962,"id_store":235}
+{"id":63,"name":"Serving platter","price":9972,"date_sale":"1996-11-02","id_type":463,"id_brand":930,"id_customer":332,"id_store":24}
+{"id":64,"name":"Scales","price":2545,"date_sale":"2015-12-05","id_type":31,"id_brand":248,"id_customer":146,"id_store":672}
+{"id":65,"name":"Glass cleaner","price":6064,"date_sale":"1971-10-09","id_type":55,"id_brand":809,"id_customer":56,"id_store":459}
+{"id":66,"name":"Mugs","price":6423,"date_sale":"1982-10-12","id_type":3,"id_brand":159,"id_customer":958,"id_store":885}
+{"id":67,"name":"Bin","price":164,"date_sale":"1993-07-16","id_type":889,"id_brand":271,"id_customer":943,"id_store":21}
+{"id":68,"name":"TV","price":6075,"date_sale":"2010-05-28","id_type":2,"id_brand":406,"id_customer":389,"id_store":634}
+{"id":69,"name":"Couch","price":9380,"date_sale":"2007-02-23","id_type":35,"id_brand":632,"id_customer":214,"id_store":785}
+{"id":70,"name":"Curtains","price":3372,"date_sale":"2019-06-25","id_type":486,"id_brand":311,"id_customer":50,"id_store":75}
+{"id":71,"name":"Painkillers","price":5973,"date_sale":"2000-06-07","id_type":146,"id_brand":630,"id_customer":352,"id_store":248}
+{"id":72,"name":"Screws","price":9763,"date_sale":"1998-08-09","id_type":589,"id_brand":449,"id_customer":16,"id_store":1}
+{"id":73,"name":"Vegetable peeler","price":7941,"date_sale":"2001-01-05","id_type":745,"id_brand":549,"id_customer":138,"id_store":333}
+{"id":74,"name":"Scales","price":6890,"date_sale":"2013-10-07","id_type":618,"id_brand":954,"id_customer":367,"id_store":490}
+{"id":75,"name":"Thermometer","price":8971,"date_sale":"1989-12-27","id_type":285,"id_brand":276,"id_customer":373,"id_store":280}
+{"id":76,"name":"Measuring jug","price":4979,"date_sale":"2000-01-20","id_type":145,"id_brand":30,"id_customer":129,"id_store":125}
+{"id":77,"name":"Fire blanket","price":9648,"date_sale":"2011-09-09","id_type":23,"id_brand":273,"id_customer":892,"id_store":980}
+{"id":78,"name":"Couch","price":7560,"date_sale":"2003-12-28","id_type":684,"id_brand":308,"id_customer":196,"id_store":846}
+{"id":79,"name":"Duvet & pillows","price":9398,"date_sale":"1976-09-05","id_type":710,"id_brand":30,"id_customer":403,"id_store":353}
+{"id":80,"name":"Screwdrivers","price":6355,"date_sale":"1990-08-14","id_type":315,"id_brand":151,"id_customer":975,"id_store":475}
+{"id":81,"name":"Disinfectant","price":2417,"date_sale":"2009-01-30","id_type":756,"id_brand":361,"id_customer":242,"id_store":984}
+{"id":82,"name":"Sharp knives","price":5796,"date_sale":"1990-01-04","id_type":426,"id_brand":531,"id_customer":976,"id_store":1}
+{"id":83,"name":"Bath Tubs","price":8022,"date_sale":"1971-05-05","id_type":415,"id_brand":424,"id_customer":64,"id_store":998}
+{"id":84,"name":"Floor cleaner","price":3857,"date_sale":"2010-10-02","id_type":480,"id_brand":83,"id_customer":614,"id_store":373}
+{"id":85,"name":"Dustpan and brush","price":4111,"date_sale":"2005-03-08","id_type":480,"id_brand":595,"id_customer":77,"id_store":544}
+{"id":86,"name":"Bathroom spray","price":9872,"date_sale":"2006-02-22","id_type":555,"id_brand":502,"id_customer":176,"id_store":896}
+{"id":87,"name":"Kettle","price":1180,"date_sale":"2001-01-22","id_type":509,"id_brand":858,"id_customer":447,"id_store":151}
+{"id":88,"name":"Sharp knives","price":6111,"date_sale":"1998-05-22","id_type":289,"id_brand":41,"id_customer":27,"id_store":467}
+{"id":89,"name":"Bedside lamp","price":3148,"date_sale":"2015-09-12","id_type":521,"id_brand":479,"id_customer":818,"id_store":171}
+{"id":90,"name":"Wiping cloths","price":6250,"date_sale":"1981-05-01","id_type":568,"id_brand":161,"id_customer":838,"id_store":32}
+{"id":91,"name":"Sharp knives","price":9426,"date_sale":"1977-08-13","id_type":971,"id_brand":906,"id_customer":886,"id_store":138}
+{"id":92,"name":"Kettle","price":2406,"date_sale":"1993-05-31","id_type":705,"id_brand":82,"id_customer":220,"id_store":88}
+{"id":93,"name":"Spatula","price":1111,"date_sale":"1991-04-15","id_type":582,"id_brand":116,"id_customer":744,"id_store":69}
+{"id":94,"name":"Measuring jug","price":6767,"date_sale":"2011-04-06","id_type":699,"id_brand":981,"id_customer":961,"id_store":100}
+{"id":95,"name":"Torch","price":3194,"date_sale":"1993-02-13","id_type":65,"id_brand":638,"id_customer":492,"id_store":885}
+{"id":96,"name":"Scrubbers","price":5758,"date_sale":"1979-03-31","id_type":997,"id_brand":54,"id_customer":278,"id_store":774}
+{"id":97,"name":"Disinfectant","price":5059,"date_sale":"2011-02-02","id_type":912,"id_brand":889,"id_customer":605,"id_store":85}
+{"id":98,"name":"Pipes","price":2442,"date_sale":"2000-07-26","id_type":598,"id_brand":920,"id_customer":597,"id_store":663}
+{"id":99,"name":"Dustpan and brush","price":2907,"date_sale":"1980-02-27","id_type":185,"id_brand":586,"id_customer":936,"id_store":412}
+{"id":100,"name":"Mugs","price":8459,"date_sale":"1991-05-25","id_type":468,"id_brand":5,"id_customer":362,"id_store":941}
+{"id":101,"name":"Measuring jug","price":7254,"date_sale":"2011-10-05","id_type":145,"id_brand":516,"id_customer":399,"id_store":521}
+{"id":102,"name":"Pliers","price":8454,"date_sale":"1985-10-21","id_type":829,"id_brand":263,"id_customer":414,"id_store":695}
+{"id":103,"name":"Bedside lamp","price":4467,"date_sale":"1980-11-29","id_type":389,"id_brand":68,"id_customer":18,"id_store":228}
+{"id":104,"name":"Smoke alarm","price":66,"date_sale":"1975-07-08","id_type":602,"id_brand":50,"id_customer":753,"id_store":735}
+{"id":105,"name":"Chest of drawers","price":1791,"date_sale":"1987-12-19","id_type":940,"id_brand":857,"id_customer":354,"id_store":778}
+{"id":106,"name":"Pens","price":8818,"date_sale":"1996-07-19","id_type":193,"id_brand":450,"id_customer":228,"id_store":259}
+{"id":107,"name":"Screwdrivers","price":3255,"date_sale":"1984-11-12","id_type":831,"id_brand":171,"id_customer":963,"id_store":926}
+{"id":108,"name":"Salt and pepper shakers","price":9218,"date_sale":"1983-08-15","id_type":188,"id_brand":951,"id_customer":35,"id_store":326}
+{"id":109,"name":"Microwave","price":6176,"date_sale":"2005-03-12","id_type":291,"id_brand":381,"id_customer":139,"id_store":832}
+{"id":110,"name":"Oven gloves","price":1866,"date_sale":"1996-09-20","id_type":895,"id_brand":579,"id_customer":252,"id_store":877}
+{"id":111,"name":"Bedding","price":4829,"date_sale":"2009-08-18","id_type":390,"id_brand":585,"id_customer":803,"id_store":922}
+{"id":112,"name":"Bottle opener","price":8381,"date_sale":"1997-07-20","id_type":93,"id_brand":917,"id_customer":749,"id_store":531}
+{"id":113,"name":"Vacuum cleaner","price":8947,"date_sale":"1988-11-09","id_type":451,"id_brand":797,"id_customer":144,"id_store":905}
+{"id":114,"name":"Pipes","price":9949,"date_sale":"1975-06-25","id_type":567,"id_brand":612,"id_customer":801,"id_store":794}
+{"id":115,"name":"Wi-Fi","price":5315,"date_sale":"2021-11-24","id_type":46,"id_brand":754,"id_customer":901,"id_store":301}
+{"id":116,"name":"Fire extinguisher","price":7964,"date_sale":"2009-02-22","id_type":627,"id_brand":700,"id_customer":112,"id_store":876}
+{"id":117,"name":"Screwdrivers","price":3458,"date_sale":"1977-03-27","id_type":847,"id_brand":433,"id_customer":335,"id_store":487}
+{"id":118,"name":"Measuring jug","price":9154,"date_sale":"2013-11-29","id_type":803,"id_brand":75,"id_customer":215,"id_store":405}
+{"id":119,"name":"Toaster","price":7517,"date_sale":"2001-09-11","id_type":840,"id_brand":487,"id_customer":873,"id_store":582}
+{"id":120,"name":"Scissors","price":2708,"date_sale":"2014-03-30","id_type":440,"id_brand":675,"id_customer":647,"id_store":135}
+{"id":121,"name":"Towel","price":3136,"date_sale":"2002-10-27","id_type":222,"id_brand":900,"id_customer":345,"id_store":944}
+{"id":122,"name":"Carbon monoxide alarm","price":339,"date_sale":"2021-08-02","id_type":361,"id_brand":601,"id_customer":727,"id_store":970}
+{"id":123,"name":"Bottle opener","price":8538,"date_sale":"1973-10-08","id_type":849,"id_brand":824,"id_customer":129,"id_store":772}
+{"id":124,"name":"Hand towel","price":1043,"date_sale":"2011-02-05","id_type":305,"id_brand":683,"id_customer":587,"id_store":493}
+{"id":125,"name":"Hangers for your clothes","price":2500,"date_sale":"1979-10-31","id_type":129,"id_brand":12,"id_customer":984,"id_store":667}
+{"id":126,"name":"Duvet & pillows","price":2653,"date_sale":"2000-06-02","id_type":364,"id_brand":407,"id_customer":261,"id_store":869}
+{"id":127,"name":"Limescale remover","price":9196,"date_sale":"2019-12-30","id_type":127,"id_brand":164,"id_customer":822,"id_store":239}
+{"id":128,"name":"Sponge","price":9692,"date_sale":"1976-03-29","id_type":550,"id_brand":980,"id_customer":543,"id_store":329}
+{"id":129,"name":"Glass cleaner","price":4405,"date_sale":"2014-07-19","id_type":430,"id_brand":687,"id_customer":893,"id_store":248}
+{"id":130,"name":"Wi-Fi","price":9759,"date_sale":"1985-04-10","id_type":573,"id_brand":305,"id_customer":992,"id_store":419}
+{"id":131,"name":"Shower squeegee","price":2721,"date_sale":"2022-08-27","id_type":361,"id_brand":188,"id_customer":384,"id_store":417}
+{"id":132,"name":"Hammer","price":157,"date_sale":"2000-06-26","id_type":344,"id_brand":242,"id_customer":532,"id_store":996}
+{"id":133,"name":"Microwave","price":1920,"date_sale":"1981-07-03","id_type":927,"id_brand":122,"id_customer":218,"id_store":24}
+{"id":134,"name":"Bedside table","price":3505,"date_sale":"2014-06-26","id_type":124,"id_brand":412,"id_customer":986,"id_store":153}
+{"id":135,"name":"Plug extension leads","price":3619,"date_sale":"1994-04-19","id_type":832,"id_brand":2,"id_customer":466,"id_store":125}
+{"id":136,"name":"Toilet roll","price":6082,"date_sale":"1987-10-10","id_type":559,"id_brand":34,"id_customer":356,"id_store":448}
+{"id":137,"name":"Kitchen roll","price":400,"date_sale":"1975-04-15","id_type":811,"id_brand":729,"id_customer":88,"id_store":461}
+{"id":138,"name":"Mugs","price":4159,"date_sale":"1978-03-26","id_type":312,"id_brand":452,"id_customer":737,"id_store":272}
+{"id":139,"name":"Smoke alarm","price":5468,"date_sale":"1997-04-26","id_type":881,"id_brand":693,"id_customer":198,"id_store":608}
+{"id":140,"name":"Bandages","price":4533,"date_sale":"2008-04-07","id_type":974,"id_brand":603,"id_customer":638,"id_store":440}
+{"id":141,"name":"Toilet roll holder","price":9150,"date_sale":"1971-08-29","id_type":467,"id_brand":22,"id_customer":55,"id_store":152}
+{"id":142,"name":"Floor cleaner","price":9714,"date_sale":"2012-04-03","id_type":823,"id_brand":818,"id_customer":366,"id_store":460}
+{"id":143,"name":"Washing-up liquid","price":121,"date_sale":"2016-01-05","id_type":681,"id_brand":773,"id_customer":780,"id_store":939}
+{"id":144,"name":"Pliers","price":9036,"date_sale":"1997-05-11","id_type":136,"id_brand":888,"id_customer":850,"id_store":219}
+{"id":145,"name":"Feather duster","price":7046,"date_sale":"2011-12-07","id_type":493,"id_brand":3,"id_customer":647,"id_store":650}
+{"id":146,"name":"Pens","price":7561,"date_sale":"2001-04-06","id_type":185,"id_brand":344,"id_customer":564,"id_store":465}
+{"id":147,"name":"Soap","price":3178,"date_sale":"1995-01-21","id_type":710,"id_brand":454,"id_customer":629,"id_store":788}
+{"id":148,"name":"Mop and bucket","price":698,"date_sale":"2022-02-26","id_type":730,"id_brand":471,"id_customer":740,"id_store":704}
+{"id":149,"name":"Colander","price":4172,"date_sale":"1995-02-04","id_type":637,"id_brand":896,"id_customer":899,"id_store":870}
+{"id":150,"name":"Plug extension leads","price":4736,"date_sale":"2009-06-13","id_type":532,"id_brand":700,"id_customer":232,"id_store":120}
+{"id":151,"name":"Glasses","price":4963,"date_sale":"1977-02-08","id_type":36,"id_brand":674,"id_customer":982,"id_store":585}
+{"id":152,"name":"Lanterns","price":5477,"date_sale":"2015-01-20","id_type":526,"id_brand":651,"id_customer":154,"id_store":372}
+{"id":153,"name":"Colander","price":6914,"date_sale":"2018-06-12","id_type":706,"id_brand":965,"id_customer":671,"id_store":47}
+{"id":154,"name":"Painkillers","price":769,"date_sale":"1990-10-27","id_type":235,"id_brand":488,"id_customer":935,"id_store":428}
+{"id":155,"name":"Sellotape","price":3573,"date_sale":"2011-09-29","id_type":355,"id_brand":649,"id_customer":495,"id_store":872}
+{"id":156,"name":"Sponges","price":855,"date_sale":"1991-11-26","id_type":939,"id_brand":290,"id_customer":842,"id_store":405}
+{"id":157,"name":"Scrubbers","price":489,"date_sale":"1995-09-18","id_type":80,"id_brand":214,"id_customer":426,"id_store":407}
+{"id":158,"name":"Screwdrivers","price":8690,"date_sale":"1985-08-28","id_type":323,"id_brand":468,"id_customer":471,"id_store":725}
+{"id":159,"name":"Batteries","price":1136,"date_sale":"2016-04-04","id_type":535,"id_brand":507,"id_customer":196,"id_store":590}
+{"id":160,"name":"Spatula","price":3928,"date_sale":"1975-08-09","id_type":933,"id_brand":720,"id_customer":316,"id_store":168}
+{"id":161,"name":"A mirror","price":7634,"date_sale":"2011-03-06","id_type":624,"id_brand":931,"id_customer":67,"id_store":723}
+{"id":162,"name":"Couch","price":5520,"date_sale":"1977-12-30","id_type":766,"id_brand":653,"id_customer":51,"id_store":823}
+{"id":163,"name":"Torch","price":5776,"date_sale":"1981-01-29","id_type":839,"id_brand":146,"id_customer":81,"id_store":768}
+{"id":164,"name":"Can opener","price":7141,"date_sale":"1984-03-02","id_type":959,"id_brand":338,"id_customer":451,"id_store":665}
+{"id":165,"name":"Duvet & pillows","price":8451,"date_sale":"1978-10-14","id_type":832,"id_brand":388,"id_customer":467,"id_store":314}
+{"id":166,"name":"Sharp knives","price":6278,"date_sale":"2000-08-29","id_type":39,"id_brand":157,"id_customer":560,"id_store":16}
+{"id":167,"name":"Table","price":7387,"date_sale":"1983-03-14","id_type":616,"id_brand":113,"id_customer":250,"id_store":60}
+{"id":168,"name":"Screwdrivers","price":3151,"date_sale":"1992-12-27","id_type":396,"id_brand":640,"id_customer":616,"id_store":879}
+{"id":169,"name":"Lanterns","price":7563,"date_sale":"1992-06-07","id_type":92,"id_brand":712,"id_customer":101,"id_store":559}
+{"id":170,"name":"Chest of drawers","price":3298,"date_sale":"1990-05-24","id_type":813,"id_brand":180,"id_customer":880,"id_store":575}
+{"id":171,"name":"Bath Tubs","price":8118,"date_sale":"1987-12-10","id_type":422,"id_brand":562,"id_customer":366,"id_store":432}
+{"id":172,"name":"Baking tray","price":7344,"date_sale":"1998-09-16","id_type":896,"id_brand":507,"id_customer":119,"id_store":647}
+{"id":173,"name":"Limescale remover","price":4616,"date_sale":"2005-01-29","id_type":799,"id_brand":841,"id_customer":353,"id_store":9}
+{"id":174,"name":"Smoke alarm","price":8641,"date_sale":"2002-11-15","id_type":712,"id_brand":395,"id_customer":614,"id_store":627}
+{"id":175,"name":"Bedside lamp","price":6768,"date_sale":"2013-09-18","id_type":869,"id_brand":816,"id_customer":800,"id_store":4}
+{"id":176,"name":"Can opener","price":5633,"date_sale":"1974-03-06","id_type":716,"id_brand":793,"id_customer":863,"id_store":913}
+{"id":177,"name":"Vegetable peeler","price":6032,"date_sale":"2013-10-26","id_type":269,"id_brand":429,"id_customer":301,"id_store":946}
+{"id":178,"name":"Washing-up liquid","price":2547,"date_sale":"2013-01-31","id_type":884,"id_brand":48,"id_customer":912,"id_store":805}
+{"id":179,"name":"Toilet roll","price":650,"date_sale":"2000-11-07","id_type":177,"id_brand":68,"id_customer":74,"id_store":460}
+{"id":180,"name":"Fire extinguisher","price":9142,"date_sale":"2003-08-01","id_type":146,"id_brand":7,"id_customer":46,"id_store":267}
+{"id":181,"name":"Scrubbers","price":9312,"date_sale":"2010-11-09","id_type":489,"id_brand":162,"id_customer":462,"id_store":981}
+{"id":182,"name":"Bottle opener","price":5327,"date_sale":"2000-03-03","id_type":733,"id_brand":582,"id_customer":886,"id_store":751}
+{"id":183,"name":"Carbon monoxide alarm","price":2851,"date_sale":"2001-11-18","id_type":200,"id_brand":874,"id_customer":244,"id_store":180}
+{"id":184,"name":"Sponge","price":6089,"date_sale":"1992-03-01","id_type":353,"id_brand":873,"id_customer":445,"id_store":238}
+{"id":185,"name":"Toilet roll holder","price":9082,"date_sale":"1977-06-09","id_type":557,"id_brand":236,"id_customer":173,"id_store":359}
+{"id":186,"name":"Shower squeegee","price":3131,"date_sale":"2012-07-17","id_type":974,"id_brand":704,"id_customer":324,"id_store":504}
+{"id":187,"name":"Kitchen roll","price":7312,"date_sale":"1994-03-30","id_type":339,"id_brand":50,"id_customer":466,"id_store":889}
+{"id":188,"name":"Sharp knives","price":892,"date_sale":"1974-06-24","id_type":619,"id_brand":93,"id_customer":949,"id_store":434}
+{"id":189,"name":"Lanterns","price":2071,"date_sale":"1981-08-04","id_type":85,"id_brand":157,"id_customer":249,"id_store":103}
+{"id":190,"name":"Crockery","price":7470,"date_sale":"1997-05-25","id_type":422,"id_brand":325,"id_customer":933,"id_store":829}
+{"id":191,"name":"Serving platter","price":9201,"date_sale":"2016-11-06","id_type":403,"id_brand":314,"id_customer":914,"id_store":583}
+{"id":192,"name":"Pipes","price":7924,"date_sale":"2022-07-10","id_type":916,"id_brand":37,"id_customer":266,"id_store":988}
+{"id":193,"name":"Mugs","price":3137,"date_sale":"1977-05-24","id_type":16,"id_brand":831,"id_customer":501,"id_store":337}
+{"id":194,"name":"Duvet & pillows","price":1373,"date_sale":"1986-11-26","id_type":624,"id_brand":172,"id_customer":127,"id_store":174}
+{"id":195,"name":"Chairs","price":8732,"date_sale":"1975-05-09","id_type":337,"id_brand":833,"id_customer":895,"id_store":926}
+{"id":196,"name":"Bathroom mat","price":2908,"date_sale":"2015-11-13","id_type":650,"id_brand":507,"id_customer":273,"id_store":516}
+{"id":197,"name":"Cutlery","price":6025,"date_sale":"1999-08-01","id_type":314,"id_brand":350,"id_customer":688,"id_store":771}
+{"id":198,"name":"Smoke alarm","price":4911,"date_sale":"1981-03-19","id_type":740,"id_brand":748,"id_customer":593,"id_store":813}
+{"id":199,"name":"Drying rack","price":50,"date_sale":"2000-09-25","id_type":166,"id_brand":573,"id_customer":11,"id_store":768}
+{"id":200,"name":"A mirror","price":1546,"date_sale":"2016-06-17","id_type":917,"id_brand":883,"id_customer":715,"id_store":748}
+{"id":201,"name":"Bedside table","price":147,"date_sale":"1973-08-23","id_type":756,"id_brand":981,"id_customer":585,"id_store":43}
+{"id":202,"name":"Lamp","price":858,"date_sale":"2018-08-27","id_type":568,"id_brand":925,"id_customer":878,"id_store":315}
+{"id":203,"name":"Soap","price":8148,"date_sale":"2020-10-15","id_type":548,"id_brand":556,"id_customer":194,"id_store":32}
+{"id":204,"name":"Chest of drawers","price":1933,"date_sale":"1986-11-02","id_type":165,"id_brand":455,"id_customer":88,"id_store":352}
+{"id":205,"name":"Thermometer","price":9999,"date_sale":"2021-12-06","id_type":563,"id_brand":488,"id_customer":918,"id_store":526}
+{"id":206,"name":"Lamp","price":589,"date_sale":"2016-11-21","id_type":229,"id_brand":812,"id_customer":530,"id_store":540}
+{"id":207,"name":"TV","price":2808,"date_sale":"2013-12-04","id_type":926,"id_brand":128,"id_customer":738,"id_store":301}
+{"id":208,"name":"Salt and pepper shakers","price":9385,"date_sale":"2014-10-28","id_type":593,"id_brand":100,"id_customer":281,"id_store":842}
+{"id":209,"name":"Bedside lamp","price":9434,"date_sale":"1970-01-29","id_type":349,"id_brand":491,"id_customer":642,"id_store":394}
+{"id":210,"name":"Curtains","price":2152,"date_sale":"1997-10-26","id_type":991,"id_brand":224,"id_customer":130,"id_store":271}
+{"id":211,"name":"Mop and bucket","price":5596,"date_sale":"1990-08-03","id_type":505,"id_brand":771,"id_customer":558,"id_store":182}
+{"id":212,"name":"Microwave","price":9303,"date_sale":"1975-05-30","id_type":288,"id_brand":413,"id_customer":885,"id_store":66}
+{"id":213,"name":"Limescale remover","price":1838,"date_sale":"1988-10-16","id_type":989,"id_brand":97,"id_customer":805,"id_store":637}
+{"id":214,"name":"Towel","price":695,"date_sale":"2013-08-05","id_type":860,"id_brand":527,"id_customer":140,"id_store":621}
+{"id":215,"name":"Crockery","price":949,"date_sale":"1977-06-15","id_type":158,"id_brand":316,"id_customer":40,"id_store":299}
+{"id":216,"name":"Mugs","price":5050,"date_sale":"2016-05-18","id_type":693,"id_brand":723,"id_customer":222,"id_store":492}
+{"id":217,"name":"Kettle","price":4312,"date_sale":"2017-11-02","id_type":555,"id_brand":660,"id_customer":868,"id_store":973}
+{"id":218,"name":"Chairs","price":926,"date_sale":"2012-03-31","id_type":768,"id_brand":648,"id_customer":963,"id_store":477}
+{"id":219,"name":"Toothbrush","price":2856,"date_sale":"2006-01-31","id_type":890,"id_brand":789,"id_customer":958,"id_store":641}
+{"id":220,"name":"Drying rack","price":5359,"date_sale":"1996-11-30","id_type":348,"id_brand":920,"id_customer":467,"id_store":320}
+{"id":221,"name":"Bedside table","price":3078,"date_sale":"2004-11-07","id_type":883,"id_brand":368,"id_customer":531,"id_store":166}
+{"id":222,"name":"Washing powder","price":163,"date_sale":"2004-03-29","id_type":573,"id_brand":111,"id_customer":198,"id_store":957}
+{"id":223,"name":"Microwave","price":8893,"date_sale":"2006-03-13","id_type":152,"id_brand":557,"id_customer":299,"id_store":996}
+{"id":224,"name":"Sharp knives","price":8382,"date_sale":"2019-03-24","id_type":601,"id_brand":930,"id_customer":536,"id_store":880}
+{"id":225,"name":"Coffee table","price":4195,"date_sale":"2008-03-07","id_type":585,"id_brand":893,"id_customer":468,"id_store":237}
+{"id":226,"name":"Bandages","price":4151,"date_sale":"1985-05-07","id_type":453,"id_brand":902,"id_customer":974,"id_store":189}
+{"id":227,"name":"Washing-up liquid","price":2916,"date_sale":"1974-06-05","id_type":833,"id_brand":813,"id_customer":998,"id_store":927}
+{"id":228,"name":"Serving platter","price":8121,"date_sale":"2009-02-17","id_type":918,"id_brand":301,"id_customer":390,"id_store":109}
+{"id":229,"name":"Wiping cloths","price":9775,"date_sale":"1976-02-20","id_type":246,"id_brand":3,"id_customer":402,"id_store":611}
+{"id":230,"name":"Bleach","price":8254,"date_sale":"2005-09-23","id_type":598,"id_brand":916,"id_customer":752,"id_store":752}
+{"id":231,"name":"Toothbrush","price":3334,"date_sale":"2015-10-10","id_type":259,"id_brand":244,"id_customer":385,"id_store":178}
+{"id":232,"name":"Bath Tubs","price":1175,"date_sale":"2001-08-05","id_type":371,"id_brand":332,"id_customer":479,"id_store":785}
+{"id":233,"name":"A mirror","price":3697,"date_sale":"1974-02-03","id_type":572,"id_brand":502,"id_customer":891,"id_store":379}
+{"id":234,"name":"Vegetable peeler","price":2517,"date_sale":"2020-12-31","id_type":130,"id_brand":707,"id_customer":87,"id_store":703}
+{"id":235,"name":"A clothes horse","price":6507,"date_sale":"1970-02-13","id_type":495,"id_brand":767,"id_customer":479,"id_store":245}
+{"id":236,"name":"Pots and pans","price":5609,"date_sale":"1976-07-02","id_type":245,"id_brand":793,"id_customer":315,"id_store":776}
+{"id":237,"name":"Bedside lamp","price":1366,"date_sale":"1970-04-15","id_type":511,"id_brand":666,"id_customer":650,"id_store":331}
+{"id":238,"name":"Kitchen roll","price":9099,"date_sale":"2021-12-27","id_type":241,"id_brand":455,"id_customer":356,"id_store":291}
+{"id":239,"name":"Bedside lamp","price":7902,"date_sale":"1988-10-06","id_type":20,"id_brand":956,"id_customer":167,"id_store":339}
+{"id":240,"name":"Duvet & pillows","price":3878,"date_sale":"1980-10-14","id_type":788,"id_brand":601,"id_customer":8,"id_store":184}
+{"id":241,"name":"Paper","price":6959,"date_sale":"1993-07-05","id_type":747,"id_brand":373,"id_customer":210,"id_store":493}
+{"id":242,"name":"Chairs","price":1915,"date_sale":"1984-09-16","id_type":222,"id_brand":318,"id_customer":381,"id_store":251}
+{"id":243,"name":"Hammer","price":1001,"date_sale":"1972-10-16","id_type":404,"id_brand":199,"id_customer":344,"id_store":761}
+{"id":244,"name":"Disinfectant","price":4875,"date_sale":"1995-09-24","id_type":73,"id_brand":205,"id_customer":608,"id_store":918}
+{"id":245,"name":"Floor cleaner","price":9630,"date_sale":"2018-06-29","id_type":670,"id_brand":22,"id_customer":920,"id_store":919}
+{"id":246,"name":"Measuring tape","price":1614,"date_sale":"2008-11-25","id_type":350,"id_brand":163,"id_customer":620,"id_store":70}
+{"id":247,"name":"Pens","price":4959,"date_sale":"2007-07-16","id_type":729,"id_brand":566,"id_customer":761,"id_store":743}
+{"id":248,"name":"Measuring tape","price":7850,"date_sale":"2007-03-08","id_type":543,"id_brand":582,"id_customer":125,"id_store":784}
+{"id":249,"name":"Towel","price":996,"date_sale":"1971-09-19","id_type":198,"id_brand":814,"id_customer":336,"id_store":474}
+{"id":250,"name":"Toilet brush","price":1273,"date_sale":"1985-11-29","id_type":18,"id_brand":294,"id_customer":365,"id_store":460}
+{"id":251,"name":"Glasses","price":2516,"date_sale":"1982-10-12","id_type":157,"id_brand":82,"id_customer":256,"id_store":915}
+{"id":252,"name":"Light bulbs","price":9704,"date_sale":"1998-12-13","id_type":789,"id_brand":779,"id_customer":535,"id_store":648}
+{"id":253,"name":"Thermometer","price":9425,"date_sale":"2004-12-02","id_type":152,"id_brand":445,"id_customer":958,"id_store":832}
+{"id":254,"name":"Wi-Fi","price":8902,"date_sale":"2022-10-28","id_type":17,"id_brand":150,"id_customer":975,"id_store":205}
+{"id":255,"name":"Nail scissors","price":2700,"date_sale":"1984-09-30","id_type":810,"id_brand":742,"id_customer":525,"id_store":670}
+{"id":256,"name":"Washing-up liquid","price":6494,"date_sale":"1993-07-31","id_type":455,"id_brand":798,"id_customer":812,"id_store":560}
+{"id":257,"name":"Toothpaste","price":5129,"date_sale":"1993-05-01","id_type":934,"id_brand":729,"id_customer":374,"id_store":155}
+{"id":258,"name":"Measuring tape","price":2043,"date_sale":"1991-10-27","id_type":764,"id_brand":943,"id_customer":295,"id_store":975}
+{"id":259,"name":"Lanterns","price":1922,"date_sale":"2017-07-15","id_type":527,"id_brand":982,"id_customer":59,"id_store":428}
+{"id":260,"name":"Torch","price":8781,"date_sale":"1999-11-16","id_type":8,"id_brand":106,"id_customer":13,"id_store":21}
+{"id":261,"name":"Painkillers","price":8886,"date_sale":"1980-03-28","id_type":331,"id_brand":497,"id_customer":129,"id_store":466}
+{"id":262,"name":"Hammer","price":1094,"date_sale":"1996-10-31","id_type":266,"id_brand":448,"id_customer":983,"id_store":900}
+{"id":263,"name":"Measuring jug","price":8813,"date_sale":"1991-07-14","id_type":667,"id_brand":469,"id_customer":497,"id_store":93}
+{"id":264,"name":"Toilet roll","price":5625,"date_sale":"2016-11-16","id_type":559,"id_brand":855,"id_customer":919,"id_store":219}
+{"id":265,"name":"Cutlery","price":4191,"date_sale":"2004-07-11","id_type":766,"id_brand":127,"id_customer":464,"id_store":114}
+{"id":266,"name":"Kitchen and bathroom spray","price":4079,"date_sale":"1987-10-20","id_type":649,"id_brand":42,"id_customer":130,"id_store":288}
+{"id":267,"name":"Shower squeegee","price":272,"date_sale":"1976-07-06","id_type":159,"id_brand":161,"id_customer":132,"id_store":176}
+{"id":268,"name":"Carbon monoxide alarm","price":9505,"date_sale":"1972-02-05","id_type":628,"id_brand":310,"id_customer":260,"id_store":620}
+{"id":269,"name":"Cutlery","price":376,"date_sale":"1994-07-25","id_type":597,"id_brand":594,"id_customer":934,"id_store":854}
+{"id":270,"name":"Kitchen and bathroom spray","price":6769,"date_sale":"1990-11-10","id_type":843,"id_brand":478,"id_customer":681,"id_store":546}
+{"id":271,"name":"Kitchen and bathroom spray","price":2693,"date_sale":"2011-11-27","id_type":737,"id_brand":506,"id_customer":999,"id_store":709}
+{"id":272,"name":"Sharp knives","price":5921,"date_sale":"1984-10-27","id_type":187,"id_brand":479,"id_customer":123,"id_store":862}
+{"id":273,"name":"Fire extinguisher","price":7496,"date_sale":"1984-08-29","id_type":743,"id_brand":820,"id_customer":616,"id_store":385}
+{"id":274,"name":"Bath Tubs","price":3103,"date_sale":"1973-03-14","id_type":109,"id_brand":397,"id_customer":49,"id_store":481}
+{"id":275,"name":"Lanterns","price":2742,"date_sale":"1973-01-31","id_type":897,"id_brand":565,"id_customer":265,"id_store":133}
+{"id":276,"name":"Couch","price":6937,"date_sale":"1993-07-28","id_type":364,"id_brand":71,"id_customer":564,"id_store":521}
+{"id":277,"name":"Painkillers","price":4286,"date_sale":"1972-08-26","id_type":74,"id_brand":579,"id_customer":168,"id_store":233}
+{"id":278,"name":"Pipes","price":4439,"date_sale":"2020-09-25","id_type":143,"id_brand":212,"id_customer":674,"id_store":170}
+{"id":279,"name":"Measuring jug","price":4991,"date_sale":"1994-07-24","id_type":442,"id_brand":839,"id_customer":356,"id_store":749}
+{"id":280,"name":"Oven gloves","price":9000,"date_sale":"1971-11-14","id_type":915,"id_brand":197,"id_customer":602,"id_store":186}
+{"id":281,"name":"Scales","price":9000,"date_sale":"2010-02-06","id_type":855,"id_brand":173,"id_customer":387,"id_store":293}
+{"id":282,"name":"Spatula","price":7320,"date_sale":"2007-08-11","id_type":96,"id_brand":468,"id_customer":977,"id_store":455}
+{"id":283,"name":"Scales","price":6807,"date_sale":"2002-06-09","id_type":348,"id_brand":491,"id_customer":460,"id_store":438}
+{"id":284,"name":"Floor cleaner","price":1897,"date_sale":"1971-02-03","id_type":720,"id_brand":328,"id_customer":61,"id_store":879}
+{"id":285,"name":"Duvet & pillows","price":3044,"date_sale":"1993-06-23","id_type":724,"id_brand":678,"id_customer":483,"id_store":211}
+{"id":286,"name":"Cutlery","price":4696,"date_sale":"1999-04-02","id_type":98,"id_brand":680,"id_customer":859,"id_store":696}
+{"id":287,"name":"Pots and pans","price":1494,"date_sale":"1994-08-30","id_type":473,"id_brand":342,"id_customer":106,"id_store":853}
+{"id":288,"name":"Sponge","price":1696,"date_sale":"2012-03-06","id_type":746,"id_brand":469,"id_customer":108,"id_store":500}
+{"id":289,"name":"Pliers","price":3394,"date_sale":"1995-10-12","id_type":624,"id_brand":577,"id_customer":987,"id_store":412}
+{"id":290,"name":"Carbon monoxide alarm","price":736,"date_sale":"1978-12-20","id_type":338,"id_brand":404,"id_customer":311,"id_store":526}
+{"id":291,"name":"Crockery","price":707,"date_sale":"2011-06-01","id_type":885,"id_brand":305,"id_customer":225,"id_store":101}
+{"id":292,"name":"A TV cable","price":3277,"date_sale":"1993-02-09","id_type":39,"id_brand":30,"id_customer":737,"id_store":668}
+{"id":293,"name":"Washing-up liquid","price":8175,"date_sale":"1979-12-26","id_type":565,"id_brand":914,"id_customer":773,"id_store":24}
+{"id":294,"name":"Hangers for your clothes","price":1480,"date_sale":"2015-03-01","id_type":554,"id_brand":644,"id_customer":28,"id_store":125}
+{"id":295,"name":"A TV cable","price":2836,"date_sale":"1995-12-25","id_type":153,"id_brand":183,"id_customer":833,"id_store":886}
+{"id":296,"name":"Carbon monoxide alarm","price":8055,"date_sale":"2004-12-30","id_type":821,"id_brand":193,"id_customer":616,"id_store":997}
+{"id":297,"name":"Nail scissors","price":6918,"date_sale":"2008-01-05","id_type":165,"id_brand":652,"id_customer":739,"id_store":784}
+{"id":298,"name":"TV","price":2472,"date_sale":"2018-03-01","id_type":1,"id_brand":910,"id_customer":401,"id_store":593}
+{"id":299,"name":"Scissors","price":6647,"date_sale":"2017-01-09","id_type":663,"id_brand":998,"id_customer":233,"id_store":155}
+{"id":300,"name":"Screwdrivers","price":1671,"date_sale":"1981-01-30","id_type":796,"id_brand":56,"id_customer":629,"id_store":899}
+{"id":301,"name":"Washing-up liquid","price":5881,"date_sale":"2012-12-25","id_type":166,"id_brand":498,"id_customer":399,"id_store":892}
+{"id":302,"name":"Painkillers","price":3043,"date_sale":"1971-04-10","id_type":424,"id_brand":785,"id_customer":603,"id_store":883}
+{"id":303,"name":"Carbon monoxide alarm","price":7650,"date_sale":"1971-08-14","id_type":708,"id_brand":683,"id_customer":784,"id_store":339}
+{"id":304,"name":"Cutlery","price":4800,"date_sale":"1991-12-13","id_type":165,"id_brand":943,"id_customer":642,"id_store":248}
+{"id":305,"name":"Kettle","price":1478,"date_sale":"1983-11-16","id_type":725,"id_brand":292,"id_customer":800,"id_store":38}
+{"id":306,"name":"Soap","price":6217,"date_sale":"1979-02-05","id_type":815,"id_brand":243,"id_customer":332,"id_store":857}
+{"id":307,"name":"Bedding","price":447,"date_sale":"2009-03-22","id_type":139,"id_brand":34,"id_customer":573,"id_store":61}
+{"id":308,"name":"Toilet roll","price":8514,"date_sale":"1994-12-04","id_type":568,"id_brand":625,"id_customer":59,"id_store":724}
+{"id":309,"name":"Floor cleaner","price":2898,"date_sale":"2009-02-23","id_type":899,"id_brand":757,"id_customer":496,"id_store":679}
+{"id":310,"name":"Serving platter","price":9536,"date_sale":"1983-08-16","id_type":128,"id_brand":494,"id_customer":292,"id_store":119}
+{"id":311,"name":"A clothes horse","price":7493,"date_sale":"2021-08-04","id_type":3,"id_brand":585,"id_customer":546,"id_store":248}
+{"id":312,"name":"Bandages","price":1426,"date_sale":"1986-10-31","id_type":414,"id_brand":641,"id_customer":706,"id_store":85}
+{"id":313,"name":"Salt and pepper shakers","price":4531,"date_sale":"1985-09-07","id_type":911,"id_brand":824,"id_customer":913,"id_store":702}
+{"id":314,"name":"Bottle opener","price":8765,"date_sale":"1990-08-10","id_type":931,"id_brand":429,"id_customer":132,"id_store":829}
+{"id":315,"name":"Pliers","price":6461,"date_sale":"1982-02-04","id_type":170,"id_brand":721,"id_customer":760,"id_store":391}
+{"id":316,"name":"Bedding","price":5278,"date_sale":"2005-11-03","id_type":866,"id_brand":736,"id_customer":412,"id_store":602}
+{"id":317,"name":"Measuring tape","price":2776,"date_sale":"1987-12-22","id_type":177,"id_brand":835,"id_customer":287,"id_store":803}
+{"id":318,"name":"Cutlery","price":6375,"date_sale":"1985-08-25","id_type":844,"id_brand":47,"id_customer":406,"id_store":180}
+{"id":319,"name":"Fire blanket","price":8534,"date_sale":"2004-05-27","id_type":493,"id_brand":660,"id_customer":666,"id_store":319}
+{"id":320,"name":"Light bulbs","price":9369,"date_sale":"1992-02-10","id_type":258,"id_brand":860,"id_customer":584,"id_store":135}
+{"id":321,"name":"Towel","price":7554,"date_sale":"1993-10-21","id_type":402,"id_brand":531,"id_customer":628,"id_store":472}
+{"id":322,"name":"Pots and pans","price":8863,"date_sale":"1983-03-03","id_type":887,"id_brand":364,"id_customer":168,"id_store":297}
+{"id":323,"name":"Serving platter","price":9918,"date_sale":"1975-01-13","id_type":976,"id_brand":625,"id_customer":355,"id_store":699}
+{"id":324,"name":"Toaster","price":1851,"date_sale":"2008-09-01","id_type":902,"id_brand":911,"id_customer":204,"id_store":966}
+{"id":325,"name":"A clothes horse","price":6982,"date_sale":"1986-04-08","id_type":697,"id_brand":14,"id_customer":350,"id_store":563}
+{"id":326,"name":"A TV cable","price":6010,"date_sale":"2012-04-14","id_type":199,"id_brand":314,"id_customer":663,"id_store":631}
+{"id":327,"name":"Sharp knives","price":3296,"date_sale":"2001-01-20","id_type":346,"id_brand":845,"id_customer":832,"id_store":168}
+{"id":328,"name":"Measuring tape","price":6903,"date_sale":"2020-10-04","id_type":962,"id_brand":890,"id_customer":668,"id_store":537}
+{"id":329,"name":"Crockery","price":4104,"date_sale":"1973-04-23","id_type":339,"id_brand":787,"id_customer":18,"id_store":753}
+{"id":330,"name":"Thermometer","price":8150,"date_sale":"2000-09-19","id_type":747,"id_brand":758,"id_customer":297,"id_store":279}
+{"id":331,"name":"Bandages","price":8411,"date_sale":"1996-05-12","id_type":35,"id_brand":690,"id_customer":762,"id_store":616}
+{"id":332,"name":"Screws","price":9686,"date_sale":"1983-01-14","id_type":68,"id_brand":32,"id_customer":108,"id_store":776}
+{"id":333,"name":"Toilet roll","price":8124,"date_sale":"2004-05-06","id_type":67,"id_brand":935,"id_customer":657,"id_store":141}
+{"id":334,"name":"Bleach","price":9872,"date_sale":"1993-02-25","id_type":522,"id_brand":867,"id_customer":991,"id_store":982}
+{"id":335,"name":"Tea towel","price":6995,"date_sale":"2006-06-30","id_type":432,"id_brand":292,"id_customer":368,"id_store":873}
+{"id":336,"name":"Drying rack","price":5850,"date_sale":"1970-09-29","id_type":962,"id_brand":263,"id_customer":429,"id_store":631}
+{"id":337,"name":"Lamp","price":3011,"date_sale":"2010-02-11","id_type":255,"id_brand":571,"id_customer":859,"id_store":109}
+{"id":338,"name":"Washing powder","price":2232,"date_sale":"1998-07-02","id_type":238,"id_brand":738,"id_customer":92,"id_store":492}
+{"id":339,"name":"Bottle opener","price":80,"date_sale":"1983-05-14","id_type":448,"id_brand":570,"id_customer":679,"id_store":435}
+{"id":340,"name":"Bleach","price":483,"date_sale":"1981-06-16","id_type":682,"id_brand":202,"id_customer":695,"id_store":771}
+{"id":341,"name":"Toilet brush","price":9349,"date_sale":"1983-02-06","id_type":633,"id_brand":335,"id_customer":80,"id_store":76}
+{"id":342,"name":"Chest of drawers","price":5268,"date_sale":"1984-10-17","id_type":810,"id_brand":914,"id_customer":413,"id_store":8}
+{"id":343,"name":"Toothbrush","price":3718,"date_sale":"2013-07-04","id_type":324,"id_brand":812,"id_customer":989,"id_store":63}
+{"id":344,"name":"Washing powder","price":4221,"date_sale":"1973-07-20","id_type":909,"id_brand":240,"id_customer":904,"id_store":433}
+{"id":345,"name":"Bath Tubs","price":8162,"date_sale":"1975-12-17","id_type":662,"id_brand":697,"id_customer":900,"id_store":603}
+{"id":346,"name":"Table","price":2846,"date_sale":"2015-12-04","id_type":598,"id_brand":973,"id_customer":254,"id_store":115}
+{"id":347,"name":"Feather duster","price":7870,"date_sale":"2012-01-16","id_type":937,"id_brand":842,"id_customer":181,"id_store":338}
+{"id":348,"name":"Light bulbs","price":2365,"date_sale":"2009-10-06","id_type":447,"id_brand":223,"id_customer":784,"id_store":950}
+{"id":349,"name":"Towel","price":9491,"date_sale":"1987-03-15","id_type":825,"id_brand":236,"id_customer":522,"id_store":557}
+{"id":350,"name":"Screws","price":3540,"date_sale":"1974-05-10","id_type":977,"id_brand":231,"id_customer":924,"id_store":510}
+{"id":351,"name":"Baking tray","price":5392,"date_sale":"2019-01-29","id_type":483,"id_brand":304,"id_customer":640,"id_store":153}
+{"id":352,"name":"Serving platter","price":8112,"date_sale":"2013-12-07","id_type":459,"id_brand":25,"id_customer":12,"id_store":858}
+{"id":353,"name":"Lamp","price":4182,"date_sale":"1983-08-05","id_type":456,"id_brand":747,"id_customer":417,"id_store":75}
+{"id":354,"name":"Measuring tape","price":7738,"date_sale":"1983-03-20","id_type":241,"id_brand":454,"id_customer":151,"id_store":516}
+{"id":355,"name":"Vacuum cleaner","price":5858,"date_sale":"2019-10-04","id_type":259,"id_brand":892,"id_customer":760,"id_store":12}
+{"id":356,"name":"Kitchen and bathroom spray","price":550,"date_sale":"1972-10-15","id_type":546,"id_brand":181,"id_customer":265,"id_store":287}
+{"id":357,"name":"Shower squeegee","price":4401,"date_sale":"2003-08-21","id_type":888,"id_brand":708,"id_customer":956,"id_store":596}
+{"id":358,"name":"A mirror","price":2227,"date_sale":"1972-09-01","id_type":149,"id_brand":820,"id_customer":503,"id_store":698}
+{"id":359,"name":"Light bulbs","price":7611,"date_sale":"1998-09-13","id_type":946,"id_brand":963,"id_customer":217,"id_store":910}
+{"id":360,"name":"Wooden spoon","price":8780,"date_sale":"2020-08-29","id_type":585,"id_brand":875,"id_customer":801,"id_store":613}
+{"id":361,"name":"Soap","price":1083,"date_sale":"1996-10-15","id_type":146,"id_brand":437,"id_customer":851,"id_store":900}
+{"id":362,"name":"Plug extension leads","price":5440,"date_sale":"2020-08-03","id_type":122,"id_brand":4,"id_customer":462,"id_store":365}
+{"id":363,"name":"Drying rack","price":2778,"date_sale":"1976-12-07","id_type":604,"id_brand":137,"id_customer":529,"id_store":515}
+{"id":364,"name":"Vegetable peeler","price":1297,"date_sale":"1973-07-29","id_type":570,"id_brand":924,"id_customer":330,"id_store":725}
+{"id":365,"name":"Toilet roll","price":7553,"date_sale":"1991-06-17","id_type":629,"id_brand":411,"id_customer":880,"id_store":932}
+{"id":366,"name":"Fire extinguisher","price":4497,"date_sale":"2009-12-21","id_type":632,"id_brand":613,"id_customer":145,"id_store":939}
+{"id":367,"name":"Duvet & pillows","price":8468,"date_sale":"1975-11-11","id_type":560,"id_brand":525,"id_customer":352,"id_store":325}
+{"id":368,"name":"Pens","price":8650,"date_sale":"1977-05-02","id_type":699,"id_brand":594,"id_customer":548,"id_store":606}
+{"id":369,"name":"Bedding","price":642,"date_sale":"1971-10-03","id_type":151,"id_brand":199,"id_customer":320,"id_store":504}
+{"id":370,"name":"Bathroom spray","price":4276,"date_sale":"2001-05-23","id_type":980,"id_brand":424,"id_customer":282,"id_store":800}
+{"id":371,"name":"A mirror","price":3973,"date_sale":"1981-12-10","id_type":610,"id_brand":619,"id_customer":444,"id_store":707}
+{"id":372,"name":"Bedside lamp","price":2375,"date_sale":"2020-05-06","id_type":510,"id_brand":404,"id_customer":656,"id_store":762}
+{"id":373,"name":"Washing powder","price":4259,"date_sale":"1995-10-16","id_type":875,"id_brand":471,"id_customer":666,"id_store":498}
+{"id":374,"name":"Table","price":6141,"date_sale":"1991-01-21","id_type":916,"id_brand":655,"id_customer":998,"id_store":450}
+{"id":375,"name":"Wooden spoon","price":7994,"date_sale":"2022-06-04","id_type":639,"id_brand":113,"id_customer":600,"id_store":192}
+{"id":376,"name":"Mugs","price":2141,"date_sale":"2016-03-11","id_type":928,"id_brand":733,"id_customer":734,"id_store":944}
+{"id":377,"name":"Scrubbers","price":3252,"date_sale":"1998-10-14","id_type":720,"id_brand":256,"id_customer":509,"id_store":282}
+{"id":378,"name":"Scales","price":6369,"date_sale":"2013-03-10","id_type":634,"id_brand":745,"id_customer":660,"id_store":702}
+{"id":379,"name":"Mop and bucket","price":7107,"date_sale":"1991-06-23","id_type":580,"id_brand":198,"id_customer":601,"id_store":888}
+{"id":380,"name":"Bath Tubs","price":4237,"date_sale":"2009-05-24","id_type":974,"id_brand":733,"id_customer":632,"id_store":251}
+{"id":381,"name":"Spatula","price":5618,"date_sale":"1984-06-11","id_type":164,"id_brand":208,"id_customer":669,"id_store":143}
+{"id":382,"name":"Can opener","price":2264,"date_sale":"2015-05-31","id_type":838,"id_brand":254,"id_customer":867,"id_store":906}
+{"id":383,"name":"Kitchen roll","price":7637,"date_sale":"1981-03-19","id_type":395,"id_brand":34,"id_customer":168,"id_store":647}
+{"id":384,"name":"Toilet roll","price":6468,"date_sale":"2020-06-19","id_type":831,"id_brand":321,"id_customer":786,"id_store":770}
+{"id":385,"name":"Table","price":9546,"date_sale":"1975-09-03","id_type":259,"id_brand":198,"id_customer":905,"id_store":391}
+{"id":386,"name":"Fire extinguisher","price":4299,"date_sale":"1974-03-20","id_type":24,"id_brand":220,"id_customer":398,"id_store":581}
+{"id":387,"name":"Vegetable peeler","price":7336,"date_sale":"2022-03-08","id_type":577,"id_brand":811,"id_customer":740,"id_store":99}
+{"id":388,"name":"Microwave","price":6355,"date_sale":"2014-07-19","id_type":142,"id_brand":624,"id_customer":428,"id_store":381}
+{"id":389,"name":"Toilet roll","price":9567,"date_sale":"2019-06-26","id_type":356,"id_brand":270,"id_customer":558,"id_store":18}
+{"id":390,"name":"Chest of drawers","price":4966,"date_sale":"1975-01-17","id_type":803,"id_brand":552,"id_customer":621,"id_store":773}
+{"id":391,"name":"Lanterns","price":3684,"date_sale":"1994-09-16","id_type":151,"id_brand":152,"id_customer":681,"id_store":6}
+{"id":392,"name":"Scissors","price":4163,"date_sale":"2012-06-01","id_type":543,"id_brand":821,"id_customer":188,"id_store":924}
+{"id":393,"name":"Scales","price":4724,"date_sale":"1982-12-22","id_type":418,"id_brand":721,"id_customer":306,"id_store":455}
+{"id":394,"name":"Toothbrush","price":5242,"date_sale":"2005-07-17","id_type":76,"id_brand":385,"id_customer":860,"id_store":956}
+{"id":395,"name":"Toilet roll holder","price":9183,"date_sale":"1975-05-26","id_type":221,"id_brand":446,"id_customer":530,"id_store":296}
+{"id":396,"name":"Washing-up liquid","price":8608,"date_sale":"2005-07-27","id_type":777,"id_brand":660,"id_customer":433,"id_store":258}
+{"id":397,"name":"Light bulbs","price":3012,"date_sale":"2018-12-20","id_type":336,"id_brand":484,"id_customer":205,"id_store":335}
+{"id":398,"name":"Drying rack","price":9766,"date_sale":"1982-01-31","id_type":949,"id_brand":949,"id_customer":875,"id_store":896}
+{"id":399,"name":"A clothes horse","price":2802,"date_sale":"1976-04-07","id_type":353,"id_brand":35,"id_customer":334,"id_store":620}
+{"id":400,"name":"Glasses","price":9689,"date_sale":"2007-04-13","id_type":818,"id_brand":647,"id_customer":734,"id_store":274}
+{"id":401,"name":"Bleach","price":7045,"date_sale":"1978-04-08","id_type":831,"id_brand":720,"id_customer":197,"id_store":27}
+{"id":402,"name":"Washing-up liquid","price":7844,"date_sale":"1993-04-14","id_type":821,"id_brand":143,"id_customer":137,"id_store":481}
+{"id":403,"name":"Salt and pepper shakers","price":8742,"date_sale":"1976-11-05","id_type":220,"id_brand":925,"id_customer":431,"id_store":718}
+{"id":404,"name":"Shower squeegee","price":8903,"date_sale":"2016-05-20","id_type":727,"id_brand":301,"id_customer":3,"id_store":711}
+{"id":405,"name":"Soap","price":9196,"date_sale":"1973-10-18","id_type":447,"id_brand":845,"id_customer":27,"id_store":154}
+{"id":406,"name":"Chest of drawers","price":2851,"date_sale":"1992-02-24","id_type":988,"id_brand":337,"id_customer":791,"id_store":329}
+{"id":407,"name":"General disinfectant","price":8111,"date_sale":"1981-02-04","id_type":759,"id_brand":458,"id_customer":154,"id_store":796}
+{"id":408,"name":"Glass cleaner","price":6778,"date_sale":"1977-11-22","id_type":232,"id_brand":211,"id_customer":441,"id_store":657}
+{"id":409,"name":"Rubbish bin and bin bags","price":4856,"date_sale":"1970-07-31","id_type":104,"id_brand":449,"id_customer":1000,"id_store":657}
+{"id":410,"name":"Wiping cloths","price":2670,"date_sale":"1999-10-24","id_type":82,"id_brand":429,"id_customer":954,"id_store":741}
+{"id":411,"name":"Bath Tubs","price":9692,"date_sale":"1998-11-16","id_type":180,"id_brand":723,"id_customer":350,"id_store":404}
+{"id":412,"name":"Plug extension leads","price":8039,"date_sale":"2008-09-22","id_type":56,"id_brand":216,"id_customer":119,"id_store":940}
+{"id":413,"name":"Pens","price":7572,"date_sale":"2012-12-15","id_type":205,"id_brand":764,"id_customer":955,"id_store":399}
+{"id":414,"name":"Rubbish bin and bin bags","price":9945,"date_sale":"2021-10-29","id_type":226,"id_brand":155,"id_customer":736,"id_store":50}
+{"id":415,"name":"Duvet & pillows","price":7575,"date_sale":"1981-02-10","id_type":262,"id_brand":757,"id_customer":4,"id_store":122}
+{"id":416,"name":"Washing powder","price":4343,"date_sale":"1991-10-30","id_type":575,"id_brand":637,"id_customer":998,"id_store":266}
+{"id":417,"name":"Limescale remover","price":4116,"date_sale":"1994-01-12","id_type":951,"id_brand":763,"id_customer":579,"id_store":282}
+{"id":418,"name":"Sponges","price":7423,"date_sale":"2006-01-09","id_type":753,"id_brand":305,"id_customer":706,"id_store":703}
+{"id":419,"name":"Dustpan and brush","price":3351,"date_sale":"1997-10-19","id_type":953,"id_brand":911,"id_customer":563,"id_store":784}
+{"id":420,"name":"Toilet brush","price":248,"date_sale":"1998-08-31","id_type":608,"id_brand":68,"id_customer":37,"id_store":687}
+{"id":421,"name":"Hand towel","price":9889,"date_sale":"1984-07-20","id_type":953,"id_brand":37,"id_customer":13,"id_store":562}
+{"id":422,"name":"Bleach","price":4889,"date_sale":"2001-01-31","id_type":500,"id_brand":630,"id_customer":247,"id_store":855}
+{"id":423,"name":"Nail scissors","price":4281,"date_sale":"2000-06-09","id_type":23,"id_brand":562,"id_customer":510,"id_store":722}
+{"id":424,"name":"Scissors","price":2498,"date_sale":"1982-07-23","id_type":657,"id_brand":923,"id_customer":278,"id_store":323}
+{"id":425,"name":"A clothes horse","price":8172,"date_sale":"1984-01-26","id_type":52,"id_brand":271,"id_customer":996,"id_store":210}
+{"id":426,"name":"Nail scissors","price":5057,"date_sale":"1978-05-03","id_type":454,"id_brand":452,"id_customer":82,"id_store":685}
+{"id":427,"name":"Glass cleaner","price":361,"date_sale":"1972-10-06","id_type":620,"id_brand":742,"id_customer":821,"id_store":608}
+{"id":428,"name":"Sharp knives","price":5731,"date_sale":"2019-10-25","id_type":323,"id_brand":294,"id_customer":764,"id_store":650}
+{"id":429,"name":"Toilet roll holder","price":4665,"date_sale":"2002-05-25","id_type":465,"id_brand":209,"id_customer":742,"id_store":874}
+{"id":430,"name":"Lamp","price":8425,"date_sale":"1992-04-08","id_type":172,"id_brand":783,"id_customer":692,"id_store":74}
+{"id":431,"name":"Mop and bucket","price":8362,"date_sale":"2012-08-11","id_type":190,"id_brand":97,"id_customer":867,"id_store":233}
+{"id":432,"name":"Painkillers","price":603,"date_sale":"1978-09-07","id_type":314,"id_brand":502,"id_customer":580,"id_store":769}
+{"id":433,"name":"Bin","price":3549,"date_sale":"2006-11-26","id_type":301,"id_brand":800,"id_customer":500,"id_store":360}
+{"id":434,"name":"Wiping cloths","price":9961,"date_sale":"2009-06-27","id_type":388,"id_brand":137,"id_customer":508,"id_store":98}
+{"id":435,"name":"Spatula","price":6150,"date_sale":"2009-11-29","id_type":945,"id_brand":510,"id_customer":90,"id_store":417}
+{"id":436,"name":"Mixing bowl","price":241,"date_sale":"2014-02-16","id_type":329,"id_brand":851,"id_customer":570,"id_store":429}
+{"id":437,"name":"Bathroom spray","price":4492,"date_sale":"2016-05-22","id_type":254,"id_brand":383,"id_customer":574,"id_store":543}
+{"id":438,"name":"Wiping cloths","price":3365,"date_sale":"2004-11-30","id_type":943,"id_brand":19,"id_customer":427,"id_store":172}
+{"id":439,"name":"Sponge","price":8146,"date_sale":"2017-11-14","id_type":752,"id_brand":397,"id_customer":546,"id_store":428}
+{"id":440,"name":"Kettle","price":5276,"date_sale":"2014-10-18","id_type":369,"id_brand":965,"id_customer":676,"id_store":605}
+{"id":441,"name":"Lamp","price":8239,"date_sale":"1972-06-30","id_type":173,"id_brand":921,"id_customer":212,"id_store":373}
+{"id":442,"name":"Microwave","price":3938,"date_sale":"2012-04-18","id_type":415,"id_brand":900,"id_customer":191,"id_store":725}
+{"id":443,"name":"Crockery","price":4663,"date_sale":"1987-10-25","id_type":221,"id_brand":797,"id_customer":291,"id_store":143}
+{"id":444,"name":"Hammer","price":2662,"date_sale":"1981-08-24","id_type":777,"id_brand":186,"id_customer":549,"id_store":600}
+{"id":445,"name":"Spatula","price":5205,"date_sale":"1978-05-01","id_type":880,"id_brand":293,"id_customer":497,"id_store":284}
+{"id":446,"name":"Glass cleaner","price":6109,"date_sale":"2021-08-09","id_type":397,"id_brand":138,"id_customer":689,"id_store":588}
+{"id":447,"name":"Bottle opener","price":9573,"date_sale":"1978-06-24","id_type":727,"id_brand":605,"id_customer":739,"id_store":270}
+{"id":448,"name":"Sharp knives","price":5756,"date_sale":"2013-06-14","id_type":149,"id_brand":543,"id_customer":123,"id_store":398}
+{"id":449,"name":"Glasses","price":7170,"date_sale":"1988-07-25","id_type":204,"id_brand":51,"id_customer":637,"id_store":640}
+{"id":450,"name":"Wiping cloths","price":2596,"date_sale":"1973-02-09","id_type":469,"id_brand":479,"id_customer":103,"id_store":795}
+{"id":451,"name":"Bandages","price":8806,"date_sale":"2006-04-21","id_type":833,"id_brand":19,"id_customer":211,"id_store":625}
+{"id":452,"name":"Chest of drawers","price":1007,"date_sale":"1981-06-29","id_type":30,"id_brand":687,"id_customer":957,"id_store":501}
+{"id":453,"name":"Light bulbs","price":4904,"date_sale":"1978-08-12","id_type":96,"id_brand":628,"id_customer":272,"id_store":673}
+{"id":454,"name":"Couch","price":5431,"date_sale":"1970-09-15","id_type":612,"id_brand":265,"id_customer":401,"id_store":809}
+{"id":455,"name":"Plug extension leads","price":7059,"date_sale":"1983-05-24","id_type":541,"id_brand":935,"id_customer":12,"id_store":141}
+{"id":456,"name":"Ladder","price":2057,"date_sale":"2011-07-13","id_type":386,"id_brand":24,"id_customer":714,"id_store":808}
+{"id":457,"name":"Bedding","price":4420,"date_sale":"1997-07-04","id_type":140,"id_brand":571,"id_customer":395,"id_store":147}
+{"id":458,"name":"Chairs","price":8485,"date_sale":"1985-04-16","id_type":362,"id_brand":433,"id_customer":412,"id_store":416}
+{"id":459,"name":"Sponge","price":1538,"date_sale":"1985-09-02","id_type":719,"id_brand":303,"id_customer":546,"id_store":745}
+{"id":460,"name":"Kitchen roll","price":9214,"date_sale":"1993-08-16","id_type":911,"id_brand":864,"id_customer":783,"id_store":456}
+{"id":461,"name":"Disinfectant","price":1203,"date_sale":"1999-12-31","id_type":373,"id_brand":884,"id_customer":584,"id_store":37}
+{"id":462,"name":"Scrubbers","price":9171,"date_sale":"1979-09-01","id_type":664,"id_brand":21,"id_customer":850,"id_store":234}
+{"id":463,"name":"Pens","price":5727,"date_sale":"2019-12-28","id_type":400,"id_brand":922,"id_customer":773,"id_store":954}
+{"id":464,"name":"Scissors","price":3914,"date_sale":"1993-03-07","id_type":82,"id_brand":200,"id_customer":880,"id_store":563}
+{"id":465,"name":"Nail scissors","price":5627,"date_sale":"2006-12-18","id_type":714,"id_brand":466,"id_customer":656,"id_store":155}
+{"id":466,"name":"Kitchen roll","price":2811,"date_sale":"2007-01-02","id_type":866,"id_brand":998,"id_customer":162,"id_store":751}
+{"id":467,"name":"Wi-Fi","price":1035,"date_sale":"1976-08-18","id_type":538,"id_brand":208,"id_customer":712,"id_store":270}
+{"id":468,"name":"Floor cleaner","price":123,"date_sale":"2007-01-11","id_type":481,"id_brand":742,"id_customer":262,"id_store":37}
+{"id":469,"name":"Screwdrivers","price":143,"date_sale":"2002-12-26","id_type":360,"id_brand":473,"id_customer":390,"id_store":431}
+{"id":470,"name":"Washing powder","price":9278,"date_sale":"2012-11-21","id_type":541,"id_brand":509,"id_customer":751,"id_store":875}
+{"id":471,"name":"Glasses","price":6922,"date_sale":"1973-01-03","id_type":888,"id_brand":479,"id_customer":450,"id_store":522}
+{"id":472,"name":"Mugs","price":2939,"date_sale":"1977-07-30","id_type":1,"id_brand":392,"id_customer":801,"id_store":537}
+{"id":473,"name":"Baking tray","price":5462,"date_sale":"1999-10-18","id_type":701,"id_brand":310,"id_customer":180,"id_store":375}
+{"id":474,"name":"Towel","price":9058,"date_sale":"1995-01-20","id_type":697,"id_brand":506,"id_customer":719,"id_store":43}
+{"id":475,"name":"Can opener","price":8423,"date_sale":"2005-07-10","id_type":494,"id_brand":326,"id_customer":462,"id_store":835}
+{"id":476,"name":"Hangers for your clothes","price":977,"date_sale":"1980-03-13","id_type":31,"id_brand":668,"id_customer":694,"id_store":858}
+{"id":477,"name":"Kitchen roll","price":59,"date_sale":"1970-12-26","id_type":981,"id_brand":622,"id_customer":397,"id_store":39}
+{"id":478,"name":"Sharp knives","price":1993,"date_sale":"2006-07-27","id_type":710,"id_brand":41,"id_customer":554,"id_store":92}
+{"id":479,"name":"Bin","price":7063,"date_sale":"1973-01-07","id_type":53,"id_brand":948,"id_customer":803,"id_store":453}
+{"id":480,"name":"Toilet brush","price":5692,"date_sale":"1975-02-28","id_type":38,"id_brand":616,"id_customer":753,"id_store":796}
+{"id":481,"name":"Pots and pans","price":2705,"date_sale":"1994-07-09","id_type":616,"id_brand":336,"id_customer":440,"id_store":330}
+{"id":482,"name":"Table","price":6851,"date_sale":"1994-10-03","id_type":109,"id_brand":194,"id_customer":317,"id_store":591}
+{"id":483,"name":"Lanterns","price":7801,"date_sale":"1987-07-19","id_type":693,"id_brand":896,"id_customer":338,"id_store":752}
+{"id":484,"name":"Batteries","price":6563,"date_sale":"1985-02-22","id_type":800,"id_brand":416,"id_customer":780,"id_store":947}
+{"id":485,"name":"Rubbish bin and bin bags","price":7142,"date_sale":"2021-02-14","id_type":619,"id_brand":471,"id_customer":226,"id_store":834}
+{"id":486,"name":"A clothes horse","price":3373,"date_sale":"1991-12-14","id_type":377,"id_brand":725,"id_customer":876,"id_store":380}
+{"id":487,"name":"Sponge","price":2865,"date_sale":"2015-01-21","id_type":492,"id_brand":90,"id_customer":659,"id_store":702}
+{"id":488,"name":"A mirror","price":7577,"date_sale":"1993-01-05","id_type":8,"id_brand":760,"id_customer":331,"id_store":891}
+{"id":489,"name":"Ladder","price":5848,"date_sale":"2008-03-18","id_type":751,"id_brand":537,"id_customer":751,"id_store":84}
+{"id":490,"name":"Fire blanket","price":1338,"date_sale":"2006-07-20","id_type":383,"id_brand":843,"id_customer":664,"id_store":757}
+{"id":491,"name":"Plug extension leads","price":8121,"date_sale":"1972-12-09","id_type":212,"id_brand":757,"id_customer":88,"id_store":900}
+{"id":492,"name":"Soap","price":5121,"date_sale":"1988-02-17","id_type":47,"id_brand":320,"id_customer":569,"id_store":814}
+{"id":493,"name":"Fire blanket","price":3946,"date_sale":"1984-11-26","id_type":686,"id_brand":250,"id_customer":328,"id_store":702}
+{"id":494,"name":"Fire blanket","price":5658,"date_sale":"1996-07-02","id_type":718,"id_brand":306,"id_customer":712,"id_store":744}
+{"id":495,"name":"Lanterns","price":6295,"date_sale":"1984-05-26","id_type":865,"id_brand":637,"id_customer":132,"id_store":662}
+{"id":496,"name":"Ladder","price":4808,"date_sale":"2010-09-21","id_type":695,"id_brand":64,"id_customer":734,"id_store":212}
+{"id":497,"name":"Wardrobe","price":6701,"date_sale":"1994-06-26","id_type":845,"id_brand":349,"id_customer":568,"id_store":176}
+{"id":498,"name":"Coffee table","price":5449,"date_sale":"2005-07-18","id_type":96,"id_brand":851,"id_customer":576,"id_store":190}
+{"id":499,"name":"Sponge","price":2266,"date_sale":"2005-03-22","id_type":522,"id_brand":605,"id_customer":854,"id_store":500}
+{"id":500,"name":"Limescale remover","price":3481,"date_sale":"1977-04-12","id_type":851,"id_brand":958,"id_customer":403,"id_store":282}
+{"id":501,"name":"Bath Tubs","price":3293,"date_sale":"1989-10-05","id_type":864,"id_brand":145,"id_customer":230,"id_store":816}
+{"id":502,"name":"Sharp knives","price":594,"date_sale":"2010-12-05","id_type":253,"id_brand":197,"id_customer":764,"id_store":758}
+{"id":503,"name":"Screws","price":5444,"date_sale":"1988-10-31","id_type":253,"id_brand":839,"id_customer":891,"id_store":525}
+{"id":504,"name":"Torch","price":3373,"date_sale":"1994-10-09","id_type":440,"id_brand":280,"id_customer":886,"id_store":807}
+{"id":505,"name":"Bandages","price":9278,"date_sale":"1995-04-22","id_type":597,"id_brand":198,"id_customer":376,"id_store":714}
+{"id":506,"name":"Kettle","price":2370,"date_sale":"2020-10-06","id_type":443,"id_brand":973,"id_customer":574,"id_store":833}
+{"id":507,"name":"Pliers","price":6522,"date_sale":"2012-10-18","id_type":322,"id_brand":192,"id_customer":498,"id_store":169}
+{"id":508,"name":"Mop and bucket","price":7178,"date_sale":"2013-11-20","id_type":78,"id_brand":379,"id_customer":135,"id_store":342}
+{"id":509,"name":"A TV cable","price":3438,"date_sale":"1987-02-05","id_type":192,"id_brand":682,"id_customer":121,"id_store":13}
+{"id":510,"name":"Scissors","price":9613,"date_sale":"1978-05-27","id_type":118,"id_brand":342,"id_customer":790,"id_store":742}
+{"id":511,"name":"Pliers","price":2450,"date_sale":"1970-05-26","id_type":884,"id_brand":490,"id_customer":782,"id_store":447}
+{"id":512,"name":"Nail scissors","price":8544,"date_sale":"2008-08-15","id_type":18,"id_brand":988,"id_customer":198,"id_store":262}
+{"id":513,"name":"Salt and pepper shakers","price":8923,"date_sale":"2018-01-30","id_type":705,"id_brand":127,"id_customer":610,"id_store":12}
+{"id":514,"name":"Measuring jug","price":7638,"date_sale":"1987-03-28","id_type":658,"id_brand":974,"id_customer":872,"id_store":855}
+{"id":515,"name":"Bathroom spray","price":7973,"date_sale":"2006-01-21","id_type":165,"id_brand":743,"id_customer":62,"id_store":538}
+{"id":516,"name":"Screws","price":785,"date_sale":"2019-11-18","id_type":335,"id_brand":311,"id_customer":972,"id_store":898}
+{"id":517,"name":"A TV cable","price":6212,"date_sale":"1972-07-17","id_type":110,"id_brand":760,"id_customer":778,"id_store":669}
+{"id":518,"name":"Oven gloves","price":8842,"date_sale":"2006-06-07","id_type":462,"id_brand":443,"id_customer":118,"id_store":325}
+{"id":519,"name":"Toaster","price":5208,"date_sale":"2001-07-16","id_type":286,"id_brand":731,"id_customer":890,"id_store":540}
+{"id":520,"name":"Rubbish bin and bin bags","price":3991,"date_sale":"1998-05-04","id_type":293,"id_brand":169,"id_customer":397,"id_store":669}
+{"id":521,"name":"Oven gloves","price":7941,"date_sale":"1985-06-17","id_type":213,"id_brand":346,"id_customer":146,"id_store":919}
+{"id":522,"name":"Soap","price":7725,"date_sale":"1991-03-24","id_type":119,"id_brand":568,"id_customer":684,"id_store":401}
+{"id":523,"name":"Sponge","price":9552,"date_sale":"1983-09-03","id_type":181,"id_brand":829,"id_customer":916,"id_store":874}
+{"id":524,"name":"Baking tray","price":8033,"date_sale":"1970-08-02","id_type":682,"id_brand":547,"id_customer":54,"id_store":459}
+{"id":525,"name":"Salt and pepper shakers","price":7261,"date_sale":"2009-07-30","id_type":243,"id_brand":901,"id_customer":304,"id_store":863}
+{"id":526,"name":"Feather duster","price":7840,"date_sale":"1995-09-02","id_type":262,"id_brand":270,"id_customer":815,"id_store":50}
+{"id":527,"name":"A clothes horse","price":4527,"date_sale":"2009-11-01","id_type":640,"id_brand":822,"id_customer":420,"id_store":857}
+{"id":528,"name":"Can opener","price":2199,"date_sale":"2002-06-08","id_type":178,"id_brand":979,"id_customer":769,"id_store":284}
+{"id":529,"name":"Wardrobe","price":515,"date_sale":"2010-08-09","id_type":975,"id_brand":934,"id_customer":455,"id_store":410}
+{"id":530,"name":"Can opener","price":5624,"date_sale":"2007-10-09","id_type":921,"id_brand":296,"id_customer":615,"id_store":865}
+{"id":531,"name":"Rubbish bin and bin bags","price":5264,"date_sale":"1993-01-25","id_type":229,"id_brand":344,"id_customer":164,"id_store":84}
+{"id":532,"name":"Kitchen roll","price":3709,"date_sale":"1981-08-19","id_type":554,"id_brand":356,"id_customer":287,"id_store":410}
+{"id":533,"name":"Glass cleaner","price":9145,"date_sale":"1984-11-07","id_type":775,"id_brand":437,"id_customer":247,"id_store":66}
+{"id":534,"name":"Screws","price":2282,"date_sale":"1997-07-29","id_type":13,"id_brand":184,"id_customer":64,"id_store":617}
+{"id":535,"name":"Shower squeegee","price":2770,"date_sale":"1983-07-01","id_type":726,"id_brand":691,"id_customer":44,"id_store":44}
+{"id":536,"name":"Measuring jug","price":8908,"date_sale":"2006-02-22","id_type":236,"id_brand":298,"id_customer":387,"id_store":857}
+{"id":537,"name":"Cutlery","price":3111,"date_sale":"1986-08-22","id_type":117,"id_brand":295,"id_customer":769,"id_store":245}
+{"id":538,"name":"Vacuum cleaner","price":1865,"date_sale":"1975-05-13","id_type":284,"id_brand":212,"id_customer":14,"id_store":532}
+{"id":539,"name":"Thermometer","price":2227,"date_sale":"2005-06-29","id_type":735,"id_brand":889,"id_customer":410,"id_store":767}
+{"id":540,"name":"Sellotape","price":4849,"date_sale":"2015-04-01","id_type":92,"id_brand":168,"id_customer":389,"id_store":240}
+{"id":541,"name":"Shower squeegee","price":3179,"date_sale":"1987-07-16","id_type":604,"id_brand":777,"id_customer":906,"id_store":314}
+{"id":542,"name":"Torch","price":2737,"date_sale":"1974-05-22","id_type":302,"id_brand":475,"id_customer":218,"id_store":288}
+{"id":543,"name":"Washing-up liquid","price":9919,"date_sale":"1975-06-25","id_type":376,"id_brand":262,"id_customer":690,"id_store":10}
+{"id":544,"name":"Bleach","price":7150,"date_sale":"1979-08-03","id_type":970,"id_brand":365,"id_customer":915,"id_store":500}
+{"id":545,"name":"Can opener","price":5679,"date_sale":"2017-03-21","id_type":322,"id_brand":297,"id_customer":260,"id_store":749}
+{"id":546,"name":"Shower squeegee","price":9029,"date_sale":"1978-04-12","id_type":284,"id_brand":274,"id_customer":522,"id_store":799}
+{"id":547,"name":"Shower squeegee","price":6175,"date_sale":"1979-01-17","id_type":230,"id_brand":76,"id_customer":144,"id_store":895}
+{"id":548,"name":"Measuring tape","price":231,"date_sale":"1977-06-30","id_type":855,"id_brand":888,"id_customer":424,"id_store":948}
+{"id":549,"name":"Toilet roll holder","price":8094,"date_sale":"2008-04-22","id_type":690,"id_brand":560,"id_customer":39,"id_store":699}
+{"id":550,"name":"Salt and pepper shakers","price":2854,"date_sale":"1985-07-10","id_type":549,"id_brand":475,"id_customer":386,"id_store":135}
+{"id":551,"name":"Soap","price":6303,"date_sale":"2020-02-02","id_type":553,"id_brand":724,"id_customer":547,"id_store":360}
+{"id":552,"name":"Lanterns","price":794,"date_sale":"2019-01-14","id_type":871,"id_brand":204,"id_customer":157,"id_store":579}
+{"id":553,"name":"Oven gloves","price":1340,"date_sale":"1970-02-13","id_type":308,"id_brand":514,"id_customer":845,"id_store":646}
+{"id":554,"name":"Cutlery","price":4165,"date_sale":"2000-09-02","id_type":897,"id_brand":578,"id_customer":702,"id_store":850}
+{"id":555,"name":"Bathroom spray","price":7482,"date_sale":"1993-01-22","id_type":151,"id_brand":950,"id_customer":717,"id_store":205}
+{"id":556,"name":"Bedding","price":9547,"date_sale":"1976-01-02","id_type":983,"id_brand":472,"id_customer":340,"id_store":365}
+{"id":557,"name":"TV","price":280,"date_sale":"2008-10-13","id_type":870,"id_brand":75,"id_customer":965,"id_store":965}
+{"id":558,"name":"Scrubbers","price":4711,"date_sale":"2015-07-28","id_type":695,"id_brand":386,"id_customer":118,"id_store":432}
+{"id":559,"name":"Lanterns","price":4243,"date_sale":"2022-02-14","id_type":108,"id_brand":982,"id_customer":424,"id_store":650}
+{"id":560,"name":"Plug extension leads","price":1672,"date_sale":"1988-11-16","id_type":132,"id_brand":554,"id_customer":229,"id_store":381}
+{"id":561,"name":"Cutlery","price":3296,"date_sale":"1984-12-08","id_type":687,"id_brand":744,"id_customer":352,"id_store":388}
+{"id":562,"name":"Bleach","price":555,"date_sale":"2009-01-28","id_type":194,"id_brand":790,"id_customer":286,"id_store":206}
+{"id":563,"name":"Plasters","price":6440,"date_sale":"2011-05-10","id_type":185,"id_brand":44,"id_customer":769,"id_store":720}
+{"id":564,"name":"Crockery","price":3521,"date_sale":"2008-11-15","id_type":540,"id_brand":477,"id_customer":579,"id_store":226}
+{"id":565,"name":"Toaster","price":3379,"date_sale":"2010-03-10","id_type":605,"id_brand":859,"id_customer":331,"id_store":987}
+{"id":566,"name":"Toothbrush","price":8328,"date_sale":"1975-10-05","id_type":254,"id_brand":271,"id_customer":764,"id_store":410}
+{"id":567,"name":"Toothpaste","price":591,"date_sale":"1978-05-02","id_type":5,"id_brand":414,"id_customer":740,"id_store":117}
+{"id":568,"name":"Duvet & pillows","price":4800,"date_sale":"2022-06-27","id_type":18,"id_brand":42,"id_customer":475,"id_store":33}
+{"id":569,"name":"Couch","price":9517,"date_sale":"1985-03-02","id_type":982,"id_brand":115,"id_customer":519,"id_store":746}
+{"id":570,"name":"Sponges","price":8204,"date_sale":"1989-04-01","id_type":670,"id_brand":258,"id_customer":363,"id_store":430}
+{"id":571,"name":"Shower squeegee","price":4903,"date_sale":"1989-07-15","id_type":101,"id_brand":275,"id_customer":977,"id_store":939}
+{"id":572,"name":"Carbon monoxide alarm","price":5755,"date_sale":"2020-01-09","id_type":207,"id_brand":355,"id_customer":456,"id_store":55}
+{"id":573,"name":"Mop and bucket","price":2775,"date_sale":"1995-09-09","id_type":678,"id_brand":462,"id_customer":368,"id_store":900}
+{"id":574,"name":"Measuring tape","price":1643,"date_sale":"1999-08-30","id_type":400,"id_brand":194,"id_customer":535,"id_store":909}
+{"id":575,"name":"Screwdrivers","price":3608,"date_sale":"1994-04-28","id_type":837,"id_brand":84,"id_customer":717,"id_store":972}
+{"id":576,"name":"Bleach","price":1832,"date_sale":"2022-05-17","id_type":759,"id_brand":103,"id_customer":425,"id_store":445}
+{"id":577,"name":"Glasses","price":8549,"date_sale":"2001-06-13","id_type":357,"id_brand":4,"id_customer":463,"id_store":590}
+{"id":578,"name":"Lamp","price":1778,"date_sale":"1984-09-07","id_type":219,"id_brand":566,"id_customer":541,"id_store":364}
+{"id":579,"name":"Hangers for your clothes","price":2881,"date_sale":"2010-03-09","id_type":25,"id_brand":234,"id_customer":729,"id_store":762}
+{"id":580,"name":"Drying rack","price":7771,"date_sale":"1976-03-29","id_type":636,"id_brand":808,"id_customer":170,"id_store":219}
+{"id":581,"name":"Colander","price":6638,"date_sale":"1983-01-26","id_type":598,"id_brand":987,"id_customer":758,"id_store":504}
+{"id":582,"name":"Dustpan and brush","price":1185,"date_sale":"1987-02-06","id_type":944,"id_brand":410,"id_customer":51,"id_store":573}
+{"id":583,"name":"Fire blanket","price":3606,"date_sale":"2004-03-17","id_type":853,"id_brand":543,"id_customer":518,"id_store":119}
+{"id":584,"name":"Mixing bowl","price":1935,"date_sale":"1997-03-09","id_type":406,"id_brand":998,"id_customer":667,"id_store":545}
+{"id":585,"name":"Light bulbs","price":3490,"date_sale":"1978-06-24","id_type":283,"id_brand":129,"id_customer":467,"id_store":801}
+{"id":586,"name":"Thermometer","price":8450,"date_sale":"2003-02-01","id_type":538,"id_brand":992,"id_customer":237,"id_store":144}
+{"id":587,"name":"Mixing bowl","price":3152,"date_sale":"1998-03-01","id_type":196,"id_brand":982,"id_customer":719,"id_store":645}
+{"id":588,"name":"Duvet & pillows","price":7667,"date_sale":"1981-06-03","id_type":950,"id_brand":232,"id_customer":733,"id_store":610}
+{"id":589,"name":"Limescale remover","price":7188,"date_sale":"1983-01-16","id_type":312,"id_brand":342,"id_customer":654,"id_store":290}
+{"id":590,"name":"General disinfectant","price":7075,"date_sale":"1973-11-26","id_type":547,"id_brand":225,"id_customer":698,"id_store":472}
+{"id":591,"name":"Toilet roll","price":6510,"date_sale":"1991-07-03","id_type":445,"id_brand":411,"id_customer":686,"id_store":628}
+{"id":592,"name":"Plug extension leads","price":8425,"date_sale":"2014-11-01","id_type":6,"id_brand":718,"id_customer":791,"id_store":1}
+{"id":593,"name":"Bath Tubs","price":6534,"date_sale":"1989-12-15","id_type":764,"id_brand":674,"id_customer":666,"id_store":621}
+{"id":594,"name":"Table","price":7293,"date_sale":"2012-03-21","id_type":964,"id_brand":43,"id_customer":664,"id_store":329}
+{"id":595,"name":"Tea towel","price":6188,"date_sale":"2022-08-01","id_type":790,"id_brand":199,"id_customer":804,"id_store":252}
+{"id":596,"name":"Fire extinguisher","price":1845,"date_sale":"2015-06-29","id_type":61,"id_brand":411,"id_customer":477,"id_store":233}
+{"id":597,"name":"Feather duster","price":1722,"date_sale":"1975-10-09","id_type":185,"id_brand":992,"id_customer":846,"id_store":403}
+{"id":598,"name":"Torch","price":1518,"date_sale":"1983-05-11","id_type":458,"id_brand":377,"id_customer":427,"id_store":906}
+{"id":599,"name":"Batteries","price":9226,"date_sale":"1974-07-28","id_type":398,"id_brand":458,"id_customer":182,"id_store":302}
+{"id":600,"name":"Bathroom spray","price":9718,"date_sale":"1991-06-28","id_type":623,"id_brand":558,"id_customer":98,"id_store":48}
+{"id":601,"name":"Batteries","price":1632,"date_sale":"1999-06-07","id_type":347,"id_brand":526,"id_customer":874,"id_store":116}
+{"id":602,"name":"Toilet brush","price":5183,"date_sale":"1982-10-04","id_type":548,"id_brand":823,"id_customer":384,"id_store":837}
+{"id":603,"name":"Nail scissors","price":9628,"date_sale":"2001-12-28","id_type":171,"id_brand":678,"id_customer":640,"id_store":692}
+{"id":604,"name":"Floor cleaner","price":7423,"date_sale":"2007-04-10","id_type":918,"id_brand":613,"id_customer":168,"id_store":927}
+{"id":605,"name":"Microwave","price":2277,"date_sale":"2020-02-01","id_type":634,"id_brand":276,"id_customer":363,"id_store":674}
+{"id":606,"name":"Bath Tubs","price":230,"date_sale":"2014-02-21","id_type":625,"id_brand":835,"id_customer":398,"id_store":64}
+{"id":607,"name":"Bedding","price":8418,"date_sale":"2000-01-31","id_type":674,"id_brand":636,"id_customer":683,"id_store":712}
+{"id":608,"name":"Shower squeegee","price":6594,"date_sale":"2021-06-12","id_type":343,"id_brand":919,"id_customer":798,"id_store":999}
+{"id":609,"name":"Bathroom spray","price":8177,"date_sale":"1976-03-13","id_type":657,"id_brand":182,"id_customer":724,"id_store":820}
+{"id":610,"name":"Bleach","price":3393,"date_sale":"1980-12-18","id_type":66,"id_brand":938,"id_customer":260,"id_store":355}
+{"id":611,"name":"Lanterns","price":6359,"date_sale":"1971-12-02","id_type":633,"id_brand":782,"id_customer":467,"id_store":778}
+{"id":612,"name":"Towel","price":5504,"date_sale":"2012-01-07","id_type":714,"id_brand":835,"id_customer":571,"id_store":784}
+{"id":613,"name":"Washing powder","price":7275,"date_sale":"1986-01-18","id_type":900,"id_brand":839,"id_customer":402,"id_store":739}
+{"id":614,"name":"Batteries","price":9770,"date_sale":"2017-01-26","id_type":442,"id_brand":536,"id_customer":117,"id_store":572}
+{"id":615,"name":"Hand towel","price":4818,"date_sale":"2006-01-27","id_type":573,"id_brand":567,"id_customer":717,"id_store":773}
+{"id":616,"name":"Washing-up liquid","price":5720,"date_sale":"1974-06-29","id_type":304,"id_brand":434,"id_customer":491,"id_store":450}
+{"id":617,"name":"Screws","price":5597,"date_sale":"2015-11-06","id_type":314,"id_brand":287,"id_customer":47,"id_store":28}
+{"id":618,"name":"Bandages","price":7972,"date_sale":"1993-08-27","id_type":696,"id_brand":22,"id_customer":663,"id_store":756}
+{"id":619,"name":"Washing-up liquid","price":8328,"date_sale":"1989-02-08","id_type":158,"id_brand":413,"id_customer":585,"id_store":239}
+{"id":620,"name":"Bedding","price":6411,"date_sale":"2022-09-15","id_type":585,"id_brand":501,"id_customer":999,"id_store":183}
+{"id":621,"name":"Painkillers","price":811,"date_sale":"1992-08-24","id_type":682,"id_brand":960,"id_customer":99,"id_store":850}
+{"id":622,"name":"Curtains","price":8505,"date_sale":"1982-08-26","id_type":551,"id_brand":110,"id_customer":846,"id_store":247}
+{"id":623,"name":"Mop and bucket","price":4997,"date_sale":"1994-10-01","id_type":734,"id_brand":945,"id_customer":25,"id_store":32}
+{"id":624,"name":"Scales","price":1273,"date_sale":"1977-12-29","id_type":698,"id_brand":556,"id_customer":430,"id_store":971}
+{"id":625,"name":"Glasses","price":8175,"date_sale":"1976-05-31","id_type":431,"id_brand":737,"id_customer":666,"id_store":98}
+{"id":626,"name":"Sharp knives","price":2233,"date_sale":"2008-10-25","id_type":963,"id_brand":203,"id_customer":287,"id_store":956}
+{"id":627,"name":"A mirror","price":4651,"date_sale":"1981-01-04","id_type":307,"id_brand":472,"id_customer":694,"id_store":919}
+{"id":628,"name":"Bathroom spray","price":3339,"date_sale":"1980-07-02","id_type":838,"id_brand":539,"id_customer":322,"id_store":538}
+{"id":629,"name":"Scrubbers","price":919,"date_sale":"1996-03-05","id_type":960,"id_brand":169,"id_customer":583,"id_store":418}
+{"id":630,"name":"Lamp","price":6044,"date_sale":"1973-12-23","id_type":413,"id_brand":502,"id_customer":800,"id_store":658}
+{"id":631,"name":"A mirror","price":8685,"date_sale":"1984-11-02","id_type":192,"id_brand":395,"id_customer":909,"id_store":69}
+{"id":632,"name":"Toilet roll","price":1436,"date_sale":"2015-04-08","id_type":400,"id_brand":316,"id_customer":348,"id_store":504}
+{"id":633,"name":"Lanterns","price":209,"date_sale":"1979-06-22","id_type":190,"id_brand":430,"id_customer":215,"id_store":275}
+{"id":634,"name":"Bathroom spray","price":4604,"date_sale":"1970-07-16","id_type":474,"id_brand":808,"id_customer":915,"id_store":503}
+{"id":635,"name":"Ladder","price":8640,"date_sale":"2018-03-01","id_type":685,"id_brand":338,"id_customer":869,"id_store":190}
+{"id":636,"name":"Mugs","price":5208,"date_sale":"1998-02-05","id_type":353,"id_brand":494,"id_customer":812,"id_store":670}
+{"id":637,"name":"Measuring jug","price":2018,"date_sale":"2001-03-14","id_type":500,"id_brand":239,"id_customer":164,"id_store":324}
+{"id":638,"name":"TV","price":7890,"date_sale":"1973-10-12","id_type":5,"id_brand":814,"id_customer":77,"id_store":879}
+{"id":639,"name":"Duvet & pillows","price":4529,"date_sale":"2020-09-05","id_type":434,"id_brand":785,"id_customer":161,"id_store":476}
+{"id":640,"name":"TV","price":8874,"date_sale":"1975-12-29","id_type":789,"id_brand":602,"id_customer":490,"id_store":12}
+{"id":641,"name":"Batteries","price":5519,"date_sale":"2012-04-22","id_type":296,"id_brand":747,"id_customer":962,"id_store":574}
+{"id":642,"name":"Toilet brush","price":7802,"date_sale":"1971-11-11","id_type":345,"id_brand":906,"id_customer":374,"id_store":641}
+{"id":643,"name":"Duvet & pillows","price":8834,"date_sale":"1975-07-14","id_type":533,"id_brand":364,"id_customer":840,"id_store":506}
+{"id":644,"name":"Paper","price":8549,"date_sale":"1982-02-21","id_type":389,"id_brand":164,"id_customer":637,"id_store":228}
+{"id":645,"name":"Bin","price":738,"date_sale":"2020-03-21","id_type":970,"id_brand":182,"id_customer":612,"id_store":632}
+{"id":646,"name":"Lanterns","price":1034,"date_sale":"2022-05-06","id_type":519,"id_brand":276,"id_customer":422,"id_store":7}
+{"id":647,"name":"Bedside lamp","price":4676,"date_sale":"1970-09-06","id_type":585,"id_brand":199,"id_customer":705,"id_store":55}
+{"id":648,"name":"Plug extension leads","price":7459,"date_sale":"2002-07-17","id_type":119,"id_brand":228,"id_customer":752,"id_store":602}
+{"id":649,"name":"Soap","price":554,"date_sale":"1995-07-17","id_type":811,"id_brand":200,"id_customer":715,"id_store":153}
+{"id":650,"name":"Fire blanket","price":3049,"date_sale":"1979-10-17","id_type":365,"id_brand":888,"id_customer":406,"id_store":938}
+{"id":651,"name":"Spatula","price":1802,"date_sale":"2007-11-03","id_type":394,"id_brand":223,"id_customer":317,"id_store":55}
+{"id":652,"name":"Plasters","price":7808,"date_sale":"1982-02-12","id_type":289,"id_brand":230,"id_customer":945,"id_store":786}
+{"id":653,"name":"Serving platter","price":3443,"date_sale":"1981-08-18","id_type":50,"id_brand":125,"id_customer":343,"id_store":958}
+{"id":654,"name":"A TV cable","price":57,"date_sale":"1976-04-12","id_type":641,"id_brand":434,"id_customer":216,"id_store":170}
+{"id":655,"name":"Vegetable peeler","price":4978,"date_sale":"2013-09-19","id_type":996,"id_brand":552,"id_customer":376,"id_store":358}
+{"id":656,"name":"Shower squeegee","price":542,"date_sale":"1979-03-12","id_type":58,"id_brand":576,"id_customer":65,"id_store":675}
+{"id":657,"name":"Washing-up liquid","price":7966,"date_sale":"2022-10-27","id_type":329,"id_brand":429,"id_customer":688,"id_store":283}
+{"id":658,"name":"Plasters","price":6504,"date_sale":"1981-02-18","id_type":395,"id_brand":765,"id_customer":774,"id_store":340}
+{"id":659,"name":"Vegetable peeler","price":9597,"date_sale":"1999-08-03","id_type":566,"id_brand":834,"id_customer":362,"id_store":339}
+{"id":660,"name":"Wooden spoon","price":6813,"date_sale":"2022-01-03","id_type":999,"id_brand":806,"id_customer":266,"id_store":787}
+{"id":661,"name":"TV","price":4422,"date_sale":"1981-05-28","id_type":932,"id_brand":611,"id_customer":854,"id_store":330}
+{"id":662,"name":"Thermometer","price":2049,"date_sale":"1979-05-09","id_type":366,"id_brand":621,"id_customer":356,"id_store":921}
+{"id":663,"name":"Paper","price":8726,"date_sale":"1991-12-14","id_type":156,"id_brand":586,"id_customer":606,"id_store":44}
+{"id":664,"name":"Plug extension leads","price":6123,"date_sale":"2001-08-21","id_type":38,"id_brand":524,"id_customer":666,"id_store":294}
+{"id":665,"name":"Kitchen roll","price":3146,"date_sale":"1995-01-07","id_type":351,"id_brand":515,"id_customer":363,"id_store":357}
+{"id":666,"name":"Kitchen roll","price":9218,"date_sale":"2016-02-20","id_type":921,"id_brand":209,"id_customer":576,"id_store":76}
+{"id":667,"name":"Pliers","price":9087,"date_sale":"2001-04-16","id_type":389,"id_brand":727,"id_customer":475,"id_store":577}
+{"id":668,"name":"Scissors","price":1443,"date_sale":"1992-05-29","id_type":1000,"id_brand":771,"id_customer":309,"id_store":34}
+{"id":669,"name":"Dustpan and brush","price":6960,"date_sale":"1985-04-18","id_type":294,"id_brand":741,"id_customer":346,"id_store":89}
+{"id":670,"name":"Coffee table","price":262,"date_sale":"2017-03-06","id_type":749,"id_brand":460,"id_customer":987,"id_store":652}
+{"id":671,"name":"Wi-Fi","price":4585,"date_sale":"2019-02-20","id_type":823,"id_brand":573,"id_customer":160,"id_store":660}
+{"id":672,"name":"Sponge","price":8803,"date_sale":"2016-07-06","id_type":443,"id_brand":285,"id_customer":961,"id_store":723}
+{"id":673,"name":"Chest of drawers","price":7697,"date_sale":"2005-07-11","id_type":302,"id_brand":129,"id_customer":317,"id_store":570}
+{"id":674,"name":"Vacuum cleaner","price":4988,"date_sale":"1976-09-07","id_type":311,"id_brand":254,"id_customer":415,"id_store":150}
+{"id":675,"name":"Drying rack","price":4130,"date_sale":"2007-06-15","id_type":572,"id_brand":787,"id_customer":43,"id_store":998}
+{"id":676,"name":"Scrubbers","price":1553,"date_sale":"1996-03-16","id_type":881,"id_brand":617,"id_customer":661,"id_store":438}
+{"id":677,"name":"Light bulbs","price":4501,"date_sale":"2021-07-24","id_type":81,"id_brand":112,"id_customer":607,"id_store":468}
+{"id":678,"name":"Toilet roll","price":526,"date_sale":"2008-10-08","id_type":457,"id_brand":718,"id_customer":808,"id_store":724}
+{"id":679,"name":"Hammer","price":7934,"date_sale":"1995-10-03","id_type":107,"id_brand":645,"id_customer":729,"id_store":575}
+{"id":680,"name":"Mop and bucket","price":8187,"date_sale":"1980-09-26","id_type":1000,"id_brand":321,"id_customer":80,"id_store":5}
+{"id":681,"name":"Kitchen roll","price":8200,"date_sale":"1980-12-05","id_type":944,"id_brand":899,"id_customer":570,"id_store":969}
+{"id":682,"name":"Disinfectant","price":218,"date_sale":"2016-09-23","id_type":964,"id_brand":417,"id_customer":95,"id_store":391}
+{"id":683,"name":"Nail scissors","price":174,"date_sale":"1981-01-15","id_type":550,"id_brand":929,"id_customer":991,"id_store":756}
+{"id":684,"name":"Sponge","price":291,"date_sale":"1991-11-09","id_type":209,"id_brand":925,"id_customer":553,"id_store":964}
+{"id":685,"name":"Toilet roll","price":2728,"date_sale":"1986-10-22","id_type":790,"id_brand":140,"id_customer":519,"id_store":640}
+{"id":686,"name":"Spatula","price":5862,"date_sale":"1990-05-21","id_type":369,"id_brand":334,"id_customer":359,"id_store":709}
+{"id":687,"name":"Oven gloves","price":6407,"date_sale":"2004-11-08","id_type":307,"id_brand":123,"id_customer":286,"id_store":35}
+{"id":688,"name":"Glasses","price":1905,"date_sale":"1986-11-12","id_type":259,"id_brand":444,"id_customer":777,"id_store":989}
+{"id":689,"name":"Floor cleaner","price":2890,"date_sale":"2013-07-05","id_type":456,"id_brand":420,"id_customer":490,"id_store":416}
+{"id":690,"name":"Lanterns","price":1193,"date_sale":"1971-04-15","id_type":365,"id_brand":956,"id_customer":403,"id_store":863}
+{"id":691,"name":"A clothes horse","price":679,"date_sale":"1977-12-19","id_type":154,"id_brand":251,"id_customer":368,"id_store":1000}
+{"id":692,"name":"Bandages","price":2379,"date_sale":"2008-03-20","id_type":864,"id_brand":319,"id_customer":395,"id_store":90}
+{"id":693,"name":"Disinfectant","price":1513,"date_sale":"1983-04-06","id_type":441,"id_brand":93,"id_customer":219,"id_store":582}
+{"id":694,"name":"Glasses","price":8030,"date_sale":"2016-09-18","id_type":203,"id_brand":429,"id_customer":949,"id_store":720}
+{"id":695,"name":"Feather duster","price":9355,"date_sale":"1979-11-12","id_type":1000,"id_brand":517,"id_customer":167,"id_store":949}
+{"id":696,"name":"Pens","price":8012,"date_sale":"1971-01-14","id_type":209,"id_brand":122,"id_customer":791,"id_store":309}
+{"id":697,"name":"Scissors","price":3986,"date_sale":"1987-06-10","id_type":653,"id_brand":174,"id_customer":690,"id_store":527}
+{"id":698,"name":"Shower squeegee","price":5605,"date_sale":"2001-05-10","id_type":765,"id_brand":221,"id_customer":402,"id_store":683}
+{"id":699,"name":"Bedding","price":1182,"date_sale":"1996-10-28","id_type":666,"id_brand":368,"id_customer":380,"id_store":680}
+{"id":700,"name":"Wardrobe","price":2599,"date_sale":"1993-02-05","id_type":530,"id_brand":248,"id_customer":178,"id_store":387}
+{"id":701,"name":"Washing powder","price":8757,"date_sale":"1970-03-24","id_type":348,"id_brand":70,"id_customer":947,"id_store":210}
+{"id":702,"name":"A mirror","price":8253,"date_sale":"2019-12-08","id_type":997,"id_brand":132,"id_customer":12,"id_store":358}
+{"id":703,"name":"Mugs","price":4732,"date_sale":"1976-02-27","id_type":905,"id_brand":425,"id_customer":156,"id_store":138}
+{"id":704,"name":"Coffee table","price":6158,"date_sale":"2007-11-07","id_type":545,"id_brand":969,"id_customer":826,"id_store":781}
+{"id":705,"name":"Bandages","price":8945,"date_sale":"1982-08-03","id_type":636,"id_brand":186,"id_customer":368,"id_store":688}
+{"id":706,"name":"Disinfectant","price":3362,"date_sale":"2005-01-28","id_type":485,"id_brand":119,"id_customer":364,"id_store":415}
+{"id":707,"name":"Limescale remover","price":8032,"date_sale":"1990-05-12","id_type":880,"id_brand":787,"id_customer":285,"id_store":200}
+{"id":708,"name":"Floor cleaner","price":3630,"date_sale":"1981-10-29","id_type":397,"id_brand":681,"id_customer":175,"id_store":16}
+{"id":709,"name":"Hammer","price":8547,"date_sale":"1983-01-31","id_type":709,"id_brand":822,"id_customer":620,"id_store":248}
+{"id":710,"name":"Washing-up liquid","price":4973,"date_sale":"2000-03-05","id_type":848,"id_brand":681,"id_customer":463,"id_store":92}
+{"id":711,"name":"Toothbrush","price":6202,"date_sale":"2016-01-16","id_type":144,"id_brand":518,"id_customer":346,"id_store":360}
+{"id":712,"name":"Coffee table","price":5252,"date_sale":"1971-06-07","id_type":564,"id_brand":463,"id_customer":320,"id_store":432}
+{"id":713,"name":"Kitchen and bathroom spray","price":5750,"date_sale":"2007-11-18","id_type":727,"id_brand":101,"id_customer":857,"id_store":762}
+{"id":714,"name":"Chairs","price":1834,"date_sale":"1996-05-29","id_type":989,"id_brand":984,"id_customer":957,"id_store":850}
+{"id":715,"name":"Measuring jug","price":5273,"date_sale":"2009-09-16","id_type":272,"id_brand":761,"id_customer":631,"id_store":812}
+{"id":716,"name":"Wooden spoon","price":9693,"date_sale":"2002-07-02","id_type":230,"id_brand":199,"id_customer":146,"id_store":62}
+{"id":717,"name":"Thermometer","price":1502,"date_sale":"1974-05-02","id_type":848,"id_brand":586,"id_customer":77,"id_store":966}
+{"id":718,"name":"Bleach","price":2653,"date_sale":"2013-07-06","id_type":879,"id_brand":886,"id_customer":950,"id_store":429}
+{"id":719,"name":"Wiping cloths","price":8342,"date_sale":"2019-03-19","id_type":70,"id_brand":422,"id_customer":453,"id_store":219}
+{"id":720,"name":"Pots and pans","price":7516,"date_sale":"1991-11-28","id_type":697,"id_brand":999,"id_customer":684,"id_store":765}
+{"id":721,"name":"Wi-Fi","price":6597,"date_sale":"2000-09-08","id_type":607,"id_brand":487,"id_customer":1000,"id_store":18}
+{"id":722,"name":"Carbon monoxide alarm","price":4736,"date_sale":"1992-11-09","id_type":420,"id_brand":155,"id_customer":838,"id_store":959}
+{"id":723,"name":"Coffee table","price":2782,"date_sale":"1974-05-18","id_type":224,"id_brand":944,"id_customer":749,"id_store":639}
+{"id":724,"name":"Plug extension leads","price":7675,"date_sale":"1986-11-23","id_type":307,"id_brand":219,"id_customer":699,"id_store":320}
+{"id":725,"name":"Mop and bucket","price":7583,"date_sale":"2016-12-07","id_type":278,"id_brand":334,"id_customer":298,"id_store":534}
+{"id":726,"name":"Tea towel","price":8277,"date_sale":"1994-07-14","id_type":303,"id_brand":525,"id_customer":936,"id_store":568}
+{"id":727,"name":"Thermometer","price":2153,"date_sale":"1995-12-06","id_type":718,"id_brand":143,"id_customer":544,"id_store":100}
+{"id":728,"name":"Feather duster","price":5783,"date_sale":"1997-05-15","id_type":25,"id_brand":744,"id_customer":488,"id_store":485}
+{"id":729,"name":"Duvet & pillows","price":8139,"date_sale":"2022-04-09","id_type":203,"id_brand":440,"id_customer":724,"id_store":788}
+{"id":730,"name":"Washing powder","price":996,"date_sale":"1985-06-19","id_type":32,"id_brand":183,"id_customer":98,"id_store":971}
+{"id":731,"name":"Dustpan and brush","price":3125,"date_sale":"1998-04-09","id_type":953,"id_brand":109,"id_customer":886,"id_store":48}
+{"id":732,"name":"Batteries","price":4469,"date_sale":"1979-09-09","id_type":43,"id_brand":394,"id_customer":766,"id_store":657}
+{"id":733,"name":"Toilet roll holder","price":8276,"date_sale":"1995-12-01","id_type":174,"id_brand":794,"id_customer":899,"id_store":658}
+{"id":734,"name":"Sellotape","price":7359,"date_sale":"1973-05-25","id_type":223,"id_brand":65,"id_customer":314,"id_store":458}
+{"id":735,"name":"Bleach","price":9244,"date_sale":"2008-01-26","id_type":231,"id_brand":518,"id_customer":480,"id_store":389}
+{"id":736,"name":"Hammer","price":9740,"date_sale":"1987-01-22","id_type":381,"id_brand":843,"id_customer":333,"id_store":597}
+{"id":737,"name":"Batteries","price":3394,"date_sale":"2000-06-15","id_type":381,"id_brand":787,"id_customer":784,"id_store":37}
+{"id":738,"name":"Nail scissors","price":6315,"date_sale":"1983-07-03","id_type":848,"id_brand":524,"id_customer":670,"id_store":17}
+{"id":739,"name":"Wardrobe","price":5621,"date_sale":"2011-12-06","id_type":395,"id_brand":560,"id_customer":678,"id_store":211}
+{"id":740,"name":"Sellotape","price":555,"date_sale":"1981-06-20","id_type":140,"id_brand":841,"id_customer":833,"id_store":882}
+{"id":741,"name":"Pens","price":3035,"date_sale":"2004-01-19","id_type":418,"id_brand":671,"id_customer":328,"id_store":925}
+{"id":742,"name":"Scissors","price":6843,"date_sale":"2020-02-28","id_type":609,"id_brand":50,"id_customer":971,"id_store":898}
+{"id":743,"name":"Dustpan and brush","price":2701,"date_sale":"2008-04-03","id_type":761,"id_brand":919,"id_customer":722,"id_store":709}
+{"id":744,"name":"Measuring tape","price":2066,"date_sale":"2014-06-05","id_type":852,"id_brand":514,"id_customer":509,"id_store":77}
+{"id":745,"name":"Bathroom mat","price":8328,"date_sale":"2020-11-19","id_type":659,"id_brand":947,"id_customer":776,"id_store":11}
+{"id":746,"name":"Baking tray","price":8992,"date_sale":"1985-11-25","id_type":110,"id_brand":110,"id_customer":567,"id_store":119}
+{"id":747,"name":"Tea towel","price":8786,"date_sale":"1986-05-20","id_type":937,"id_brand":710,"id_customer":73,"id_store":720}
+{"id":748,"name":"Pens","price":297,"date_sale":"2008-05-26","id_type":356,"id_brand":724,"id_customer":629,"id_store":238}
+{"id":749,"name":"Scrubbers","price":399,"date_sale":"1988-12-27","id_type":931,"id_brand":557,"id_customer":888,"id_store":572}
+{"id":750,"name":"Smoke alarm","price":2097,"date_sale":"2010-03-16","id_type":527,"id_brand":602,"id_customer":892,"id_store":807}
+{"id":751,"name":"Bedside lamp","price":152,"date_sale":"1991-01-08","id_type":941,"id_brand":85,"id_customer":342,"id_store":240}
+{"id":752,"name":"Bath Tubs","price":4661,"date_sale":"2006-10-22","id_type":592,"id_brand":96,"id_customer":230,"id_store":809}
+{"id":753,"name":"Bedside lamp","price":8594,"date_sale":"2014-07-21","id_type":76,"id_brand":970,"id_customer":928,"id_store":832}
+{"id":754,"name":"Glasses","price":6569,"date_sale":"1976-07-01","id_type":363,"id_brand":410,"id_customer":361,"id_store":945}
+{"id":755,"name":"Vegetable peeler","price":7733,"date_sale":"2020-12-26","id_type":559,"id_brand":248,"id_customer":5,"id_store":620}
+{"id":756,"name":"Drying rack","price":3558,"date_sale":"2010-06-18","id_type":986,"id_brand":809,"id_customer":831,"id_store":72}
+{"id":757,"name":"Nail scissors","price":636,"date_sale":"1973-12-22","id_type":135,"id_brand":395,"id_customer":719,"id_store":34}
+{"id":758,"name":"Measuring tape","price":7181,"date_sale":"2012-12-03","id_type":322,"id_brand":262,"id_customer":257,"id_store":429}
+{"id":759,"name":"Coffee table","price":2584,"date_sale":"2003-10-15","id_type":256,"id_brand":970,"id_customer":598,"id_store":553}
+{"id":760,"name":"Curtains","price":5589,"date_sale":"1978-04-15","id_type":576,"id_brand":294,"id_customer":288,"id_store":336}
+{"id":761,"name":"Shower squeegee","price":2504,"date_sale":"1983-10-30","id_type":942,"id_brand":192,"id_customer":876,"id_store":272}
+{"id":762,"name":"Hangers for your clothes","price":7696,"date_sale":"2007-10-11","id_type":410,"id_brand":133,"id_customer":500,"id_store":90}
+{"id":763,"name":"Oven gloves","price":9882,"date_sale":"1993-06-25","id_type":757,"id_brand":342,"id_customer":421,"id_store":909}
+{"id":764,"name":"Disinfectant","price":4027,"date_sale":"2018-03-24","id_type":120,"id_brand":282,"id_customer":123,"id_store":29}
+{"id":765,"name":"Oven gloves","price":5935,"date_sale":"2007-05-13","id_type":547,"id_brand":245,"id_customer":80,"id_store":527}
+{"id":766,"name":"Baking tray","price":5369,"date_sale":"2009-09-20","id_type":851,"id_brand":553,"id_customer":300,"id_store":626}
+{"id":767,"name":"Microwave","price":3510,"date_sale":"2006-09-12","id_type":229,"id_brand":690,"id_customer":945,"id_store":501}
+{"id":768,"name":"Toaster","price":4938,"date_sale":"2004-05-08","id_type":143,"id_brand":731,"id_customer":617,"id_store":35}
+{"id":769,"name":"Measuring jug","price":4396,"date_sale":"2019-01-30","id_type":292,"id_brand":727,"id_customer":489,"id_store":114}
+{"id":770,"name":"Bath Tubs","price":5069,"date_sale":"2014-03-22","id_type":330,"id_brand":179,"id_customer":839,"id_store":120}
+{"id":771,"name":"Sponges","price":7858,"date_sale":"1976-11-30","id_type":865,"id_brand":317,"id_customer":215,"id_store":848}
+{"id":772,"name":"Table","price":3408,"date_sale":"1988-08-09","id_type":6,"id_brand":748,"id_customer":280,"id_store":4}
+{"id":773,"name":"Pens","price":299,"date_sale":"2001-04-29","id_type":251,"id_brand":224,"id_customer":783,"id_store":523}
+{"id":774,"name":"Glasses","price":5302,"date_sale":"1979-03-16","id_type":201,"id_brand":971,"id_customer":593,"id_store":835}
+{"id":775,"name":"Paper","price":6776,"date_sale":"2002-08-29","id_type":223,"id_brand":139,"id_customer":749,"id_store":292}
+{"id":776,"name":"Sponge","price":4700,"date_sale":"1984-05-12","id_type":490,"id_brand":991,"id_customer":629,"id_store":11}
+{"id":777,"name":"Sponge","price":6558,"date_sale":"2022-02-05","id_type":712,"id_brand":622,"id_customer":545,"id_store":160}
+{"id":778,"name":"Toaster","price":2359,"date_sale":"1974-03-22","id_type":620,"id_brand":145,"id_customer":353,"id_store":807}
+{"id":779,"name":"Pens","price":4884,"date_sale":"2010-05-03","id_type":461,"id_brand":686,"id_customer":770,"id_store":491}
+{"id":780,"name":"TV","price":2384,"date_sale":"1995-11-09","id_type":835,"id_brand":709,"id_customer":235,"id_store":651}
+{"id":781,"name":"Coffee table","price":8129,"date_sale":"2022-02-07","id_type":448,"id_brand":212,"id_customer":60,"id_store":16}
+{"id":782,"name":"Bedside lamp","price":9054,"date_sale":"2011-07-30","id_type":289,"id_brand":960,"id_customer":263,"id_store":660}
+{"id":783,"name":"Hammer","price":5189,"date_sale":"2021-06-28","id_type":99,"id_brand":786,"id_customer":374,"id_store":24}
+{"id":784,"name":"General disinfectant","price":6893,"date_sale":"1992-02-16","id_type":725,"id_brand":65,"id_customer":688,"id_store":849}
+{"id":785,"name":"Baking tray","price":2156,"date_sale":"2020-03-23","id_type":29,"id_brand":922,"id_customer":982,"id_store":670}
+{"id":786,"name":"Soap","price":3953,"date_sale":"2000-09-06","id_type":616,"id_brand":856,"id_customer":122,"id_store":893}
+{"id":787,"name":"Sponge","price":6589,"date_sale":"2012-08-08","id_type":504,"id_brand":62,"id_customer":456,"id_store":986}
+{"id":788,"name":"Scissors","price":9960,"date_sale":"1975-06-21","id_type":897,"id_brand":592,"id_customer":691,"id_store":678}
+{"id":789,"name":"Screws","price":2498,"date_sale":"1994-06-07","id_type":420,"id_brand":855,"id_customer":513,"id_store":797}
+{"id":790,"name":"Torch","price":5820,"date_sale":"1982-05-05","id_type":227,"id_brand":588,"id_customer":914,"id_store":224}
+{"id":791,"name":"Table","price":2915,"date_sale":"2013-05-15","id_type":250,"id_brand":293,"id_customer":927,"id_store":128}
+{"id":792,"name":"Soap","price":1470,"date_sale":"2000-08-27","id_type":921,"id_brand":204,"id_customer":157,"id_store":814}
+{"id":793,"name":"Crockery","price":7337,"date_sale":"1988-11-23","id_type":355,"id_brand":618,"id_customer":926,"id_store":109}
+{"id":794,"name":"Nail scissors","price":1395,"date_sale":"2005-11-18","id_type":366,"id_brand":151,"id_customer":675,"id_store":616}
+{"id":795,"name":"Toilet roll","price":8137,"date_sale":"2018-11-01","id_type":350,"id_brand":73,"id_customer":330,"id_store":826}
+{"id":796,"name":"Feather duster","price":3133,"date_sale":"2012-01-14","id_type":824,"id_brand":352,"id_customer":33,"id_store":19}
+{"id":797,"name":"Pliers","price":6933,"date_sale":"2013-10-18","id_type":963,"id_brand":936,"id_customer":596,"id_store":868}
+{"id":798,"name":"Coffee table","price":2891,"date_sale":"1995-03-06","id_type":289,"id_brand":136,"id_customer":502,"id_store":960}
+{"id":799,"name":"Can opener","price":7164,"date_sale":"1994-03-21","id_type":388,"id_brand":635,"id_customer":56,"id_store":107}
+{"id":800,"name":"Bedside table","price":9030,"date_sale":"2012-05-29","id_type":82,"id_brand":348,"id_customer":934,"id_store":282}
+{"id":801,"name":"Toothpaste","price":9689,"date_sale":"2013-12-22","id_type":55,"id_brand":6,"id_customer":108,"id_store":918}
+{"id":802,"name":"Pliers","price":2273,"date_sale":"2020-10-02","id_type":331,"id_brand":863,"id_customer":712,"id_store":682}
+{"id":803,"name":"Toaster","price":5936,"date_sale":"2000-12-30","id_type":212,"id_brand":984,"id_customer":127,"id_store":487}
+{"id":804,"name":"Bath Tubs","price":4133,"date_sale":"1978-02-15","id_type":253,"id_brand":156,"id_customer":720,"id_store":411}
+{"id":805,"name":"Screwdrivers","price":9108,"date_sale":"1982-03-04","id_type":144,"id_brand":99,"id_customer":672,"id_store":253}
+{"id":806,"name":"Washing-up liquid","price":6898,"date_sale":"2005-11-06","id_type":991,"id_brand":280,"id_customer":180,"id_store":14}
+{"id":807,"name":"Wooden spoon","price":344,"date_sale":"2016-03-20","id_type":491,"id_brand":888,"id_customer":690,"id_store":525}
+{"id":808,"name":"Paper","price":3936,"date_sale":"2011-02-02","id_type":442,"id_brand":29,"id_customer":528,"id_store":137}
+{"id":809,"name":"Pliers","price":5507,"date_sale":"1981-06-24","id_type":854,"id_brand":679,"id_customer":20,"id_store":670}
+{"id":810,"name":"Bathroom mat","price":5559,"date_sale":"1974-05-16","id_type":456,"id_brand":930,"id_customer":611,"id_store":342}
+{"id":811,"name":"Toilet brush","price":4944,"date_sale":"1990-10-09","id_type":513,"id_brand":308,"id_customer":634,"id_store":654}
+{"id":812,"name":"TV","price":1943,"date_sale":"1974-05-13","id_type":439,"id_brand":797,"id_customer":234,"id_store":108}
+{"id":813,"name":"Smoke alarm","price":3951,"date_sale":"2006-10-30","id_type":921,"id_brand":437,"id_customer":775,"id_store":996}
+{"id":814,"name":"Chairs","price":3075,"date_sale":"1991-12-12","id_type":485,"id_brand":328,"id_customer":187,"id_store":367}
+{"id":815,"name":"Toothbrush","price":6389,"date_sale":"1974-03-25","id_type":396,"id_brand":551,"id_customer":385,"id_store":654}
+{"id":816,"name":"Screwdrivers","price":7295,"date_sale":"1998-09-07","id_type":655,"id_brand":731,"id_customer":718,"id_store":574}
+{"id":817,"name":"Drying rack","price":9266,"date_sale":"1975-10-07","id_type":441,"id_brand":93,"id_customer":258,"id_store":33}
+{"id":818,"name":"Toothbrush","price":3186,"date_sale":"1976-03-01","id_type":210,"id_brand":514,"id_customer":706,"id_store":753}
+{"id":819,"name":"Thermometer","price":7271,"date_sale":"2014-12-27","id_type":612,"id_brand":401,"id_customer":819,"id_store":345}
+{"id":820,"name":"Serving platter","price":9284,"date_sale":"1986-03-01","id_type":669,"id_brand":69,"id_customer":264,"id_store":520}
+{"id":821,"name":"Kitchen and bathroom spray","price":1450,"date_sale":"2002-07-19","id_type":60,"id_brand":496,"id_customer":617,"id_store":866}
+{"id":822,"name":"Bathroom spray","price":4300,"date_sale":"1973-03-29","id_type":931,"id_brand":897,"id_customer":379,"id_store":613}
+{"id":823,"name":"Mixing bowl","price":671,"date_sale":"1994-09-03","id_type":34,"id_brand":367,"id_customer":231,"id_store":650}
+{"id":824,"name":"Plasters","price":5234,"date_sale":"1988-11-06","id_type":624,"id_brand":995,"id_customer":815,"id_store":996}
+{"id":825,"name":"General disinfectant","price":2213,"date_sale":"1987-08-30","id_type":89,"id_brand":140,"id_customer":132,"id_store":102}
+{"id":826,"name":"Drying rack","price":5767,"date_sale":"2000-04-01","id_type":827,"id_brand":500,"id_customer":815,"id_store":798}
+{"id":827,"name":"Kettle","price":2815,"date_sale":"1979-03-08","id_type":600,"id_brand":301,"id_customer":910,"id_store":925}
+{"id":828,"name":"Bandages","price":5909,"date_sale":"1978-12-01","id_type":704,"id_brand":206,"id_customer":344,"id_store":504}
+{"id":829,"name":"Thermometer","price":5750,"date_sale":"2002-03-29","id_type":648,"id_brand":465,"id_customer":269,"id_store":655}
+{"id":830,"name":"Measuring tape","price":631,"date_sale":"1984-08-07","id_type":476,"id_brand":338,"id_customer":556,"id_store":437}
+{"id":831,"name":"Microwave","price":5481,"date_sale":"1971-04-25","id_type":143,"id_brand":712,"id_customer":845,"id_store":741}
+{"id":832,"name":"Salt and pepper shakers","price":3457,"date_sale":"1993-02-24","id_type":398,"id_brand":207,"id_customer":103,"id_store":561}
+{"id":833,"name":"Washing powder","price":505,"date_sale":"1994-12-05","id_type":795,"id_brand":946,"id_customer":752,"id_store":981}
+{"id":834,"name":"Spatula","price":2497,"date_sale":"2007-06-04","id_type":575,"id_brand":697,"id_customer":448,"id_store":705}
+{"id":835,"name":"Mixing bowl","price":3625,"date_sale":"1993-06-09","id_type":83,"id_brand":754,"id_customer":600,"id_store":912}
+{"id":836,"name":"Fire extinguisher","price":1968,"date_sale":"2014-12-15","id_type":888,"id_brand":925,"id_customer":320,"id_store":649}
+{"id":837,"name":"Drying rack","price":6190,"date_sale":"1991-01-17","id_type":721,"id_brand":888,"id_customer":709,"id_store":685}
+{"id":838,"name":"Toilet roll","price":6374,"date_sale":"2000-06-23","id_type":331,"id_brand":100,"id_customer":195,"id_store":684}
+{"id":839,"name":"Hand towel","price":2174,"date_sale":"1983-04-22","id_type":930,"id_brand":731,"id_customer":58,"id_store":847}
+{"id":840,"name":"Disinfectant","price":5607,"date_sale":"1974-05-03","id_type":614,"id_brand":566,"id_customer":652,"id_store":549}
+{"id":841,"name":"Glass cleaner","price":8499,"date_sale":"1993-01-31","id_type":168,"id_brand":386,"id_customer":795,"id_store":552}
+{"id":842,"name":"Light bulbs","price":8408,"date_sale":"1976-10-29","id_type":326,"id_brand":452,"id_customer":691,"id_store":830}
+{"id":843,"name":"Sharp knives","price":9703,"date_sale":"2000-11-01","id_type":58,"id_brand":205,"id_customer":314,"id_store":276}
+{"id":844,"name":"Carbon monoxide alarm","price":8248,"date_sale":"2022-10-11","id_type":753,"id_brand":653,"id_customer":987,"id_store":685}
+{"id":845,"name":"Crockery","price":9573,"date_sale":"2002-10-18","id_type":177,"id_brand":976,"id_customer":813,"id_store":787}
+{"id":846,"name":"Toilet roll holder","price":5273,"date_sale":"2017-11-07","id_type":647,"id_brand":418,"id_customer":867,"id_store":98}
+{"id":847,"name":"Hand towel","price":9844,"date_sale":"2006-01-19","id_type":453,"id_brand":397,"id_customer":443,"id_store":23}
+{"id":848,"name":"Pipes","price":2536,"date_sale":"2014-04-30","id_type":327,"id_brand":497,"id_customer":903,"id_store":760}
+{"id":849,"name":"Measuring jug","price":1984,"date_sale":"2016-02-22","id_type":914,"id_brand":380,"id_customer":687,"id_store":567}
+{"id":850,"name":"Kitchen and bathroom spray","price":5091,"date_sale":"1991-12-05","id_type":956,"id_brand":255,"id_customer":562,"id_store":141}
+{"id":851,"name":"Mixing bowl","price":497,"date_sale":"1977-10-03","id_type":982,"id_brand":237,"id_customer":929,"id_store":878}
+{"id":852,"name":"Mop and bucket","price":3160,"date_sale":"1971-05-02","id_type":74,"id_brand":920,"id_customer":408,"id_store":8}
+{"id":853,"name":"Disinfectant","price":6296,"date_sale":"2008-09-18","id_type":549,"id_brand":179,"id_customer":248,"id_store":945}
+{"id":854,"name":"Fire extinguisher","price":2768,"date_sale":"1983-11-10","id_type":717,"id_brand":426,"id_customer":547,"id_store":185}
+{"id":855,"name":"Plug extension leads","price":2159,"date_sale":"2017-11-05","id_type":684,"id_brand":851,"id_customer":807,"id_store":56}
+{"id":856,"name":"Toaster","price":2124,"date_sale":"2006-09-27","id_type":752,"id_brand":425,"id_customer":404,"id_store":317}
+{"id":857,"name":"Toothpaste","price":403,"date_sale":"2018-12-05","id_type":924,"id_brand":539,"id_customer":933,"id_store":111}
+{"id":858,"name":"Bleach","price":4115,"date_sale":"1980-09-16","id_type":368,"id_brand":621,"id_customer":503,"id_store":570}
+{"id":859,"name":"Light bulbs","price":6162,"date_sale":"1979-04-10","id_type":343,"id_brand":717,"id_customer":207,"id_store":370}
+{"id":860,"name":"A TV cable","price":6212,"date_sale":"1993-02-14","id_type":554,"id_brand":546,"id_customer":910,"id_store":992}
+{"id":861,"name":"Bedside lamp","price":803,"date_sale":"2013-02-07","id_type":566,"id_brand":612,"id_customer":879,"id_store":247}
+{"id":862,"name":"Wiping cloths","price":988,"date_sale":"2010-03-31","id_type":811,"id_brand":237,"id_customer":180,"id_store":988}
+{"id":863,"name":"Painkillers","price":4152,"date_sale":"1976-10-13","id_type":476,"id_brand":298,"id_customer":182,"id_store":876}
+{"id":864,"name":"Vacuum cleaner","price":4611,"date_sale":"2021-10-10","id_type":108,"id_brand":180,"id_customer":508,"id_store":911}
+{"id":865,"name":"Bedside lamp","price":1622,"date_sale":"1971-01-05","id_type":253,"id_brand":726,"id_customer":244,"id_store":143}
+{"id":866,"name":"Kettle","price":9247,"date_sale":"2005-07-04","id_type":607,"id_brand":319,"id_customer":884,"id_store":550}
+{"id":867,"name":"Bottle opener","price":2642,"date_sale":"2014-06-15","id_type":330,"id_brand":370,"id_customer":174,"id_store":137}
+{"id":868,"name":"Lanterns","price":5328,"date_sale":"1975-01-28","id_type":232,"id_brand":236,"id_customer":163,"id_store":251}
+{"id":869,"name":"Measuring jug","price":5318,"date_sale":"1975-09-05","id_type":120,"id_brand":979,"id_customer":407,"id_store":984}
+{"id":870,"name":"Vegetable peeler","price":4992,"date_sale":"2015-03-14","id_type":617,"id_brand":107,"id_customer":6,"id_store":849}
+{"id":871,"name":"Mop and bucket","price":8846,"date_sale":"2022-01-25","id_type":377,"id_brand":47,"id_customer":621,"id_store":782}
+{"id":872,"name":"Toilet roll holder","price":6852,"date_sale":"1990-02-03","id_type":497,"id_brand":985,"id_customer":13,"id_store":764}
+{"id":873,"name":"Scrubbers","price":6177,"date_sale":"1994-04-06","id_type":496,"id_brand":393,"id_customer":642,"id_store":364}
+{"id":874,"name":"Scrubbers","price":9056,"date_sale":"2003-10-15","id_type":611,"id_brand":309,"id_customer":308,"id_store":740}
+{"id":875,"name":"Bathroom mat","price":7388,"date_sale":"2014-10-13","id_type":902,"id_brand":133,"id_customer":729,"id_store":359}
+{"id":876,"name":"Wi-Fi","price":5605,"date_sale":"1970-10-18","id_type":293,"id_brand":963,"id_customer":845,"id_store":67}
+{"id":877,"name":"Fire extinguisher","price":4418,"date_sale":"2014-04-10","id_type":213,"id_brand":654,"id_customer":469,"id_store":181}
+{"id":878,"name":"Bedding","price":3752,"date_sale":"1974-04-29","id_type":912,"id_brand":752,"id_customer":306,"id_store":196}
+{"id":879,"name":"Coffee table","price":8197,"date_sale":"1995-04-10","id_type":105,"id_brand":901,"id_customer":183,"id_store":986}
+{"id":880,"name":"Thermometer","price":6991,"date_sale":"1998-12-01","id_type":127,"id_brand":98,"id_customer":11,"id_store":108}
+{"id":881,"name":"Coffee table","price":6264,"date_sale":"1978-12-01","id_type":367,"id_brand":624,"id_customer":792,"id_store":255}
+{"id":882,"name":"Sponges","price":3660,"date_sale":"2003-06-01","id_type":513,"id_brand":939,"id_customer":69,"id_store":664}
+{"id":883,"name":"Serving platter","price":9010,"date_sale":"2022-05-08","id_type":767,"id_brand":334,"id_customer":898,"id_store":912}
+{"id":884,"name":"Sponges","price":1635,"date_sale":"2008-07-08","id_type":937,"id_brand":942,"id_customer":432,"id_store":49}
+{"id":885,"name":"Washing powder","price":382,"date_sale":"1973-06-19","id_type":162,"id_brand":445,"id_customer":308,"id_store":556}
+{"id":886,"name":"Kitchen and bathroom spray","price":517,"date_sale":"2004-05-23","id_type":779,"id_brand":394,"id_customer":618,"id_store":746}
+{"id":887,"name":"Hand towel","price":7097,"date_sale":"1997-06-08","id_type":328,"id_brand":360,"id_customer":614,"id_store":278}
+{"id":888,"name":"Pots and pans","price":2491,"date_sale":"2003-05-28","id_type":172,"id_brand":880,"id_customer":997,"id_store":867}
+{"id":889,"name":"A clothes horse","price":4911,"date_sale":"1986-03-28","id_type":191,"id_brand":742,"id_customer":559,"id_store":328}
+{"id":890,"name":"Curtains","price":6040,"date_sale":"1972-09-23","id_type":177,"id_brand":568,"id_customer":952,"id_store":614}
+{"id":891,"name":"TV","price":6323,"date_sale":"2000-01-29","id_type":475,"id_brand":747,"id_customer":205,"id_store":319}
+{"id":892,"name":"Sharp knives","price":3271,"date_sale":"2014-11-16","id_type":48,"id_brand":434,"id_customer":653,"id_store":110}
+{"id":893,"name":"A TV cable","price":9895,"date_sale":"2001-10-02","id_type":890,"id_brand":355,"id_customer":287,"id_store":541}
+{"id":894,"name":"Plug extension leads","price":2522,"date_sale":"1993-01-26","id_type":794,"id_brand":813,"id_customer":2,"id_store":109}
+{"id":895,"name":"Mop and bucket","price":8928,"date_sale":"1976-03-15","id_type":525,"id_brand":502,"id_customer":113,"id_store":362}
+{"id":896,"name":"Kitchen and bathroom spray","price":4723,"date_sale":"1992-01-02","id_type":973,"id_brand":238,"id_customer":394,"id_store":26}
+{"id":897,"name":"Fire blanket","price":5964,"date_sale":"2006-08-03","id_type":791,"id_brand":301,"id_customer":946,"id_store":390}
+{"id":898,"name":"Scales","price":453,"date_sale":"2005-07-03","id_type":266,"id_brand":357,"id_customer":903,"id_store":820}
+{"id":899,"name":"A mirror","price":2305,"date_sale":"1987-08-06","id_type":427,"id_brand":721,"id_customer":660,"id_store":959}
+{"id":900,"name":"Mugs","price":8684,"date_sale":"2000-07-23","id_type":19,"id_brand":325,"id_customer":895,"id_store":305}
+{"id":901,"name":"Salt and pepper shakers","price":4785,"date_sale":"1979-02-05","id_type":859,"id_brand":372,"id_customer":952,"id_store":659}
+{"id":902,"name":"Plasters","price":9179,"date_sale":"1983-09-12","id_type":563,"id_brand":630,"id_customer":817,"id_store":692}
+{"id":903,"name":"Pipes","price":2512,"date_sale":"2019-10-21","id_type":684,"id_brand":802,"id_customer":339,"id_store":646}
+{"id":904,"name":"Mixing bowl","price":8702,"date_sale":"2022-08-14","id_type":356,"id_brand":65,"id_customer":745,"id_store":532}
+{"id":905,"name":"Bedding","price":2231,"date_sale":"2004-08-20","id_type":766,"id_brand":762,"id_customer":966,"id_store":672}
+{"id":906,"name":"Wi-Fi","price":5611,"date_sale":"2011-08-28","id_type":680,"id_brand":541,"id_customer":130,"id_store":871}
+{"id":907,"name":"Limescale remover","price":3295,"date_sale":"1985-02-26","id_type":498,"id_brand":84,"id_customer":122,"id_store":318}
+{"id":908,"name":"Light bulbs","price":9732,"date_sale":"1975-06-23","id_type":1,"id_brand":633,"id_customer":667,"id_store":491}
+{"id":909,"name":"A clothes horse","price":3003,"date_sale":"1980-01-18","id_type":725,"id_brand":676,"id_customer":750,"id_store":99}
+{"id":910,"name":"Pots and pans","price":2767,"date_sale":"2014-04-27","id_type":218,"id_brand":904,"id_customer":308,"id_store":371}
+{"id":911,"name":"Hand towel","price":3260,"date_sale":"2013-04-25","id_type":176,"id_brand":372,"id_customer":960,"id_store":4}
+{"id":912,"name":"Bin","price":6977,"date_sale":"1982-03-26","id_type":668,"id_brand":175,"id_customer":721,"id_store":499}
+{"id":913,"name":"Hangers for your clothes","price":8628,"date_sale":"1976-05-25","id_type":388,"id_brand":727,"id_customer":772,"id_store":856}
+{"id":914,"name":"A mirror","price":9542,"date_sale":"2010-05-20","id_type":980,"id_brand":591,"id_customer":573,"id_store":795}
+{"id":915,"name":"A clothes horse","price":1384,"date_sale":"1987-04-06","id_type":58,"id_brand":660,"id_customer":976,"id_store":790}
+{"id":916,"name":"Glasses","price":3391,"date_sale":"1995-02-14","id_type":183,"id_brand":892,"id_customer":998,"id_store":816}
+{"id":917,"name":"Couch","price":8215,"date_sale":"2006-04-21","id_type":712,"id_brand":141,"id_customer":475,"id_store":671}
+{"id":918,"name":"Salt and pepper shakers","price":6532,"date_sale":"2016-02-22","id_type":434,"id_brand":268,"id_customer":637,"id_store":31}
+{"id":919,"name":"Torch","price":3820,"date_sale":"1997-07-01","id_type":934,"id_brand":844,"id_customer":618,"id_store":489}
+{"id":920,"name":"Kettle","price":4339,"date_sale":"1995-04-11","id_type":706,"id_brand":901,"id_customer":766,"id_store":436}
+{"id":921,"name":"Vegetable peeler","price":9816,"date_sale":"1995-07-26","id_type":358,"id_brand":957,"id_customer":91,"id_store":258}
+{"id":922,"name":"Scissors","price":5391,"date_sale":"1974-06-02","id_type":992,"id_brand":360,"id_customer":970,"id_store":379}
+{"id":923,"name":"Toothbrush","price":7503,"date_sale":"1974-02-28","id_type":475,"id_brand":833,"id_customer":404,"id_store":367}
+{"id":924,"name":"Serving platter","price":2394,"date_sale":"2009-10-22","id_type":307,"id_brand":908,"id_customer":894,"id_store":807}
+{"id":925,"name":"Coffee table","price":6397,"date_sale":"2012-03-01","id_type":585,"id_brand":914,"id_customer":658,"id_store":756}
+{"id":926,"name":"Shower squeegee","price":512,"date_sale":"1973-08-14","id_type":975,"id_brand":413,"id_customer":386,"id_store":102}
+{"id":927,"name":"Washing-up liquid","price":6771,"date_sale":"1980-05-14","id_type":742,"id_brand":335,"id_customer":460,"id_store":50}
+{"id":928,"name":"Toilet roll holder","price":1065,"date_sale":"1979-12-20","id_type":218,"id_brand":17,"id_customer":365,"id_store":827}
+{"id":929,"name":"Scissors","price":7331,"date_sale":"1990-07-24","id_type":257,"id_brand":262,"id_customer":505,"id_store":326}
+{"id":930,"name":"Smoke alarm","price":2671,"date_sale":"2001-12-28","id_type":349,"id_brand":761,"id_customer":41,"id_store":862}
+{"id":931,"name":"Bathroom mat","price":9351,"date_sale":"1975-05-25","id_type":38,"id_brand":71,"id_customer":648,"id_store":888}
+{"id":932,"name":"Scissors","price":5298,"date_sale":"1972-10-15","id_type":556,"id_brand":645,"id_customer":116,"id_store":813}
+{"id":933,"name":"Ladder","price":1086,"date_sale":"2020-10-30","id_type":59,"id_brand":609,"id_customer":908,"id_store":630}
+{"id":934,"name":"Paper","price":1324,"date_sale":"2012-01-26","id_type":434,"id_brand":757,"id_customer":158,"id_store":368}
+{"id":935,"name":"Hangers for your clothes","price":183,"date_sale":"1995-06-23","id_type":902,"id_brand":191,"id_customer":319,"id_store":829}
+{"id":936,"name":"Bedside table","price":2201,"date_sale":"1992-06-10","id_type":601,"id_brand":167,"id_customer":672,"id_store":352}
+{"id":937,"name":"Limescale remover","price":6079,"date_sale":"1980-07-02","id_type":710,"id_brand":444,"id_customer":601,"id_store":897}
+{"id":938,"name":"Mixing bowl","price":9843,"date_sale":"1995-10-11","id_type":63,"id_brand":337,"id_customer":823,"id_store":78}
+{"id":939,"name":"Shower squeegee","price":4723,"date_sale":"1993-07-02","id_type":279,"id_brand":548,"id_customer":416,"id_store":9}
+{"id":940,"name":"Paper","price":3611,"date_sale":"1997-06-06","id_type":850,"id_brand":112,"id_customer":498,"id_store":320}
+{"id":941,"name":"Pliers","price":7222,"date_sale":"1998-02-25","id_type":515,"id_brand":883,"id_customer":907,"id_store":523}
+{"id":942,"name":"Pens","price":894,"date_sale":"1977-10-13","id_type":233,"id_brand":677,"id_customer":925,"id_store":669}
+{"id":943,"name":"Smoke alarm","price":5187,"date_sale":"2001-01-31","id_type":385,"id_brand":537,"id_customer":740,"id_store":904}
+{"id":944,"name":"Scales","price":9914,"date_sale":"2022-04-21","id_type":533,"id_brand":416,"id_customer":175,"id_store":81}
+{"id":945,"name":"Limescale remover","price":6666,"date_sale":"2011-08-14","id_type":921,"id_brand":110,"id_customer":709,"id_store":55}
+{"id":946,"name":"Torch","price":6300,"date_sale":"1998-07-14","id_type":114,"id_brand":193,"id_customer":814,"id_store":131}
+{"id":947,"name":"Oven gloves","price":3375,"date_sale":"1981-12-14","id_type":862,"id_brand":171,"id_customer":58,"id_store":466}
+{"id":948,"name":"Toilet roll","price":103,"date_sale":"1999-03-21","id_type":844,"id_brand":252,"id_customer":418,"id_store":895}
+{"id":949,"name":"A clothes horse","price":8766,"date_sale":"1973-04-23","id_type":990,"id_brand":896,"id_customer":975,"id_store":561}
+{"id":950,"name":"Sellotape","price":7116,"date_sale":"2017-11-01","id_type":663,"id_brand":758,"id_customer":452,"id_store":695}
+{"id":951,"name":"Smoke alarm","price":6454,"date_sale":"2003-07-25","id_type":583,"id_brand":294,"id_customer":33,"id_store":402}
+{"id":952,"name":"Pens","price":1337,"date_sale":"1971-11-07","id_type":876,"id_brand":418,"id_customer":210,"id_store":960}
+{"id":953,"name":"Washing-up liquid","price":9464,"date_sale":"1984-11-07","id_type":626,"id_brand":298,"id_customer":22,"id_store":278}
+{"id":954,"name":"Spatula","price":6539,"date_sale":"1988-10-15","id_type":34,"id_brand":48,"id_customer":891,"id_store":615}
+{"id":955,"name":"Vacuum cleaner","price":1941,"date_sale":"1979-02-27","id_type":843,"id_brand":255,"id_customer":176,"id_store":560}
+{"id":956,"name":"Lamp","price":7571,"date_sale":"2021-03-05","id_type":48,"id_brand":975,"id_customer":199,"id_store":689}
+{"id":957,"name":"Torch","price":3623,"date_sale":"2019-04-19","id_type":596,"id_brand":437,"id_customer":52,"id_store":626}
+{"id":958,"name":"Baking tray","price":8395,"date_sale":"1981-06-19","id_type":271,"id_brand":482,"id_customer":225,"id_store":887}
+{"id":959,"name":"Toothbrush","price":2492,"date_sale":"2001-07-06","id_type":224,"id_brand":756,"id_customer":780,"id_store":110}
+{"id":960,"name":"Smoke alarm","price":4650,"date_sale":"1994-08-05","id_type":522,"id_brand":295,"id_customer":467,"id_store":338}
+{"id":961,"name":"Duvet & pillows","price":9713,"date_sale":"1972-08-26","id_type":509,"id_brand":146,"id_customer":590,"id_store":463}
+{"id":962,"name":"Scrubbers","price":2576,"date_sale":"2003-05-06","id_type":700,"id_brand":137,"id_customer":904,"id_store":374}
+{"id":963,"name":"Oven gloves","price":1470,"date_sale":"1993-04-16","id_type":726,"id_brand":947,"id_customer":652,"id_store":136}
+{"id":964,"name":"Bleach","price":8448,"date_sale":"2017-03-15","id_type":642,"id_brand":42,"id_customer":250,"id_store":121}
+{"id":965,"name":"Bleach","price":1299,"date_sale":"1994-04-19","id_type":85,"id_brand":505,"id_customer":265,"id_store":323}
+{"id":966,"name":"Vegetable peeler","price":6223,"date_sale":"2000-07-04","id_type":591,"id_brand":51,"id_customer":29,"id_store":339}
+{"id":967,"name":"Mugs","price":9946,"date_sale":"1975-04-08","id_type":445,"id_brand":920,"id_customer":610,"id_store":255}
+{"id":968,"name":"Sharp knives","price":4700,"date_sale":"1970-12-30","id_type":919,"id_brand":653,"id_customer":814,"id_store":674}
+{"id":969,"name":"Hammer","price":573,"date_sale":"2018-11-05","id_type":952,"id_brand":531,"id_customer":6,"id_store":891}
+{"id":970,"name":"Toaster","price":3900,"date_sale":"2015-10-20","id_type":219,"id_brand":336,"id_customer":410,"id_store":516}
+{"id":971,"name":"Oven gloves","price":9179,"date_sale":"2007-07-11","id_type":146,"id_brand":258,"id_customer":934,"id_store":135}
+{"id":972,"name":"Can opener","price":4383,"date_sale":"2010-07-02","id_type":151,"id_brand":407,"id_customer":751,"id_store":628}
+{"id":973,"name":"Lanterns","price":5984,"date_sale":"1978-10-16","id_type":505,"id_brand":319,"id_customer":141,"id_store":143}
+{"id":974,"name":"Drying rack","price":6554,"date_sale":"2004-05-05","id_type":922,"id_brand":530,"id_customer":254,"id_store":179}
+{"id":975,"name":"Bedding","price":4564,"date_sale":"1994-04-02","id_type":253,"id_brand":641,"id_customer":484,"id_store":454}
+{"id":976,"name":"Scissors","price":6149,"date_sale":"1978-10-30","id_type":501,"id_brand":367,"id_customer":510,"id_store":774}
+{"id":977,"name":"Toilet brush","price":249,"date_sale":"1983-02-06","id_type":730,"id_brand":721,"id_customer":358,"id_store":515}
+{"id":978,"name":"Toilet roll holder","price":7798,"date_sale":"1995-01-30","id_type":561,"id_brand":588,"id_customer":24,"id_store":173}
+{"id":979,"name":"Light bulbs","price":8342,"date_sale":"1984-07-25","id_type":352,"id_brand":908,"id_customer":785,"id_store":142}
+{"id":980,"name":"Lamp","price":9418,"date_sale":"1990-10-09","id_type":836,"id_brand":900,"id_customer":898,"id_store":123}
+{"id":981,"name":"Toothpaste","price":3305,"date_sale":"1995-09-24","id_type":491,"id_brand":763,"id_customer":866,"id_store":793}
+{"id":982,"name":"Mugs","price":2534,"date_sale":"2006-04-01","id_type":309,"id_brand":498,"id_customer":293,"id_store":811}
+{"id":983,"name":"Wooden spoon","price":3604,"date_sale":"1985-11-12","id_type":689,"id_brand":854,"id_customer":254,"id_store":345}
+{"id":984,"name":"Sponges","price":2320,"date_sale":"2001-05-30","id_type":707,"id_brand":346,"id_customer":91,"id_store":707}
+{"id":985,"name":"Couch","price":7601,"date_sale":"2019-06-30","id_type":562,"id_brand":16,"id_customer":370,"id_store":509}
+{"id":986,"name":"Bin","price":6914,"date_sale":"1995-07-04","id_type":802,"id_brand":85,"id_customer":964,"id_store":140}
+{"id":987,"name":"Cutlery","price":5651,"date_sale":"2018-03-14","id_type":762,"id_brand":68,"id_customer":215,"id_store":618}
+{"id":988,"name":"Wiping cloths","price":9761,"date_sale":"1980-01-17","id_type":568,"id_brand":427,"id_customer":207,"id_store":391}
+{"id":989,"name":"Measuring jug","price":8433,"date_sale":"2020-10-06","id_type":933,"id_brand":116,"id_customer":182,"id_store":341}
+{"id":990,"name":"A clothes horse","price":9074,"date_sale":"2013-08-17","id_type":418,"id_brand":4,"id_customer":462,"id_store":253}
+{"id":991,"name":"Shower squeegee","price":6659,"date_sale":"1978-09-08","id_type":666,"id_brand":550,"id_customer":788,"id_store":66}
+{"id":992,"name":"Screwdrivers","price":9527,"date_sale":"2013-12-24","id_type":475,"id_brand":24,"id_customer":926,"id_store":425}
+{"id":993,"name":"Cutlery","price":8800,"date_sale":"2010-01-21","id_type":378,"id_brand":166,"id_customer":12,"id_store":553}
+{"id":994,"name":"Colander","price":8104,"date_sale":"1983-11-11","id_type":764,"id_brand":626,"id_customer":458,"id_store":955}
+{"id":995,"name":"Bathroom spray","price":3217,"date_sale":"2010-11-13","id_type":562,"id_brand":332,"id_customer":407,"id_store":348}
+{"id":996,"name":"Rubbish bin and bin bags","price":9535,"date_sale":"1994-04-23","id_type":377,"id_brand":361,"id_customer":891,"id_store":398}
+{"id":997,"name":"Bedside lamp","price":1429,"date_sale":"2018-11-30","id_type":488,"id_brand":162,"id_customer":903,"id_store":148}
+{"id":998,"name":"Bottle opener","price":6173,"date_sale":"1972-12-12","id_type":874,"id_brand":778,"id_customer":115,"id_store":464}
+{"id":999,"name":"Sharp knives","price":460,"date_sale":"1987-06-21","id_type":648,"id_brand":690,"id_customer":863,"id_store":513}
+{"id":1000,"name":"Scissors","price":5443,"date_sale":"2007-09-08","id_type":181,"id_brand":878,"id_customer":561,"id_store":229}

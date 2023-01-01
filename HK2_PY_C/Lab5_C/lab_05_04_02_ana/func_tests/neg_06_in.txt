@@ -1,0 +1,1 @@
+./a.exe st empty_file.txt out.txt

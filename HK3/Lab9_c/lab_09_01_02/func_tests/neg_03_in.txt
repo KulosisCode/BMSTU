@@ -1,0 +1,9 @@
+pencil
+2
+table
+fan
+1
+1
+paper
+3
+1

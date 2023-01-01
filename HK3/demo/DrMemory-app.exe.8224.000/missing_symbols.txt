@@ -1,0 +1,2 @@
+C:\Windows\System32\KERNELBASE.dll
+C:\Windows\System32\KERNEL32.DLL

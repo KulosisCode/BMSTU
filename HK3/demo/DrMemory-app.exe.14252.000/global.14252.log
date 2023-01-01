@@ -1,0 +1,184 @@
+Dr. Memory version 2.4.0 build 2 built on Aug 31 2021 04:11:37
+start time: 3688885:55:42.776 == 13:55:42.776 10/29/2021
+Recorded 124 suppression(s) from default C:\Program Files (x86)\Dr. Memory\bin64\suppress-default.txt
+Using system call file D:\demo\symcache\syscalls_x64.txt
+Syscall mismatch detected.  Running on unknown kernel version!
+WARNING: duplicate entry added to name2num_table: WOWCLEANUP
+new thread #0 id=17756
+
+module load event: "dynamorio.dll" 0x0000000071000000-0x00000000711bd000 modid: 1 C:\Program Files (x86)\Dr. Memory\dynamorio\lib64\release\dynamorio.dll
+
+module load event: "drmemorylib.dll" 0x00007ff5d33e0000-0x00007ff5d368c000 modid: 2 C:\Program Files (x86)\Dr. Memory\bin64\release\drmemorylib.dll
+
+module load event: "app.exe" 0x00007ff643330000-0x00007ff6433d4000 modid: 3 C:\Users\haolu\OneDrive\Documents\PROGRAM\HK3\Lab8_c\iu7-cprog-labs-2021-truongvanhao\lab_08_16_11\app.exe
+
+module load event: "KERNELBASE.dll" 0x00007ffd82350000-0x00007ffd82619000 modid: 4 C:\Windows\System32\KERNELBASE.dll
+
+module load event: "msvcrt.dll" 0x00007ffd83160000-0x00007ffd831fe000 modid: 5 C:\Windows\System32\msvcrt.dll
+WARNING: new/delete has no local wrapper => disabling mismatch detection for msvcrt.dll
+WARNING: new/delete has no local wrapper => disabling mismatch detection for msvcrt.dll
+WARNING: new == new[] => disabling mismatch detection for msvcrt.dll
+WARNING: new/delete has no local wrapper => disabling mismatch detection for msvcrt.dll
+
+module load event: "KERNEL32.dll" 0x00007ffd83210000-0x00007ffd832ce000 modid: 6 C:\Windows\System32\KERNEL32.DLL
+
+module load event: "ntdll.dll" 0x00007ffd84810000-0x00007ffd84a05000 modid: 7 C:\Windows\SYSTEM32\ntdll.dll
+WARNING: fail to find call to RtlFreeStringRoutine
+WARNING: fail to find call to RtlFreeStringRoutine
+WARNING: fail to find call to RtlFreeStringRoutine
+
+Error #1: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff64333341b <app.exe+0x341b>) modid:3
+# 1 _pei386_runtime_relocator [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c:496] (0x00007ff643332896 <app.exe+0x2896>) modid:3
+# 2 __tmainCRTStartup [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:269] (0x00007ff643331251 <app.exe+0x1251>) modid:3
+# 3 .l_start [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:202] (0x00007ff6433314e6 <app.exe+0x14e6>) modid:3
+# 4 KERNEL32.dll!BaseThreadInitThunk (0x00007ffd83227034 <KERNEL32.dll+0x17034>) modid:6
+Note: 0x000000f4b17ff2f0 refers to 776 byte(s) beyond the top of the stack 0x000000f4b17ff5f8
+	error end
+
+Error #2: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126] (0x00007ff643333406 <app.exe+0x3406>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:15] (0x00007ff643331cc1 <app.exe+0x1cc1>) modid:3
+# 4 main    [main.c:26] (0x00007ff6433316a7 <app.exe+0x16a7>) modid:3
+Note: 0x000000f4b17fe570 refers to 4072 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #3: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff64333341b <app.exe+0x341b>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:15] (0x00007ff643331cc1 <app.exe+0x1cc1>) modid:3
+# 4 main    [main.c:26] (0x00007ff6433316a7 <app.exe+0x16a7>) modid:3
+Note: 0x000000f4b17fe530 refers to 4136 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #4: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126] (0x00007ff643333406 <app.exe+0x3406>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:34] (0x00007ff643331d4a <app.exe+0x1d4a>) modid:3
+# 4 main    [main.c:26] (0x00007ff6433316a7 <app.exe+0x16a7>) modid:3
+Note: 0x000000f4b17fe570 refers to 4072 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #5: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff64333341b <app.exe+0x341b>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:34] (0x00007ff643331d4a <app.exe+0x1d4a>) modid:3
+# 4 main    [main.c:26] (0x00007ff6433316a7 <app.exe+0x16a7>) modid:3
+Note: 0x000000f4b17fe530 refers to 4136 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #6: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126] (0x00007ff643333406 <app.exe+0x3406>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:15] (0x00007ff643331cc1 <app.exe+0x1cc1>) modid:3
+# 4 main    [main.c:30] (0x00007ff6433316dd <app.exe+0x16dd>) modid:3
+Note: 0x000000f4b17fe570 refers to 4072 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #7: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff64333341b <app.exe+0x341b>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:15] (0x00007ff643331cc1 <app.exe+0x1cc1>) modid:3
+# 4 main    [main.c:30] (0x00007ff6433316dd <app.exe+0x16dd>) modid:3
+Note: 0x000000f4b17fe530 refers to 4136 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #8: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126] (0x00007ff643333406 <app.exe+0x3406>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:34] (0x00007ff643331d4a <app.exe+0x1d4a>) modid:3
+# 4 main    [main.c:30] (0x00007ff6433316dd <app.exe+0x16dd>) modid:3
+Note: 0x000000f4b17fe570 refers to 4072 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #9: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff64333341b <app.exe+0x341b>) modid:3
+# 1 __mingw_vfscanf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616] (0x00007ff643336f7b <app.exe+0x6f7b>) modid:3
+# 2 fscanf  [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316] (0x00007ff643331bb7 <app.exe+0x1bb7>) modid:3
+# 3 read_from_file [io.c:34] (0x00007ff643331d4a <app.exe+0x1d4a>) modid:3
+# 4 main    [main.c:30] (0x00007ff6433316dd <app.exe+0x16dd>) modid:3
+Note: 0x000000f4b17fe530 refers to 4136 byte(s) beyond the top of the stack 0x000000f4b17ff558
+	error end
+
+Error #10: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff64333341b <app.exe+0x341b>) modid:3
+# 1 __pformat_int.isra.0 [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c:707] (0x00007ff64333808a <app.exe+0x808a>) modid:3
+# 2 __mingw_pformat [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c:2686] (0x00007ff6433393ae <app.exe+0x93ae>) modid:3
+# 3 __mingw_vfprintf [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfprintf.c:54] (0x00007ff64333345f <app.exe+0x345f>) modid:3
+# 4 fprintf [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:361] (0x00007ff643331bfa <app.exe+0x1bfa>) modid:3
+# 5 write_to_file [io.c:57] (0x00007ff643331e17 <app.exe+0x1e17>) modid:3
+# 6 main    [main.c:57] (0x00007ff64333180c <app.exe+0x180c>) modid:3
+Note: 0x000000f4b17ff3c0 refers to 8 byte(s) beyond the top of the stack 0x000000f4b17ff3c8
+	error end
+
+Error #11: POSSIBLE LEAK 81 bytes 
+# 0 replace_malloc  [d:\a\drmemory\drmemory\common\alloc_replace.c:2580] (0x00007ff5d3407f00 <drmemorylib.dll+0x27f00>) modid:2
+# 1 msvcrt.dll!malloc_crt (0x00007ffd83179f44 <msvcrt.dll+0x19f44>) modid:5
+# 2 msvcrt.dll!_setargv   (0x00007ffd8319b68d <msvcrt.dll+0x3b68d>) modid:5
+# 3 msvcrt.dll!_getmainargs (0x00007ffd83167a01 <msvcrt.dll+0x7a01>) modid:5
+# 4 pre_cpp_init [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:161] (0x00007ff643331173 <app.exe+0x1173>) modid:3
+# 5 msvcrt.dll!initterm   (0x00007ffd8319a553 <msvcrt.dll+0x3a553>) modid:5
+# 6 __tmainCRTStartup [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:259] (0x00007ff643331437 <app.exe+0x1437>) modid:3
+# 7 .l_start [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:202] (0x00007ff6433314e6 <app.exe+0x14e6>) modid:3
+# 8 KERNEL32.dll!BaseThreadInitThunk (0x00007ffd83227034 <KERNEL32.dll+0x17034>) modid:6
+	error end
+
+Potential Error #1: HANDLE LEAK: KERNEL handle 0x00000000000000c8 and 0 similar handle(s) were opened but not closed:
+# 0 system call NtCreateFile
+# 1 KERNELBASE.dll!CreateFileInternal (0x00007ffd8237a030 <KERNELBASE.dll+0x2a030>) modid:4
+# 2 KERNELBASE.dll!CreateFileA    (0x00007ffd82379cae <KERNELBASE.dll+0x29cae>) modid:4
+# 3 msvcrt.dll!_tsopen_nolock (0x00007ffd8317db2e <msvcrt.dll+0x1db2e>) modid:5
+# 4 msvcrt.dll!sopen_helper (0x00007ffd8317d82f <msvcrt.dll+0x1d82f>) modid:5
+# 5 msvcrt.dll!sopen_s    (0x00007ffd8317d8ad <msvcrt.dll+0x1d8ad>) modid:5
+# 6 msvcrt.dll!openfile   (0x00007ffd831b5e9c <msvcrt.dll+0x55e9c>) modid:5
+# 7 msvcrt.dll!fsopen     (0x00007ffd831a7a81 <msvcrt.dll+0x47a81>) modid:5
+# 8 main    [main.c:37] (0x00007ff643331717 <app.exe+0x1717>) modid:3
+	error end
+
+DUPLICATE ERROR COUNTS:
+	Error #   1:      2
+	Error #   2:      2
+	Error #   3:      2
+	Error #   4:      8
+	Error #   5:      8
+	Error #   6:      2
+	Error #   7:      2
+	Error #   8:      8
+	Error #   9:      8
+	Error #  10:      4
+
+SUPPRESSIONS USED:
+
+ERRORS FOUND:
+     10 unique,    46 total unaddressable access(es)
+      0 unique,     0 total uninitialized access(es)
+      0 unique,     0 total invalid heap argument(s)
+      0 unique,     0 total GDI usage error(s)
+      0 unique,     0 total handle leak(s)
+      0 unique,     0 total warning(s)
+      0 unique,     0 total,      0 byte(s) of leak(s)
+      1 unique,     1 total,     81 byte(s) of possible leak(s)
+Details: D:\demo\DrMemory-app.exe.14252.000\results.txt
+
+DUPLICATE POTENTIAL ERROR COUNTS:
+
+POTENTIAL ERRORS FOUND:
+      0 unique,     0 total potential unaddressable access(es)
+      0 unique,     0 total potential uninitialized access(es)
+      0 unique,     0 total potential invalid heap argument(s)
+      0 unique,     0 total potential GDI usage error(s)
+      1 unique,     1 total potential handle leak(s)
+      0 unique,     0 total potential warning(s)
+      0 unique,     0 total,      0 byte(s) of potential leak(s)
+      0 unique,     0 total,      0 byte(s) of potential possible leak(s)
+Details: D:\demo\DrMemory-app.exe.14252.000\potential_errors.txt
+Exiting @0:00:00.480 in thread 17756
+LOG END

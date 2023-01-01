@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}

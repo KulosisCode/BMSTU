@@ -1,0 +1,123 @@
+Dr. Memory version 2.4.0 build 2 built on Aug 31 2021 04:11:37
+Windows version: WinVer=105;Rel=2009;Build=19043;Edition=CoreSingleLanguage
+Dr. Memory results for pid 16768: "app.exe"
+Application cmdline: "app.exe a.txt"
+Recorded 124 suppression(s) from default C:\Program Files (x86)\Dr. Memory\bin64\suppress-default.txt
+
+Error #1: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                                   [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132]
+# 1 _pei386_runtime_relocator               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c:496]
+# 2 __tmainCRTStartup                       [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:269]
+# 3 .l_start                                [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:202]
+# 4 KERNEL32.dll!BaseThreadInitThunk       +0x13     (0x00007ffa48417034 <KERNEL32.dll+0x17034>)
+Note: 0x0000003abebff880 refers to 744 byte(s) beyond the top of the stack 0x0000003abebffb68
+
+Error #2: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:32]
+# 4 count_things                  [func.c:11]
+# 5 main                          [main.c:23]
+Note: 0x0000003abebfea70 refers to 4072 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #3: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:32]
+# 4 count_things                  [func.c:11]
+# 5 main                          [main.c:23]
+Note: 0x0000003abebfea30 refers to 4136 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #4: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:39]
+# 4 count_things                  [func.c:11]
+# 5 main                          [main.c:23]
+Note: 0x0000003abebfea70 refers to 4072 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #5: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:39]
+# 4 count_things                  [func.c:11]
+# 5 main                          [main.c:23]
+Note: 0x0000003abebfea30 refers to 4136 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #6: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:32]
+# 4 read_all_things               [func.c:30]
+# 5 main                          [main.c:39]
+Note: 0x0000003abebfea70 refers to 4072 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #7: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:32]
+# 4 read_all_things               [func.c:30]
+# 5 main                          [main.c:39]
+Note: 0x0000003abebfea30 refers to 4136 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #8: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:126]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:39]
+# 4 read_all_things               [func.c:30]
+# 5 main                          [main.c:39]
+Note: 0x0000003abebfea70 refers to 4072 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #9: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 .text                         [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132]
+# 1 __mingw_vfscanf               [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c:1616]
+# 2 fscanf                        [C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h:316]
+# 3 read_file                     [io.c:39]
+# 4 read_all_things               [func.c:30]
+# 5 main                          [main.c:39]
+Note: 0x0000003abebfea30 refers to 4136 byte(s) beyond the top of the stack 0x0000003abebffa58
+
+Error #10: POSSIBLE LEAK 40 bytes 
+# 0 replace_malloc                    [d:\a\drmemory\drmemory\common\alloc_replace.c:2580]
+# 1 msvcrt.dll!malloc_crt
+# 2 msvcrt.dll!_setargv  
+# 3 msvcrt.dll!_getmainargs
+# 4 pre_cpp_init                      [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:161]
+# 5 msvcrt.dll!initterm  
+# 6 __tmainCRTStartup                 [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:259]
+# 7 .l_start                          [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:202]
+# 8 KERNEL32.dll!BaseThreadInitThunk +0x13     (0x00007ffa48417034 <KERNEL32.dll+0x17034>)
+
+===========================================================================
+FINAL SUMMARY:
+
+DUPLICATE ERROR COUNTS:
+	Error #   1:      2
+	Error #   2:     12
+	Error #   3:     12
+	Error #   4:     12
+	Error #   5:     12
+	Error #   6:     12
+	Error #   7:     12
+	Error #   8:     12
+	Error #   9:     12
+
+SUPPRESSIONS USED:
+
+ERRORS FOUND:
+      9 unique,    98 total unaddressable access(es)
+      0 unique,     0 total uninitialized access(es)
+      0 unique,     0 total invalid heap argument(s)
+      0 unique,     0 total GDI usage error(s)
+      0 unique,     0 total handle leak(s)
+      0 unique,     0 total warning(s)
+      0 unique,     0 total,      0 byte(s) of leak(s)
+      1 unique,     1 total,     40 byte(s) of possible leak(s)
+Details: D:\demo\DrMemory-app.exe.16768.000\results.txt

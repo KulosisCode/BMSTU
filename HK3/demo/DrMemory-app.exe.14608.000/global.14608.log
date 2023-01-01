@@ -1,0 +1,81 @@
+Dr. Memory version 2.4.0 build 2 built on Aug 31 2021 04:11:37
+start time: 3689276:01:48.137 == 20:01:48.137 11/14/2021
+Recorded 124 suppression(s) from default C:\Program Files (x86)\Dr. Memory\bin64\suppress-default.txt
+Using system call file D:\demo\symcache\syscalls_x64.txt
+Syscall mismatch detected.  Running on unknown kernel version!
+WARNING: duplicate entry added to name2num_table: WOWCLEANUP
+new thread #0 id=16708
+
+module load event: "dynamorio.dll" 0x0000000071000000-0x00000000711bd000 modid: 1 C:\Program Files (x86)\Dr. Memory\dynamorio\lib64\release\dynamorio.dll
+
+module load event: "drmemorylib.dll" 0x00007ff76a9b0000-0x00007ff76ac5c000 modid: 2 C:\Program Files (x86)\Dr. Memory\bin64\release\drmemorylib.dll
+
+module load event: "app.exe" 0x00007ff7da930000-0x00007ff7da9b0000 modid: 3 C:\Users\haolu\OneDrive\Documents\PROGRAM\HK3\Lab9_c\iu7-cprog-labs-2021-truongvanhao\lab_09_01_02\app.exe
+
+module load event: "KERNELBASE.dll" 0x00007ffa45f70000-0x00007ffa46238000 modid: 4 C:\Windows\System32\KERNELBASE.dll
+
+module load event: "msvcrt.dll" 0x00007ffa47430000-0x00007ffa474ce000 modid: 5 C:\Windows\System32\msvcrt.dll
+WARNING: new/delete has no local wrapper => disabling mismatch detection for msvcrt.dll
+WARNING: new/delete has no local wrapper => disabling mismatch detection for msvcrt.dll
+WARNING: new == new[] => disabling mismatch detection for msvcrt.dll
+WARNING: new/delete has no local wrapper => disabling mismatch detection for msvcrt.dll
+
+module load event: "KERNEL32.dll" 0x00007ffa48400000-0x00007ffa484be000 modid: 6 C:\Windows\System32\KERNEL32.DLL
+
+module load event: "ntdll.dll" 0x00007ffa48850000-0x00007ffa48a45000 modid: 7 C:\Windows\SYSTEM32\ntdll.dll
+WARNING: fail to find call to RtlFreeStringRoutine
+WARNING: fail to find call to RtlFreeStringRoutine
+WARNING: fail to find call to RtlFreeStringRoutine
+WARNING: unable to load symbols for C:\Windows\System32\KERNEL32.DLL
+
+Error #1: UNADDRESSABLE ACCESS beyond top of stack: reading 8 byte(s)
+# 0 ___chkstk_ms [../../../gcc-10.3.0/libgcc/config/i386/cygwin.S:132] (0x00007ff7da932f1b <app.exe+0x2f1b>) modid:3
+# 1 _pei386_runtime_relocator [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c:496] (0x00007ff7da932396 <app.exe+0x2396>) modid:3
+# 2 __tmainCRTStartup [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:269] (0x00007ff7da931251 <app.exe+0x1251>) modid:3
+# 3 .l_start [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:202] (0x00007ff7da9314e6 <app.exe+0x14e6>) modid:3
+# 4 KERNEL32.dll!BaseThreadInitThunk (0x00007ffa48417034 <KERNEL32.dll+0x17034>) modid:6
+Note: 0x0000008d4fbff310 refers to 744 byte(s) beyond the top of the stack 0x0000008d4fbff5f8
+	error end
+
+Error #2: POSSIBLE LEAK 40 bytes 
+# 0 replace_malloc  [d:\a\drmemory\drmemory\common\alloc_replace.c:2580] (0x00007ff76a9d7f00 <drmemorylib.dll+0x27f00>) modid:2
+# 1 msvcrt.dll!malloc_crt (0x00007ffa47449f44 <msvcrt.dll+0x19f44>) modid:5
+# 2 msvcrt.dll!_setargv   (0x00007ffa4746b68d <msvcrt.dll+0x3b68d>) modid:5
+# 3 msvcrt.dll!_getmainargs (0x00007ffa47437a01 <msvcrt.dll+0x7a01>) modid:5
+# 4 pre_cpp_init [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:161] (0x00007ff7da931173 <app.exe+0x1173>) modid:3
+# 5 msvcrt.dll!initterm   (0x00007ffa4746a553 <msvcrt.dll+0x3a553>) modid:5
+# 6 __tmainCRTStartup [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:259] (0x00007ff7da931437 <app.exe+0x1437>) modid:3
+# 7 .l_start [C:/_/M/mingw-w64-crt-git/src/mingw-w64/mingw-w64-crt/crt/crtexe.c:202] (0x00007ff7da9314e6 <app.exe+0x14e6>) modid:3
+# 8 KERNEL32.dll!BaseThreadInitThunk (0x00007ffa48417034 <KERNEL32.dll+0x17034>) modid:6
+	error end
+
+DUPLICATE ERROR COUNTS:
+	Error #   1:      2
+
+SUPPRESSIONS USED:
+
+ERRORS FOUND:
+      1 unique,     2 total unaddressable access(es)
+      0 unique,     0 total uninitialized access(es)
+      0 unique,     0 total invalid heap argument(s)
+      0 unique,     0 total GDI usage error(s)
+      0 unique,     0 total handle leak(s)
+      0 unique,     0 total warning(s)
+      0 unique,     0 total,      0 byte(s) of leak(s)
+      1 unique,     1 total,     40 byte(s) of possible leak(s)
+Details: D:\demo\DrMemory-app.exe.14608.000\results.txt
+
+DUPLICATE POTENTIAL ERROR COUNTS:
+
+POTENTIAL ERRORS FOUND:
+      0 unique,     0 total potential unaddressable access(es)
+      0 unique,     0 total potential uninitialized access(es)
+      0 unique,     0 total potential invalid heap argument(s)
+      0 unique,     0 total potential GDI usage error(s)
+      0 unique,     0 total potential handle leak(s)
+      0 unique,     0 total potential warning(s)
+      0 unique,     0 total,      0 byte(s) of potential leak(s)
+      0 unique,     0 total,      0 byte(s) of potential possible leak(s)
+Details: D:\demo\DrMemory-app.exe.14608.000\potential_errors.txt
+Exiting @0:00:00.347 in thread 16708
+LOG END

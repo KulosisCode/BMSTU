@@ -1,0 +1,13 @@
+debug/Button.o
+debug/Cabin.o
+debug/Controller.o
+debug/Door.o
+debug/Lift.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_Button.o
+debug/moc_Cabin.o
+debug/moc_Controller.o
+debug/moc_Door.o
+debug/moc_Lift.o
+debug/moc_mainwindow.o

@@ -1,0 +1,1 @@
+./a.exe st neg_07.txt neg_07_out.txt

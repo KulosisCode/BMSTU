@@ -1,0 +1,2 @@
+Enter n:
+Base2 of 0 : 0

@@ -1,0 +1,1000 @@
+{"id_type":1,"type_name":"Living room","description":"long-term use","material":"rubber"}
+{"id_type":2,"type_name":"Kitchen","description":"out of date","material":"brass"}
+{"id_type":3,"type_name":"Kitchen","description":"long-term use","material":"tin"}
+{"id_type":4,"type_name":"Living room","description":"just bought","material":"mud"}
+{"id_type":5,"type_name":"Living room","description":"damaged","material":"gas"}
+{"id_type":6,"type_name":"Bathroom","description":"just bought","material":"tin"}
+{"id_type":7,"type_name":"Bathroom","description":"long-term use","material":"iron"}
+{"id_type":8,"type_name":"Kitchen","description":"just bought","material":"steel"}
+{"id_type":9,"type_name":"Bathroom","description":"damaged","material":"helium"}
+{"id_type":10,"type_name":"Bedroom","description":"long-term use","material":"dust"}
+{"id_type":11,"type_name":"Bedroom","description":"long-term use","material":"stone"}
+{"id_type":12,"type_name":"Kitchen","description":"good","material":"ice"}
+{"id_type":13,"type_name":"Kitchen","description":"out of date","material":"oil"}
+{"id_type":14,"type_name":"Kitchen","description":"long-term use","material":"aluminum"}
+{"id_type":15,"type_name":"Bathroom","description":"long-term use","material":"copper"}
+{"id_type":16,"type_name":"Bedroom","description":"out of date","material":"cloth"}
+{"id_type":17,"type_name":"Living room","description":"damaged","material":"coal"}
+{"id_type":18,"type_name":"Living room","description":"just bought","material":"cement"}
+{"id_type":19,"type_name":"Living room","description":"just bought","material":"brass"}
+{"id_type":20,"type_name":"Living room","description":"long-term use","material":"alloy"}
+{"id_type":21,"type_name":"Bedroom","description":"long-term use","material":"brickbronze"}
+{"id_type":22,"type_name":"Bedroom","description":"damaged","material":"magnesium"}
+{"id_type":23,"type_name":"Bathroom","description":"long-term use","material":"slate"}
+{"id_type":24,"type_name":"Living room","description":"long-term use","material":"smoke"}
+{"id_type":25,"type_name":"Bathroom","description":"damaged","material":"clay"}
+{"id_type":26,"type_name":"Bedroom","description":"long-term use","material":"coal"}
+{"id_type":27,"type_name":"Bedroom","description":"long-term use","material":"ice"}
+{"id_type":28,"type_name":"Bathroom","description":"damaged","material":"hydrogen"}
+{"id_type":29,"type_name":"Bathroom","description":"damaged","material":"mud"}
+{"id_type":30,"type_name":"Living room","description":"damaged","material":"uranium"}
+{"id_type":31,"type_name":"Living room","description":"out of date","material":"mercury"}
+{"id_type":32,"type_name":"Bedroom","description":"out of date","material":"uranium"}
+{"id_type":33,"type_name":"Kitchen","description":"out of date","material":"chalk"}
+{"id_type":34,"type_name":"Bedroom","description":"damaged","material":"alloy"}
+{"id_type":35,"type_name":"Bedroom","description":"out of date","material":"petrol"}
+{"id_type":36,"type_name":"Bathroom","description":"long-term use","material":"mercury"}
+{"id_type":37,"type_name":"Living room","description":"long-term use","material":"brickbronze"}
+{"id_type":38,"type_name":"Bathroom","description":"good","material":"cement"}
+{"id_type":39,"type_name":"Bedroom","description":"just bought","material":"slate"}
+{"id_type":40,"type_name":"Kitchen","description":"out of date","material":"platinum"}
+{"id_type":41,"type_name":"Kitchen","description":"long-term use","material":"tin"}
+{"id_type":42,"type_name":"Bathroom","description":"long-term use","material":"glass"}
+{"id_type":43,"type_name":"Bedroom","description":"good","material":"cement"}
+{"id_type":44,"type_name":"Bedroom","description":"out of date","material":"stone"}
+{"id_type":45,"type_name":"Kitchen","description":"damaged","material":"mortar"}
+{"id_type":46,"type_name":"Bedroom","description":"long-term use","material":"gas"}
+{"id_type":47,"type_name":"Bedroom","description":"just bought","material":"mortar"}
+{"id_type":48,"type_name":"Bedroom","description":"out of date","material":"lace"}
+{"id_type":49,"type_name":"Living room","description":"good","material":"gold"}
+{"id_type":50,"type_name":"Kitchen","description":"out of date","material":"rubber"}
+{"id_type":51,"type_name":"Bedroom","description":"good","material":"cloth"}
+{"id_type":52,"type_name":"Kitchen","description":"damaged","material":"coal"}
+{"id_type":53,"type_name":"Bathroom","description":"out of date","material":"gold"}
+{"id_type":54,"type_name":"Kitchen","description":"damaged","material":"soil"}
+{"id_type":55,"type_name":"Bedroom","description":"good","material":"chalk"}
+{"id_type":56,"type_name":"Kitchen","description":"long-term use","material":"mortar"}
+{"id_type":57,"type_name":"Bedroom","description":"damaged","material":"soil"}
+{"id_type":58,"type_name":"Bathroom","description":"damaged","material":"magnesium"}
+{"id_type":59,"type_name":"Bathroom","description":"good","material":"stone"}
+{"id_type":60,"type_name":"Kitchen","description":"long-term use","material":"glass"}
+{"id_type":61,"type_name":"Bathroom","description":"out of date","material":"alloy"}
+{"id_type":62,"type_name":"Kitchen","description":"long-term use","material":"tin"}
+{"id_type":63,"type_name":"Bathroom","description":"damaged","material":"copper"}
+{"id_type":64,"type_name":"Bedroom","description":"good","material":"uranium"}
+{"id_type":65,"type_name":"Kitchen","description":"long-term use","material":"dust"}
+{"id_type":66,"type_name":"Kitchen","description":"long-term use","material":"fiberglass"}
+{"id_type":67,"type_name":"Bedroom","description":"good","material":"charcoal"}
+{"id_type":68,"type_name":"Bathroom","description":"long-term use","material":"stone"}
+{"id_type":69,"type_name":"Bathroom","description":"just bought","material":"mortar"}
+{"id_type":70,"type_name":"Bedroom","description":"out of date","material":"marble"}
+{"id_type":71,"type_name":"Living room","description":"good","material":"chalk"}
+{"id_type":72,"type_name":"Kitchen","description":"out of date","material":"linen"}
+{"id_type":73,"type_name":"Living room","description":"just bought","material":"cotton"}
+{"id_type":74,"type_name":"Bathroom","description":"just bought","material":"leather"}
+{"id_type":75,"type_name":"Bathroom","description":"long-term use","material":"asbestos"}
+{"id_type":76,"type_name":"Kitchen","description":"just bought","material":"steel"}
+{"id_type":77,"type_name":"Bedroom","description":"good","material":"slate"}
+{"id_type":78,"type_name":"Bedroom","description":"damaged","material":"stone"}
+{"id_type":79,"type_name":"Living room","description":"damaged","material":"steel"}
+{"id_type":80,"type_name":"Kitchen","description":"just bought","material":"man-made fibers"}
+{"id_type":81,"type_name":"Bedroom","description":"just bought","material":"chalk"}
+{"id_type":82,"type_name":"Kitchen","description":"out of date","material":"chalk"}
+{"id_type":83,"type_name":"Bedroom","description":"out of date","material":"gas"}
+{"id_type":84,"type_name":"Kitchen","description":"damaged","material":"2lead"}
+{"id_type":85,"type_name":"Kitchen","description":"out of date","material":"iron"}
+{"id_type":86,"type_name":"Kitchen","description":"out of date","material":"paraffin"}
+{"id_type":87,"type_name":"Bathroom","description":"damaged","material":"petrol"}
+{"id_type":88,"type_name":"Kitchen","description":"out of date","material":"lace"}
+{"id_type":89,"type_name":"Bedroom","description":"just bought","material":"paraffin"}
+{"id_type":90,"type_name":"Living room","description":"good","material":"sand"}
+{"id_type":91,"type_name":"Bedroom","description":"damaged","material":"cloth"}
+{"id_type":92,"type_name":"Living room","description":"long-term use","material":"silk"}
+{"id_type":93,"type_name":"Bedroom","description":"damaged","material":"ice"}
+{"id_type":94,"type_name":"Living room","description":"damaged","material":"leather"}
+{"id_type":95,"type_name":"Living room","description":"out of date","material":"dust"}
+{"id_type":96,"type_name":"Living room","description":"damaged","material":"silk"}
+{"id_type":97,"type_name":"Kitchen","description":"damaged","material":"helium"}
+{"id_type":98,"type_name":"Bathroom","description":"out of date","material":"nickel"}
+{"id_type":99,"type_name":"Living room","description":"damaged","material":"cotton"}
+{"id_type":100,"type_name":"Kitchen","description":"out of date","material":"platinum"}
+{"id_type":101,"type_name":"Living room","description":"long-term use","material":"charcoal"}
+{"id_type":102,"type_name":"Living room","description":"just bought","material":"rubber"}
+{"id_type":103,"type_name":"Kitchen","description":"long-term use","material":"carbon dioxide"}
+{"id_type":104,"type_name":"Living room","description":"out of date","material":"mud"}
+{"id_type":105,"type_name":"Bedroom","description":"damaged","material":"ice"}
+{"id_type":106,"type_name":"Living room","description":"damaged","material":"2lead"}
+{"id_type":107,"type_name":"Living room","description":"out of date","material":"smoke"}
+{"id_type":108,"type_name":"Bathroom","description":"just bought","material":"gold"}
+{"id_type":109,"type_name":"Bathroom","description":"good","material":"nylon"}
+{"id_type":110,"type_name":"Bedroom","description":"long-term use","material":"straw"}
+{"id_type":111,"type_name":"Living room","description":"good","material":"rubber"}
+{"id_type":112,"type_name":"Bedroom","description":"just bought","material":"cardboard"}
+{"id_type":113,"type_name":"Bedroom","description":"out of date","material":"ash"}
+{"id_type":114,"type_name":"Bathroom","description":"just bought","material":"smoke"}
+{"id_type":115,"type_name":"Living room","description":"out of date","material":"2lead"}
+{"id_type":116,"type_name":"Bedroom","description":"just bought","material":"steel"}
+{"id_type":117,"type_name":"Living room","description":"damaged","material":"oxygen"}
+{"id_type":118,"type_name":"Bedroom","description":"just bought","material":"plaster"}
+{"id_type":119,"type_name":"Bathroom","description":"damaged","material":"petrol"}
+{"id_type":120,"type_name":"Kitchen","description":"out of date","material":"helium"}
+{"id_type":121,"type_name":"Bedroom","description":"out of date","material":"glass"}
+{"id_type":122,"type_name":"Bathroom","description":"out of date","material":"stone"}
+{"id_type":123,"type_name":"Bedroom","description":"good","material":"fiberglass"}
+{"id_type":124,"type_name":"Living room","description":"just bought","material":"alloy"}
+{"id_type":125,"type_name":"Living room","description":"out of date","material":"copper"}
+{"id_type":126,"type_name":"Kitchen","description":"just bought","material":"paraffin"}
+{"id_type":127,"type_name":"Bathroom","description":"good","material":"dust"}
+{"id_type":128,"type_name":"Bathroom","description":"damaged","material":"steam"}
+{"id_type":129,"type_name":"Kitchen","description":"just bought","material":"iron"}
+{"id_type":130,"type_name":"Bathroom","description":"long-term use","material":"plaster"}
+{"id_type":131,"type_name":"Bedroom","description":"just bought","material":"soil"}
+{"id_type":132,"type_name":"Bedroom","description":"damaged","material":"cotton"}
+{"id_type":133,"type_name":"Kitchen","description":"long-term use","material":"nitrogen"}
+{"id_type":134,"type_name":"Bathroom","description":"good","material":"charcoal"}
+{"id_type":135,"type_name":"Living room","description":"just bought","material":"fiberglass"}
+{"id_type":136,"type_name":"Bathroom","description":"just bought","material":"chalk"}
+{"id_type":137,"type_name":"Kitchen","description":"long-term use","material":"nylon"}
+{"id_type":138,"type_name":"Bathroom","description":"good","material":"linen"}
+{"id_type":139,"type_name":"Kitchen","description":"out of date","material":"carbon dioxide"}
+{"id_type":140,"type_name":"Kitchen","description":"just bought","material":"ash"}
+{"id_type":141,"type_name":"Bathroom","description":"long-term use","material":"tin"}
+{"id_type":142,"type_name":"Living room","description":"out of date","material":"copper"}
+{"id_type":143,"type_name":"Living room","description":"out of date","material":"cardboard"}
+{"id_type":144,"type_name":"Kitchen","description":"just bought","material":"cotton"}
+{"id_type":145,"type_name":"Bedroom","description":"just bought","material":"polyester"}
+{"id_type":146,"type_name":"Kitchen","description":"just bought","material":"alloy"}
+{"id_type":147,"type_name":"Bedroom","description":"just bought","material":"steam"}
+{"id_type":148,"type_name":"Bathroom","description":"long-term use","material":"linen"}
+{"id_type":149,"type_name":"Living room","description":"long-term use","material":"aluminum"}
+{"id_type":150,"type_name":"Bedroom","description":"out of date","material":"soil"}
+{"id_type":151,"type_name":"Bedroom","description":"good","material":"cotton"}
+{"id_type":152,"type_name":"Living room","description":"damaged","material":"charcoal"}
+{"id_type":153,"type_name":"Bathroom","description":"good","material":"cement"}
+{"id_type":154,"type_name":"Kitchen","description":"damaged","material":"stone"}
+{"id_type":155,"type_name":"Bathroom","description":"long-term use","material":"charcoal"}
+{"id_type":156,"type_name":"Bathroom","description":"good","material":"magnesium"}
+{"id_type":157,"type_name":"Bedroom","description":"out of date","material":"aluminum"}
+{"id_type":158,"type_name":"Kitchen","description":"out of date","material":"cardboard"}
+{"id_type":159,"type_name":"Living room","description":"damaged","material":"carbon dioxide"}
+{"id_type":160,"type_name":"Bedroom","description":"out of date","material":"bamboo"}
+{"id_type":161,"type_name":"Bedroom","description":"just bought","material":"soil"}
+{"id_type":162,"type_name":"Bathroom","description":"out of date","material":"lace"}
+{"id_type":163,"type_name":"Kitchen","description":"long-term use","material":"tin"}
+{"id_type":164,"type_name":"Bathroom","description":"just bought","material":"coal"}
+{"id_type":165,"type_name":"Living room","description":"damaged","material":"cloth"}
+{"id_type":166,"type_name":"Bathroom","description":"long-term use","material":"dust"}
+{"id_type":167,"type_name":"Bathroom","description":"long-term use","material":"silver"}
+{"id_type":168,"type_name":"Living room","description":"just bought","material":"zinc"}
+{"id_type":169,"type_name":"Bathroom","description":"just bought","material":"oxygen"}
+{"id_type":170,"type_name":"Kitchen","description":"good","material":"tin"}
+{"id_type":171,"type_name":"Kitchen","description":"good","material":"straw"}
+{"id_type":172,"type_name":"Bathroom","description":"just bought","material":"dust"}
+{"id_type":173,"type_name":"Bedroom","description":"long-term use","material":"straw"}
+{"id_type":174,"type_name":"Living room","description":"just bought","material":"lace"}
+{"id_type":175,"type_name":"Bedroom","description":"just bought","material":"nylon"}
+{"id_type":176,"type_name":"Bedroom","description":"good","material":"sand"}
+{"id_type":177,"type_name":"Bedroom","description":"damaged","material":"stone"}
+{"id_type":178,"type_name":"Kitchen","description":"good","material":"uranium"}
+{"id_type":179,"type_name":"Living room","description":"good","material":"ash"}
+{"id_type":180,"type_name":"Kitchen","description":"long-term use","material":"nylon"}
+{"id_type":181,"type_name":"Living room","description":"damaged","material":"magnesium"}
+{"id_type":182,"type_name":"Bathroom","description":"damaged","material":"cloth"}
+{"id_type":183,"type_name":"Bathroom","description":"long-term use","material":"slate"}
+{"id_type":184,"type_name":"Kitchen","description":"damaged","material":"nitrogen"}
+{"id_type":185,"type_name":"Kitchen","description":"good","material":"aluminum"}
+{"id_type":186,"type_name":"Kitchen","description":"out of date","material":"gas"}
+{"id_type":187,"type_name":"Bathroom","description":"damaged","material":"aluminum"}
+{"id_type":188,"type_name":"Kitchen","description":"long-term use","material":"nickel"}
+{"id_type":189,"type_name":"Living room","description":"just bought","material":"magnesium"}
+{"id_type":190,"type_name":"Living room","description":"out of date","material":"chalk"}
+{"id_type":191,"type_name":"Bathroom","description":"damaged","material":"mercury"}
+{"id_type":192,"type_name":"Bathroom","description":"out of date","material":"charcoal"}
+{"id_type":193,"type_name":"Kitchen","description":"out of date","material":"smoke"}
+{"id_type":194,"type_name":"Kitchen","description":"good","material":"dust"}
+{"id_type":195,"type_name":"Living room","description":"long-term use","material":"polyester"}
+{"id_type":196,"type_name":"Bathroom","description":"damaged","material":"smoke"}
+{"id_type":197,"type_name":"Bathroom","description":"damaged","material":"dust"}
+{"id_type":198,"type_name":"Kitchen","description":"just bought","material":"mercury"}
+{"id_type":199,"type_name":"Bathroom","description":"damaged","material":"plaster"}
+{"id_type":200,"type_name":"Bathroom","description":"long-term use","material":"tin"}
+{"id_type":201,"type_name":"Kitchen","description":"good","material":"ash"}
+{"id_type":202,"type_name":"Bathroom","description":"just bought","material":"sand"}
+{"id_type":203,"type_name":"Bathroom","description":"damaged","material":"mercury"}
+{"id_type":204,"type_name":"Living room","description":"long-term use","material":"asbestos"}
+{"id_type":205,"type_name":"Kitchen","description":"out of date","material":"aluminum"}
+{"id_type":206,"type_name":"Kitchen","description":"just bought","material":"soil"}
+{"id_type":207,"type_name":"Bedroom","description":"just bought","material":"iron"}
+{"id_type":208,"type_name":"Kitchen","description":"just bought","material":"magnesium"}
+{"id_type":209,"type_name":"Living room","description":"good","material":"man-made fibers"}
+{"id_type":210,"type_name":"Living room","description":"out of date","material":"coal"}
+{"id_type":211,"type_name":"Kitchen","description":"long-term use","material":"2lead"}
+{"id_type":212,"type_name":"Kitchen","description":"just bought","material":"brass"}
+{"id_type":213,"type_name":"Living room","description":"just bought","material":"cement"}
+{"id_type":214,"type_name":"Bathroom","description":"long-term use","material":"fiberglass"}
+{"id_type":215,"type_name":"Living room","description":"just bought","material":"oil"}
+{"id_type":216,"type_name":"Bedroom","description":"good","material":"charcoal"}
+{"id_type":217,"type_name":"Bathroom","description":"long-term use","material":"oxygen"}
+{"id_type":218,"type_name":"Kitchen","description":"just bought","material":"leather"}
+{"id_type":219,"type_name":"Living room","description":"just bought","material":"charcoal"}
+{"id_type":220,"type_name":"Kitchen","description":"just bought","material":"carbon dioxide"}
+{"id_type":221,"type_name":"Bedroom","description":"long-term use","material":"steam"}
+{"id_type":222,"type_name":"Kitchen","description":"long-term use","material":"nickel"}
+{"id_type":223,"type_name":"Kitchen","description":"damaged","material":"slate"}
+{"id_type":224,"type_name":"Bathroom","description":"good","material":"bamboo"}
+{"id_type":225,"type_name":"Bedroom","description":"good","material":"iron"}
+{"id_type":226,"type_name":"Bathroom","description":"out of date","material":"petrol"}
+{"id_type":227,"type_name":"Bedroom","description":"just bought","material":"smoke"}
+{"id_type":228,"type_name":"Kitchen","description":"long-term use","material":"stone"}
+{"id_type":229,"type_name":"Bedroom","description":"just bought","material":"oil"}
+{"id_type":230,"type_name":"Living room","description":"out of date","material":"rubber"}
+{"id_type":231,"type_name":"Bathroom","description":"long-term use","material":"sand"}
+{"id_type":232,"type_name":"Bedroom","description":"out of date","material":"nickel"}
+{"id_type":233,"type_name":"Bedroom","description":"damaged","material":"mud"}
+{"id_type":234,"type_name":"Kitchen","description":"long-term use","material":"steam"}
+{"id_type":235,"type_name":"Bathroom","description":"good","material":"nickel"}
+{"id_type":236,"type_name":"Bedroom","description":"good","material":"brickbronze"}
+{"id_type":237,"type_name":"Bedroom","description":"long-term use","material":"sand"}
+{"id_type":238,"type_name":"Bathroom","description":"just bought","material":"nitrogen"}
+{"id_type":239,"type_name":"Bathroom","description":"long-term use","material":"steam"}
+{"id_type":240,"type_name":"Living room","description":"good","material":"charcoal"}
+{"id_type":241,"type_name":"Kitchen","description":"just bought","material":"iron"}
+{"id_type":242,"type_name":"Kitchen","description":"out of date","material":"glass"}
+{"id_type":243,"type_name":"Kitchen","description":"just bought","material":"oil"}
+{"id_type":244,"type_name":"Living room","description":"out of date","material":"magnesium"}
+{"id_type":245,"type_name":"Kitchen","description":"just bought","material":"gas"}
+{"id_type":246,"type_name":"Kitchen","description":"just bought","material":"polyester"}
+{"id_type":247,"type_name":"Kitchen","description":"just bought","material":"chalk"}
+{"id_type":248,"type_name":"Living room","description":"good","material":"marble"}
+{"id_type":249,"type_name":"Bedroom","description":"just bought","material":"nickel"}
+{"id_type":250,"type_name":"Kitchen","description":"out of date","material":"brickbronze"}
+{"id_type":251,"type_name":"Bathroom","description":"out of date","material":"helium"}
+{"id_type":252,"type_name":"Living room","description":"damaged","material":"cardboard"}
+{"id_type":253,"type_name":"Bathroom","description":"damaged","material":"coal"}
+{"id_type":254,"type_name":"Kitchen","description":"long-term use","material":"platinum"}
+{"id_type":255,"type_name":"Kitchen","description":"just bought","material":"ash"}
+{"id_type":256,"type_name":"Living room","description":"damaged","material":"paraffin"}
+{"id_type":257,"type_name":"Bathroom","description":"long-term use","material":"fiberglass"}
+{"id_type":258,"type_name":"Bedroom","description":"out of date","material":"mercury"}
+{"id_type":259,"type_name":"Bathroom","description":"just bought","material":"cardboard"}
+{"id_type":260,"type_name":"Bedroom","description":"just bought","material":"dust"}
+{"id_type":261,"type_name":"Kitchen","description":"long-term use","material":"hydrogen"}
+{"id_type":262,"type_name":"Kitchen","description":"damaged","material":"iron"}
+{"id_type":263,"type_name":"Bathroom","description":"damaged","material":"mercury"}
+{"id_type":264,"type_name":"Kitchen","description":"just bought","material":"cotton"}
+{"id_type":265,"type_name":"Kitchen","description":"out of date","material":"magnesium"}
+{"id_type":266,"type_name":"Kitchen","description":"damaged","material":"glass"}
+{"id_type":267,"type_name":"Living room","description":"good","material":"smoke"}
+{"id_type":268,"type_name":"Bathroom","description":"just bought","material":"clay"}
+{"id_type":269,"type_name":"Living room","description":"long-term use","material":"lace"}
+{"id_type":270,"type_name":"Bathroom","description":"long-term use","material":"slate"}
+{"id_type":271,"type_name":"Kitchen","description":"long-term use","material":"helium"}
+{"id_type":272,"type_name":"Bathroom","description":"good","material":"slate"}
+{"id_type":273,"type_name":"Bedroom","description":"long-term use","material":"man-made fibers"}
+{"id_type":274,"type_name":"Kitchen","description":"good","material":"cotton"}
+{"id_type":275,"type_name":"Living room","description":"out of date","material":"dust"}
+{"id_type":276,"type_name":"Bathroom","description":"long-term use","material":"charcoal"}
+{"id_type":277,"type_name":"Kitchen","description":"out of date","material":"fiberglass"}
+{"id_type":278,"type_name":"Bedroom","description":"good","material":"steel"}
+{"id_type":279,"type_name":"Bathroom","description":"just bought","material":"charcoal"}
+{"id_type":280,"type_name":"Kitchen","description":"long-term use","material":"alloy"}
+{"id_type":281,"type_name":"Bathroom","description":"good","material":"brass"}
+{"id_type":282,"type_name":"Bathroom","description":"long-term use","material":"oxygen"}
+{"id_type":283,"type_name":"Kitchen","description":"damaged","material":"coal"}
+{"id_type":284,"type_name":"Bedroom","description":"out of date","material":"petrol"}
+{"id_type":285,"type_name":"Bathroom","description":"good","material":"tin"}
+{"id_type":286,"type_name":"Living room","description":"just bought","material":"gas"}
+{"id_type":287,"type_name":"Living room","description":"just bought","material":"cardboard"}
+{"id_type":288,"type_name":"Bathroom","description":"long-term use","material":"oxygen"}
+{"id_type":289,"type_name":"Kitchen","description":"out of date","material":"zinc"}
+{"id_type":290,"type_name":"Living room","description":"long-term use","material":"soil"}
+{"id_type":291,"type_name":"Bathroom","description":"out of date","material":"stone"}
+{"id_type":292,"type_name":"Living room","description":"good","material":"fiberglass"}
+{"id_type":293,"type_name":"Living room","description":"out of date","material":"leather"}
+{"id_type":294,"type_name":"Kitchen","description":"long-term use","material":"hydrogen"}
+{"id_type":295,"type_name":"Bathroom","description":"good","material":"aluminum"}
+{"id_type":296,"type_name":"Kitchen","description":"damaged","material":"zinc"}
+{"id_type":297,"type_name":"Bedroom","description":"damaged","material":"hydrogen"}
+{"id_type":298,"type_name":"Living room","description":"damaged","material":"chalk"}
+{"id_type":299,"type_name":"Kitchen","description":"just bought","material":"rubber"}
+{"id_type":300,"type_name":"Living room","description":"out of date","material":"2lead"}
+{"id_type":301,"type_name":"Bedroom","description":"just bought","material":"plaster"}
+{"id_type":302,"type_name":"Bedroom","description":"out of date","material":"iron"}
+{"id_type":303,"type_name":"Living room","description":"long-term use","material":"steam"}
+{"id_type":304,"type_name":"Living room","description":"good","material":"paper"}
+{"id_type":305,"type_name":"Kitchen","description":"just bought","material":"carbon dioxide"}
+{"id_type":306,"type_name":"Kitchen","description":"out of date","material":"ice"}
+{"id_type":307,"type_name":"Bedroom","description":"damaged","material":"sand"}
+{"id_type":308,"type_name":"Bedroom","description":"good","material":"rubber"}
+{"id_type":309,"type_name":"Living room","description":"out of date","material":"gas"}
+{"id_type":310,"type_name":"Living room","description":"just bought","material":"hydrogen"}
+{"id_type":311,"type_name":"Bedroom","description":"long-term use","material":"nickel"}
+{"id_type":312,"type_name":"Kitchen","description":"damaged","material":"rubber"}
+{"id_type":313,"type_name":"Bathroom","description":"good","material":"alloy"}
+{"id_type":314,"type_name":"Bathroom","description":"just bought","material":"cement"}
+{"id_type":315,"type_name":"Bedroom","description":"damaged","material":"stone"}
+{"id_type":316,"type_name":"Living room","description":"good","material":"brass"}
+{"id_type":317,"type_name":"Bathroom","description":"just bought","material":"mercury"}
+{"id_type":318,"type_name":"Kitchen","description":"good","material":"paper"}
+{"id_type":319,"type_name":"Kitchen","description":"long-term use","material":"charcoal"}
+{"id_type":320,"type_name":"Bathroom","description":"long-term use","material":"slate"}
+{"id_type":321,"type_name":"Kitchen","description":"just bought","material":"iron"}
+{"id_type":322,"type_name":"Bathroom","description":"long-term use","material":"cardboard"}
+{"id_type":323,"type_name":"Bedroom","description":"good","material":"zinc"}
+{"id_type":324,"type_name":"Living room","description":"good","material":"oil"}
+{"id_type":325,"type_name":"Bathroom","description":"long-term use","material":"dust"}
+{"id_type":326,"type_name":"Kitchen","description":"damaged","material":"leather"}
+{"id_type":327,"type_name":"Bathroom","description":"long-term use","material":"paper"}
+{"id_type":328,"type_name":"Kitchen","description":"good","material":"steel"}
+{"id_type":329,"type_name":"Kitchen","description":"good","material":"nickel"}
+{"id_type":330,"type_name":"Bathroom","description":"out of date","material":"alloy"}
+{"id_type":331,"type_name":"Bedroom","description":"good","material":"magnesium"}
+{"id_type":332,"type_name":"Living room","description":"good","material":"paraffin"}
+{"id_type":333,"type_name":"Bedroom","description":"good","material":"asbestos"}
+{"id_type":334,"type_name":"Bedroom","description":"out of date","material":"coal"}
+{"id_type":335,"type_name":"Bedroom","description":"out of date","material":"lace"}
+{"id_type":336,"type_name":"Bedroom","description":"out of date","material":"ice"}
+{"id_type":337,"type_name":"Kitchen","description":"just bought","material":"straw"}
+{"id_type":338,"type_name":"Living room","description":"good","material":"oxygen"}
+{"id_type":339,"type_name":"Bathroom","description":"out of date","material":"man-made fibers"}
+{"id_type":340,"type_name":"Bathroom","description":"damaged","material":"asbestos"}
+{"id_type":341,"type_name":"Living room","description":"out of date","material":"magnesium"}
+{"id_type":342,"type_name":"Kitchen","description":"long-term use","material":"tin"}
+{"id_type":343,"type_name":"Bathroom","description":"damaged","material":"cement"}
+{"id_type":344,"type_name":"Living room","description":"out of date","material":"polyester"}
+{"id_type":345,"type_name":"Living room","description":"just bought","material":"silk"}
+{"id_type":346,"type_name":"Bedroom","description":"just bought","material":"sand"}
+{"id_type":347,"type_name":"Bathroom","description":"good","material":"asbestos"}
+{"id_type":348,"type_name":"Bathroom","description":"damaged","material":"aluminum"}
+{"id_type":349,"type_name":"Bathroom","description":"long-term use","material":"gas"}
+{"id_type":350,"type_name":"Living room","description":"damaged","material":"nylon"}
+{"id_type":351,"type_name":"Living room","description":"good","material":"cotton"}
+{"id_type":352,"type_name":"Living room","description":"out of date","material":"coal"}
+{"id_type":353,"type_name":"Living room","description":"out of date","material":"petrol"}
+{"id_type":354,"type_name":"Bathroom","description":"damaged","material":"smoke"}
+{"id_type":355,"type_name":"Living room","description":"out of date","material":"ice"}
+{"id_type":356,"type_name":"Bathroom","description":"out of date","material":"platinum"}
+{"id_type":357,"type_name":"Bedroom","description":"damaged","material":"oil"}
+{"id_type":358,"type_name":"Living room","description":"out of date","material":"alloy"}
+{"id_type":359,"type_name":"Kitchen","description":"long-term use","material":"petrol"}
+{"id_type":360,"type_name":"Kitchen","description":"out of date","material":"sand"}
+{"id_type":361,"type_name":"Bedroom","description":"good","material":"brass"}
+{"id_type":362,"type_name":"Bedroom","description":"good","material":"dust"}
+{"id_type":363,"type_name":"Bathroom","description":"out of date","material":"cotton"}
+{"id_type":364,"type_name":"Bedroom","description":"out of date","material":"rubber"}
+{"id_type":365,"type_name":"Bedroom","description":"good","material":"iron"}
+{"id_type":366,"type_name":"Kitchen","description":"just bought","material":"ash"}
+{"id_type":367,"type_name":"Bedroom","description":"good","material":"plaster"}
+{"id_type":368,"type_name":"Kitchen","description":"long-term use","material":"gold"}
+{"id_type":369,"type_name":"Bedroom","description":"damaged","material":"paper"}
+{"id_type":370,"type_name":"Living room","description":"damaged","material":"marble"}
+{"id_type":371,"type_name":"Bathroom","description":"damaged","material":"man-made fibers"}
+{"id_type":372,"type_name":"Living room","description":"just bought","material":"fiberglass"}
+{"id_type":373,"type_name":"Living room","description":"long-term use","material":"marble"}
+{"id_type":374,"type_name":"Kitchen","description":"out of date","material":"brass"}
+{"id_type":375,"type_name":"Kitchen","description":"good","material":"cement"}
+{"id_type":376,"type_name":"Kitchen","description":"good","material":"cardboard"}
+{"id_type":377,"type_name":"Kitchen","description":"damaged","material":"nitrogen"}
+{"id_type":378,"type_name":"Bedroom","description":"good","material":"dust"}
+{"id_type":379,"type_name":"Bedroom","description":"damaged","material":"magnesium"}
+{"id_type":380,"type_name":"Bathroom","description":"just bought","material":"steel"}
+{"id_type":381,"type_name":"Bathroom","description":"damaged","material":"cement"}
+{"id_type":382,"type_name":"Kitchen","description":"just bought","material":"charcoal"}
+{"id_type":383,"type_name":"Bathroom","description":"good","material":"soil"}
+{"id_type":384,"type_name":"Bathroom","description":"just bought","material":"mercury"}
+{"id_type":385,"type_name":"Living room","description":"just bought","material":"man-made fibers"}
+{"id_type":386,"type_name":"Kitchen","description":"out of date","material":"2lead"}
+{"id_type":387,"type_name":"Bedroom","description":"good","material":"coal"}
+{"id_type":388,"type_name":"Bathroom","description":"out of date","material":"paraffin"}
+{"id_type":389,"type_name":"Kitchen","description":"out of date","material":"steam"}
+{"id_type":390,"type_name":"Kitchen","description":"just bought","material":"silver"}
+{"id_type":391,"type_name":"Living room","description":"long-term use","material":"marble"}
+{"id_type":392,"type_name":"Living room","description":"good","material":"cement"}
+{"id_type":393,"type_name":"Bedroom","description":"good","material":"smoke"}
+{"id_type":394,"type_name":"Bedroom","description":"damaged","material":"linen"}
+{"id_type":395,"type_name":"Kitchen","description":"good","material":"sand"}
+{"id_type":396,"type_name":"Bathroom","description":"long-term use","material":"leather"}
+{"id_type":397,"type_name":"Bathroom","description":"good","material":"cement"}
+{"id_type":398,"type_name":"Bathroom","description":"damaged","material":"uranium"}
+{"id_type":399,"type_name":"Kitchen","description":"good","material":"ice"}
+{"id_type":400,"type_name":"Kitchen","description":"out of date","material":"cardboard"}
+{"id_type":401,"type_name":"Bathroom","description":"just bought","material":"rubber"}
+{"id_type":402,"type_name":"Bedroom","description":"long-term use","material":"stone"}
+{"id_type":403,"type_name":"Kitchen","description":"out of date","material":"aluminum"}
+{"id_type":404,"type_name":"Living room","description":"damaged","material":"smoke"}
+{"id_type":405,"type_name":"Bedroom","description":"damaged","material":"mud"}
+{"id_type":406,"type_name":"Kitchen","description":"out of date","material":"mercury"}
+{"id_type":407,"type_name":"Bedroom","description":"good","material":"stone"}
+{"id_type":408,"type_name":"Bathroom","description":"good","material":"magnesium"}
+{"id_type":409,"type_name":"Living room","description":"damaged","material":"paper"}
+{"id_type":410,"type_name":"Bathroom","description":"good","material":"rubber"}
+{"id_type":411,"type_name":"Kitchen","description":"out of date","material":"silver"}
+{"id_type":412,"type_name":"Bathroom","description":"out of date","material":"iron"}
+{"id_type":413,"type_name":"Bedroom","description":"good","material":"rubber"}
+{"id_type":414,"type_name":"Bathroom","description":"good","material":"paraffin"}
+{"id_type":415,"type_name":"Bathroom","description":"out of date","material":"fiberglass"}
+{"id_type":416,"type_name":"Bathroom","description":"just bought","material":"paraffin"}
+{"id_type":417,"type_name":"Kitchen","description":"out of date","material":"steam"}
+{"id_type":418,"type_name":"Bathroom","description":"out of date","material":"clay"}
+{"id_type":419,"type_name":"Bathroom","description":"damaged","material":"steam"}
+{"id_type":420,"type_name":"Kitchen","description":"out of date","material":"straw"}
+{"id_type":421,"type_name":"Kitchen","description":"out of date","material":"helium"}
+{"id_type":422,"type_name":"Bathroom","description":"long-term use","material":"cardboard"}
+{"id_type":423,"type_name":"Kitchen","description":"damaged","material":"charcoal"}
+{"id_type":424,"type_name":"Bedroom","description":"good","material":"soil"}
+{"id_type":425,"type_name":"Living room","description":"out of date","material":"marble"}
+{"id_type":426,"type_name":"Bathroom","description":"just bought","material":"steam"}
+{"id_type":427,"type_name":"Living room","description":"long-term use","material":"leather"}
+{"id_type":428,"type_name":"Bathroom","description":"long-term use","material":"asbestos"}
+{"id_type":429,"type_name":"Bathroom","description":"out of date","material":"uranium"}
+{"id_type":430,"type_name":"Living room","description":"out of date","material":"brass"}
+{"id_type":431,"type_name":"Kitchen","description":"out of date","material":"copper"}
+{"id_type":432,"type_name":"Living room","description":"damaged","material":"copper"}
+{"id_type":433,"type_name":"Bedroom","description":"out of date","material":"dust"}
+{"id_type":434,"type_name":"Kitchen","description":"good","material":"paraffin"}
+{"id_type":435,"type_name":"Bedroom","description":"out of date","material":"magnesium"}
+{"id_type":436,"type_name":"Bathroom","description":"damaged","material":"marble"}
+{"id_type":437,"type_name":"Kitchen","description":"out of date","material":"sand"}
+{"id_type":438,"type_name":"Bedroom","description":"out of date","material":"fiberglass"}
+{"id_type":439,"type_name":"Bedroom","description":"out of date","material":"cement"}
+{"id_type":440,"type_name":"Bedroom","description":"long-term use","material":"steel"}
+{"id_type":441,"type_name":"Living room","description":"damaged","material":"linen"}
+{"id_type":442,"type_name":"Kitchen","description":"good","material":"stone"}
+{"id_type":443,"type_name":"Bedroom","description":"damaged","material":"chalk"}
+{"id_type":444,"type_name":"Kitchen","description":"long-term use","material":"nitrogen"}
+{"id_type":445,"type_name":"Kitchen","description":"good","material":"carbon dioxide"}
+{"id_type":446,"type_name":"Living room","description":"long-term use","material":"asbestos"}
+{"id_type":447,"type_name":"Kitchen","description":"long-term use","material":"oxygen"}
+{"id_type":448,"type_name":"Bedroom","description":"out of date","material":"silver"}
+{"id_type":449,"type_name":"Living room","description":"just bought","material":"uranium"}
+{"id_type":450,"type_name":"Living room","description":"good","material":"silver"}
+{"id_type":451,"type_name":"Kitchen","description":"good","material":"nitrogen"}
+{"id_type":452,"type_name":"Living room","description":"long-term use","material":"cloth"}
+{"id_type":453,"type_name":"Kitchen","description":"just bought","material":"glass"}
+{"id_type":454,"type_name":"Living room","description":"just bought","material":"sand"}
+{"id_type":455,"type_name":"Living room","description":"out of date","material":"slate"}
+{"id_type":456,"type_name":"Kitchen","description":"just bought","material":"zinc"}
+{"id_type":457,"type_name":"Kitchen","description":"just bought","material":"slate"}
+{"id_type":458,"type_name":"Bedroom","description":"just bought","material":"cement"}
+{"id_type":459,"type_name":"Bathroom","description":"just bought","material":"plaster"}
+{"id_type":460,"type_name":"Bedroom","description":"good","material":"brass"}
+{"id_type":461,"type_name":"Living room","description":"good","material":"cement"}
+{"id_type":462,"type_name":"Kitchen","description":"out of date","material":"oxygen"}
+{"id_type":463,"type_name":"Bathroom","description":"out of date","material":"gas"}
+{"id_type":464,"type_name":"Bathroom","description":"long-term use","material":"uranium"}
+{"id_type":465,"type_name":"Bathroom","description":"long-term use","material":"chalk"}
+{"id_type":466,"type_name":"Living room","description":"good","material":"slate"}
+{"id_type":467,"type_name":"Bathroom","description":"damaged","material":"cement"}
+{"id_type":468,"type_name":"Kitchen","description":"damaged","material":"2lead"}
+{"id_type":469,"type_name":"Bedroom","description":"out of date","material":"bamboo"}
+{"id_type":470,"type_name":"Bedroom","description":"damaged","material":"copper"}
+{"id_type":471,"type_name":"Living room","description":"just bought","material":"nitrogen"}
+{"id_type":472,"type_name":"Bathroom","description":"long-term use","material":"mercury"}
+{"id_type":473,"type_name":"Bathroom","description":"damaged","material":"coal"}
+{"id_type":474,"type_name":"Bathroom","description":"good","material":"hydrogen"}
+{"id_type":475,"type_name":"Living room","description":"damaged","material":"leather"}
+{"id_type":476,"type_name":"Bedroom","description":"good","material":"iron"}
+{"id_type":477,"type_name":"Bedroom","description":"just bought","material":"slate"}
+{"id_type":478,"type_name":"Living room","description":"good","material":"paper"}
+{"id_type":479,"type_name":"Kitchen","description":"good","material":"mercury"}
+{"id_type":480,"type_name":"Bathroom","description":"out of date","material":"uranium"}
+{"id_type":481,"type_name":"Bedroom","description":"damaged","material":"petrol"}
+{"id_type":482,"type_name":"Bathroom","description":"damaged","material":"clay"}
+{"id_type":483,"type_name":"Living room","description":"good","material":"dust"}
+{"id_type":484,"type_name":"Bathroom","description":"damaged","material":"helium"}
+{"id_type":485,"type_name":"Bathroom","description":"just bought","material":"iron"}
+{"id_type":486,"type_name":"Living room","description":"long-term use","material":"alloy"}
+{"id_type":487,"type_name":"Kitchen","description":"good","material":"smoke"}
+{"id_type":488,"type_name":"Bedroom","description":"damaged","material":"sand"}
+{"id_type":489,"type_name":"Bathroom","description":"out of date","material":"steel"}
+{"id_type":490,"type_name":"Living room","description":"good","material":"steel"}
+{"id_type":491,"type_name":"Bathroom","description":"out of date","material":"charcoal"}
+{"id_type":492,"type_name":"Bathroom","description":"out of date","material":"mercury"}
+{"id_type":493,"type_name":"Kitchen","description":"good","material":"charcoal"}
+{"id_type":494,"type_name":"Bathroom","description":"long-term use","material":"smoke"}
+{"id_type":495,"type_name":"Bedroom","description":"damaged","material":"steam"}
+{"id_type":496,"type_name":"Living room","description":"just bought","material":"bamboo"}
+{"id_type":497,"type_name":"Kitchen","description":"just bought","material":"carbon dioxide"}
+{"id_type":498,"type_name":"Bathroom","description":"out of date","material":"leather"}
+{"id_type":499,"type_name":"Living room","description":"long-term use","material":"nylon"}
+{"id_type":500,"type_name":"Kitchen","description":"just bought","material":"copper"}
+{"id_type":501,"type_name":"Kitchen","description":"long-term use","material":"steam"}
+{"id_type":502,"type_name":"Bedroom","description":"long-term use","material":"oxygen"}
+{"id_type":503,"type_name":"Kitchen","description":"good","material":"oxygen"}
+{"id_type":504,"type_name":"Living room","description":"good","material":"mortar"}
+{"id_type":505,"type_name":"Bathroom","description":"just bought","material":"leather"}
+{"id_type":506,"type_name":"Kitchen","description":"long-term use","material":"magnesium"}
+{"id_type":507,"type_name":"Kitchen","description":"long-term use","material":"carbon dioxide"}
+{"id_type":508,"type_name":"Bedroom","description":"out of date","material":"straw"}
+{"id_type":509,"type_name":"Living room","description":"long-term use","material":"sand"}
+{"id_type":510,"type_name":"Living room","description":"long-term use","material":"fiberglass"}
+{"id_type":511,"type_name":"Kitchen","description":"out of date","material":"copper"}
+{"id_type":512,"type_name":"Kitchen","description":"damaged","material":"linen"}
+{"id_type":513,"type_name":"Bedroom","description":"good","material":"silver"}
+{"id_type":514,"type_name":"Bedroom","description":"good","material":"charcoal"}
+{"id_type":515,"type_name":"Bedroom","description":"just bought","material":"silk"}
+{"id_type":516,"type_name":"Living room","description":"damaged","material":"slate"}
+{"id_type":517,"type_name":"Bedroom","description":"damaged","material":"cloth"}
+{"id_type":518,"type_name":"Living room","description":"good","material":"lace"}
+{"id_type":519,"type_name":"Kitchen","description":"damaged","material":"aluminum"}
+{"id_type":520,"type_name":"Bathroom","description":"just bought","material":"man-made fibers"}
+{"id_type":521,"type_name":"Kitchen","description":"good","material":"platinum"}
+{"id_type":522,"type_name":"Kitchen","description":"damaged","material":"plaster"}
+{"id_type":523,"type_name":"Kitchen","description":"out of date","material":"charcoal"}
+{"id_type":524,"type_name":"Living room","description":"long-term use","material":"cotton"}
+{"id_type":525,"type_name":"Bathroom","description":"just bought","material":"rubber"}
+{"id_type":526,"type_name":"Bedroom","description":"out of date","material":"lace"}
+{"id_type":527,"type_name":"Kitchen","description":"damaged","material":"glass"}
+{"id_type":528,"type_name":"Bathroom","description":"just bought","material":"leather"}
+{"id_type":529,"type_name":"Bathroom","description":"damaged","material":"clay"}
+{"id_type":530,"type_name":"Bathroom","description":"long-term use","material":"stone"}
+{"id_type":531,"type_name":"Living room","description":"just bought","material":"charcoal"}
+{"id_type":532,"type_name":"Bathroom","description":"good","material":"clay"}
+{"id_type":533,"type_name":"Kitchen","description":"just bought","material":"platinum"}
+{"id_type":534,"type_name":"Living room","description":"good","material":"mercury"}
+{"id_type":535,"type_name":"Bathroom","description":"long-term use","material":"cement"}
+{"id_type":536,"type_name":"Bathroom","description":"damaged","material":"nickel"}
+{"id_type":537,"type_name":"Kitchen","description":"damaged","material":"tin"}
+{"id_type":538,"type_name":"Kitchen","description":"damaged","material":"silk"}
+{"id_type":539,"type_name":"Kitchen","description":"good","material":"paraffin"}
+{"id_type":540,"type_name":"Kitchen","description":"long-term use","material":"hydrogen"}
+{"id_type":541,"type_name":"Bedroom","description":"good","material":"cardboard"}
+{"id_type":542,"type_name":"Living room","description":"damaged","material":"rubber"}
+{"id_type":543,"type_name":"Bedroom","description":"just bought","material":"tin"}
+{"id_type":544,"type_name":"Bedroom","description":"just bought","material":"petrol"}
+{"id_type":545,"type_name":"Bathroom","description":"just bought","material":"soil"}
+{"id_type":546,"type_name":"Bathroom","description":"long-term use","material":"ice"}
+{"id_type":547,"type_name":"Bedroom","description":"good","material":"sand"}
+{"id_type":548,"type_name":"Bathroom","description":"just bought","material":"carbon dioxide"}
+{"id_type":549,"type_name":"Bathroom","description":"long-term use","material":"charcoal"}
+{"id_type":550,"type_name":"Bedroom","description":"good","material":"brickbronze"}
+{"id_type":551,"type_name":"Bedroom","description":"out of date","material":"aluminum"}
+{"id_type":552,"type_name":"Bedroom","description":"out of date","material":"bamboo"}
+{"id_type":553,"type_name":"Living room","description":"damaged","material":"mortar"}
+{"id_type":554,"type_name":"Kitchen","description":"just bought","material":"nickel"}
+{"id_type":555,"type_name":"Bedroom","description":"just bought","material":"asbestos"}
+{"id_type":556,"type_name":"Bedroom","description":"just bought","material":"zinc"}
+{"id_type":557,"type_name":"Living room","description":"damaged","material":"lace"}
+{"id_type":558,"type_name":"Living room","description":"good","material":"clay"}
+{"id_type":559,"type_name":"Kitchen","description":"just bought","material":"mud"}
+{"id_type":560,"type_name":"Bathroom","description":"long-term use","material":"hydrogen"}
+{"id_type":561,"type_name":"Bedroom","description":"damaged","material":"alloy"}
+{"id_type":562,"type_name":"Bedroom","description":"long-term use","material":"ash"}
+{"id_type":563,"type_name":"Kitchen","description":"long-term use","material":"magnesium"}
+{"id_type":564,"type_name":"Living room","description":"good","material":"silver"}
+{"id_type":565,"type_name":"Bedroom","description":"just bought","material":"charcoal"}
+{"id_type":566,"type_name":"Kitchen","description":"damaged","material":"mortar"}
+{"id_type":567,"type_name":"Living room","description":"just bought","material":"dust"}
+{"id_type":568,"type_name":"Bathroom","description":"damaged","material":"smoke"}
+{"id_type":569,"type_name":"Kitchen","description":"good","material":"straw"}
+{"id_type":570,"type_name":"Bedroom","description":"just bought","material":"man-made fibers"}
+{"id_type":571,"type_name":"Kitchen","description":"out of date","material":"hydrogen"}
+{"id_type":572,"type_name":"Living room","description":"long-term use","material":"fiberglass"}
+{"id_type":573,"type_name":"Bedroom","description":"good","material":"brickbronze"}
+{"id_type":574,"type_name":"Kitchen","description":"good","material":"smoke"}
+{"id_type":575,"type_name":"Bedroom","description":"just bought","material":"linen"}
+{"id_type":576,"type_name":"Living room","description":"just bought","material":"brickbronze"}
+{"id_type":577,"type_name":"Kitchen","description":"out of date","material":"sand"}
+{"id_type":578,"type_name":"Living room","description":"long-term use","material":"bamboo"}
+{"id_type":579,"type_name":"Bedroom","description":"out of date","material":"ash"}
+{"id_type":580,"type_name":"Living room","description":"good","material":"leather"}
+{"id_type":581,"type_name":"Bathroom","description":"long-term use","material":"rubber"}
+{"id_type":582,"type_name":"Bathroom","description":"long-term use","material":"straw"}
+{"id_type":583,"type_name":"Kitchen","description":"out of date","material":"silver"}
+{"id_type":584,"type_name":"Bedroom","description":"long-term use","material":"nickel"}
+{"id_type":585,"type_name":"Bathroom","description":"damaged","material":"asbestos"}
+{"id_type":586,"type_name":"Bathroom","description":"out of date","material":"man-made fibers"}
+{"id_type":587,"type_name":"Bathroom","description":"just bought","material":"iron"}
+{"id_type":588,"type_name":"Kitchen","description":"good","material":"asbestos"}
+{"id_type":589,"type_name":"Bathroom","description":"long-term use","material":"charcoal"}
+{"id_type":590,"type_name":"Bathroom","description":"just bought","material":"carbon dioxide"}
+{"id_type":591,"type_name":"Living room","description":"out of date","material":"asbestos"}
+{"id_type":592,"type_name":"Kitchen","description":"just bought","material":"uranium"}
+{"id_type":593,"type_name":"Kitchen","description":"good","material":"stone"}
+{"id_type":594,"type_name":"Kitchen","description":"damaged","material":"glass"}
+{"id_type":595,"type_name":"Bedroom","description":"long-term use","material":"cardboard"}
+{"id_type":596,"type_name":"Bedroom","description":"just bought","material":"steam"}
+{"id_type":597,"type_name":"Living room","description":"just bought","material":"polyester"}
+{"id_type":598,"type_name":"Bathroom","description":"just bought","material":"clay"}
+{"id_type":599,"type_name":"Bedroom","description":"good","material":"platinum"}
+{"id_type":600,"type_name":"Bathroom","description":"out of date","material":"petrol"}
+{"id_type":601,"type_name":"Living room","description":"good","material":"helium"}
+{"id_type":602,"type_name":"Kitchen","description":"damaged","material":"smoke"}
+{"id_type":603,"type_name":"Bathroom","description":"long-term use","material":"iron"}
+{"id_type":604,"type_name":"Bedroom","description":"just bought","material":"copper"}
+{"id_type":605,"type_name":"Bedroom","description":"damaged","material":"zinc"}
+{"id_type":606,"type_name":"Bedroom","description":"out of date","material":"marble"}
+{"id_type":607,"type_name":"Living room","description":"damaged","material":"aluminum"}
+{"id_type":608,"type_name":"Bedroom","description":"damaged","material":"lace"}
+{"id_type":609,"type_name":"Bathroom","description":"just bought","material":"mortar"}
+{"id_type":610,"type_name":"Bathroom","description":"out of date","material":"rubber"}
+{"id_type":611,"type_name":"Living room","description":"good","material":"platinum"}
+{"id_type":612,"type_name":"Bedroom","description":"long-term use","material":"dust"}
+{"id_type":613,"type_name":"Kitchen","description":"out of date","material":"polyester"}
+{"id_type":614,"type_name":"Bedroom","description":"just bought","material":"tin"}
+{"id_type":615,"type_name":"Kitchen","description":"good","material":"lace"}
+{"id_type":616,"type_name":"Bathroom","description":"long-term use","material":"polyester"}
+{"id_type":617,"type_name":"Bathroom","description":"long-term use","material":"alloy"}
+{"id_type":618,"type_name":"Living room","description":"long-term use","material":"alloy"}
+{"id_type":619,"type_name":"Living room","description":"out of date","material":"zinc"}
+{"id_type":620,"type_name":"Bathroom","description":"long-term use","material":"man-made fibers"}
+{"id_type":621,"type_name":"Kitchen","description":"just bought","material":"steel"}
+{"id_type":622,"type_name":"Living room","description":"just bought","material":"magnesium"}
+{"id_type":623,"type_name":"Bedroom","description":"damaged","material":"tin"}
+{"id_type":624,"type_name":"Living room","description":"damaged","material":"mud"}
+{"id_type":625,"type_name":"Kitchen","description":"out of date","material":"nylon"}
+{"id_type":626,"type_name":"Kitchen","description":"out of date","material":"straw"}
+{"id_type":627,"type_name":"Kitchen","description":"long-term use","material":"alloy"}
+{"id_type":628,"type_name":"Kitchen","description":"long-term use","material":"gas"}
+{"id_type":629,"type_name":"Bathroom","description":"good","material":"marble"}
+{"id_type":630,"type_name":"Living room","description":"just bought","material":"platinum"}
+{"id_type":631,"type_name":"Bathroom","description":"just bought","material":"cloth"}
+{"id_type":632,"type_name":"Living room","description":"good","material":"platinum"}
+{"id_type":633,"type_name":"Kitchen","description":"good","material":"clay"}
+{"id_type":634,"type_name":"Kitchen","description":"good","material":"copper"}
+{"id_type":635,"type_name":"Bedroom","description":"damaged","material":"silk"}
+{"id_type":636,"type_name":"Bathroom","description":"long-term use","material":"glass"}
+{"id_type":637,"type_name":"Kitchen","description":"out of date","material":"oxygen"}
+{"id_type":638,"type_name":"Bathroom","description":"out of date","material":"gold"}
+{"id_type":639,"type_name":"Bedroom","description":"just bought","material":"copper"}
+{"id_type":640,"type_name":"Living room","description":"good","material":"hydrogen"}
+{"id_type":641,"type_name":"Kitchen","description":"just bought","material":"bamboo"}
+{"id_type":642,"type_name":"Bathroom","description":"long-term use","material":"glass"}
+{"id_type":643,"type_name":"Bedroom","description":"long-term use","material":"straw"}
+{"id_type":644,"type_name":"Kitchen","description":"long-term use","material":"mercury"}
+{"id_type":645,"type_name":"Bedroom","description":"damaged","material":"2lead"}
+{"id_type":646,"type_name":"Living room","description":"damaged","material":"brass"}
+{"id_type":647,"type_name":"Kitchen","description":"long-term use","material":"brickbronze"}
+{"id_type":648,"type_name":"Kitchen","description":"just bought","material":"gold"}
+{"id_type":649,"type_name":"Bathroom","description":"long-term use","material":"soil"}
+{"id_type":650,"type_name":"Kitchen","description":"out of date","material":"smoke"}
+{"id_type":651,"type_name":"Living room","description":"good","material":"nylon"}
+{"id_type":652,"type_name":"Bedroom","description":"out of date","material":"sand"}
+{"id_type":653,"type_name":"Bedroom","description":"just bought","material":"aluminum"}
+{"id_type":654,"type_name":"Kitchen","description":"damaged","material":"soil"}
+{"id_type":655,"type_name":"Living room","description":"damaged","material":"cloth"}
+{"id_type":656,"type_name":"Living room","description":"damaged","material":"marble"}
+{"id_type":657,"type_name":"Bathroom","description":"long-term use","material":"silk"}
+{"id_type":658,"type_name":"Bathroom","description":"out of date","material":"stone"}
+{"id_type":659,"type_name":"Bathroom","description":"out of date","material":"petrol"}
+{"id_type":660,"type_name":"Living room","description":"damaged","material":"paper"}
+{"id_type":661,"type_name":"Bathroom","description":"just bought","material":"cardboard"}
+{"id_type":662,"type_name":"Kitchen","description":"out of date","material":"bamboo"}
+{"id_type":663,"type_name":"Living room","description":"damaged","material":"cloth"}
+{"id_type":664,"type_name":"Living room","description":"good","material":"brickbronze"}
+{"id_type":665,"type_name":"Living room","description":"good","material":"dust"}
+{"id_type":666,"type_name":"Living room","description":"long-term use","material":"carbon dioxide"}
+{"id_type":667,"type_name":"Living room","description":"damaged","material":"linen"}
+{"id_type":668,"type_name":"Living room","description":"out of date","material":"coal"}
+{"id_type":669,"type_name":"Bathroom","description":"long-term use","material":"alloy"}
+{"id_type":670,"type_name":"Bathroom","description":"just bought","material":"platinum"}
+{"id_type":671,"type_name":"Bedroom","description":"long-term use","material":"gas"}
+{"id_type":672,"type_name":"Kitchen","description":"out of date","material":"leather"}
+{"id_type":673,"type_name":"Living room","description":"out of date","material":"mercury"}
+{"id_type":674,"type_name":"Kitchen","description":"out of date","material":"asbestos"}
+{"id_type":675,"type_name":"Bedroom","description":"long-term use","material":"ash"}
+{"id_type":676,"type_name":"Bathroom","description":"just bought","material":"oxygen"}
+{"id_type":677,"type_name":"Bathroom","description":"long-term use","material":"carbon dioxide"}
+{"id_type":678,"type_name":"Bedroom","description":"damaged","material":"smoke"}
+{"id_type":679,"type_name":"Bedroom","description":"damaged","material":"cotton"}
+{"id_type":680,"type_name":"Bathroom","description":"out of date","material":"uranium"}
+{"id_type":681,"type_name":"Kitchen","description":"good","material":"iron"}
+{"id_type":682,"type_name":"Kitchen","description":"out of date","material":"lace"}
+{"id_type":683,"type_name":"Bedroom","description":"just bought","material":"magnesium"}
+{"id_type":684,"type_name":"Bedroom","description":"good","material":"fiberglass"}
+{"id_type":685,"type_name":"Bedroom","description":"out of date","material":"oil"}
+{"id_type":686,"type_name":"Living room","description":"damaged","material":"soil"}
+{"id_type":687,"type_name":"Kitchen","description":"good","material":"gold"}
+{"id_type":688,"type_name":"Bedroom","description":"long-term use","material":"petrol"}
+{"id_type":689,"type_name":"Bedroom","description":"damaged","material":"ice"}
+{"id_type":690,"type_name":"Living room","description":"damaged","material":"clay"}
+{"id_type":691,"type_name":"Bedroom","description":"damaged","material":"cement"}
+{"id_type":692,"type_name":"Bathroom","description":"just bought","material":"gold"}
+{"id_type":693,"type_name":"Bathroom","description":"damaged","material":"clay"}
+{"id_type":694,"type_name":"Bedroom","description":"out of date","material":"fiberglass"}
+{"id_type":695,"type_name":"Living room","description":"good","material":"alloy"}
+{"id_type":696,"type_name":"Bathroom","description":"out of date","material":"soil"}
+{"id_type":697,"type_name":"Living room","description":"damaged","material":"nylon"}
+{"id_type":698,"type_name":"Bathroom","description":"out of date","material":"carbon dioxide"}
+{"id_type":699,"type_name":"Kitchen","description":"just bought","material":"plaster"}
+{"id_type":700,"type_name":"Bedroom","description":"just bought","material":"cardboard"}
+{"id_type":701,"type_name":"Kitchen","description":"long-term use","material":"iron"}
+{"id_type":702,"type_name":"Bathroom","description":"damaged","material":"glass"}
+{"id_type":703,"type_name":"Living room","description":"long-term use","material":"smoke"}
+{"id_type":704,"type_name":"Bedroom","description":"good","material":"stone"}
+{"id_type":705,"type_name":"Bathroom","description":"long-term use","material":"clay"}
+{"id_type":706,"type_name":"Bedroom","description":"long-term use","material":"magnesium"}
+{"id_type":707,"type_name":"Living room","description":"damaged","material":"coal"}
+{"id_type":708,"type_name":"Kitchen","description":"just bought","material":"uranium"}
+{"id_type":709,"type_name":"Living room","description":"good","material":"silk"}
+{"id_type":710,"type_name":"Kitchen","description":"long-term use","material":"steel"}
+{"id_type":711,"type_name":"Bedroom","description":"good","material":"plaster"}
+{"id_type":712,"type_name":"Bedroom","description":"good","material":"asbestos"}
+{"id_type":713,"type_name":"Bathroom","description":"out of date","material":"cloth"}
+{"id_type":714,"type_name":"Bathroom","description":"long-term use","material":"slate"}
+{"id_type":715,"type_name":"Kitchen","description":"good","material":"2lead"}
+{"id_type":716,"type_name":"Living room","description":"long-term use","material":"slate"}
+{"id_type":717,"type_name":"Living room","description":"good","material":"oxygen"}
+{"id_type":718,"type_name":"Bathroom","description":"long-term use","material":"mud"}
+{"id_type":719,"type_name":"Living room","description":"long-term use","material":"gold"}
+{"id_type":720,"type_name":"Bedroom","description":"damaged","material":"plaster"}
+{"id_type":721,"type_name":"Bedroom","description":"just bought","material":"stone"}
+{"id_type":722,"type_name":"Kitchen","description":"out of date","material":"mortar"}
+{"id_type":723,"type_name":"Kitchen","description":"just bought","material":"oil"}
+{"id_type":724,"type_name":"Kitchen","description":"out of date","material":"marble"}
+{"id_type":725,"type_name":"Living room","description":"just bought","material":"stone"}
+{"id_type":726,"type_name":"Living room","description":"long-term use","material":"stone"}
+{"id_type":727,"type_name":"Bedroom","description":"good","material":"soil"}
+{"id_type":728,"type_name":"Living room","description":"long-term use","material":"nitrogen"}
+{"id_type":729,"type_name":"Bathroom","description":"damaged","material":"nylon"}
+{"id_type":730,"type_name":"Bedroom","description":"long-term use","material":"cloth"}
+{"id_type":731,"type_name":"Bedroom","description":"long-term use","material":"cardboard"}
+{"id_type":732,"type_name":"Bedroom","description":"out of date","material":"oil"}
+{"id_type":733,"type_name":"Living room","description":"long-term use","material":"plaster"}
+{"id_type":734,"type_name":"Bedroom","description":"long-term use","material":"brass"}
+{"id_type":735,"type_name":"Bathroom","description":"just bought","material":"cardboard"}
+{"id_type":736,"type_name":"Bedroom","description":"just bought","material":"charcoal"}
+{"id_type":737,"type_name":"Bedroom","description":"good","material":"polyester"}
+{"id_type":738,"type_name":"Bathroom","description":"long-term use","material":"dust"}
+{"id_type":739,"type_name":"Bathroom","description":"just bought","material":"paraffin"}
+{"id_type":740,"type_name":"Living room","description":"out of date","material":"oxygen"}
+{"id_type":741,"type_name":"Bathroom","description":"long-term use","material":"cloth"}
+{"id_type":742,"type_name":"Bathroom","description":"damaged","material":"leather"}
+{"id_type":743,"type_name":"Bedroom","description":"good","material":"silk"}
+{"id_type":744,"type_name":"Bathroom","description":"long-term use","material":"nylon"}
+{"id_type":745,"type_name":"Bathroom","description":"long-term use","material":"paraffin"}
+{"id_type":746,"type_name":"Bedroom","description":"just bought","material":"aluminum"}
+{"id_type":747,"type_name":"Bedroom","description":"out of date","material":"brickbronze"}
+{"id_type":748,"type_name":"Kitchen","description":"good","material":"aluminum"}
+{"id_type":749,"type_name":"Bathroom","description":"long-term use","material":"marble"}
+{"id_type":750,"type_name":"Bathroom","description":"out of date","material":"chalk"}
+{"id_type":751,"type_name":"Kitchen","description":"damaged","material":"paper"}
+{"id_type":752,"type_name":"Living room","description":"good","material":"brickbronze"}
+{"id_type":753,"type_name":"Bathroom","description":"out of date","material":"platinum"}
+{"id_type":754,"type_name":"Bathroom","description":"long-term use","material":"zinc"}
+{"id_type":755,"type_name":"Kitchen","description":"long-term use","material":"tin"}
+{"id_type":756,"type_name":"Living room","description":"out of date","material":"gold"}
+{"id_type":757,"type_name":"Bathroom","description":"damaged","material":"tin"}
+{"id_type":758,"type_name":"Bedroom","description":"just bought","material":"silver"}
+{"id_type":759,"type_name":"Bedroom","description":"just bought","material":"magnesium"}
+{"id_type":760,"type_name":"Bedroom","description":"long-term use","material":"nylon"}
+{"id_type":761,"type_name":"Bedroom","description":"good","material":"steel"}
+{"id_type":762,"type_name":"Kitchen","description":"damaged","material":"polyester"}
+{"id_type":763,"type_name":"Bedroom","description":"just bought","material":"fiberglass"}
+{"id_type":764,"type_name":"Bedroom","description":"long-term use","material":"plaster"}
+{"id_type":765,"type_name":"Bedroom","description":"damaged","material":"sand"}
+{"id_type":766,"type_name":"Bedroom","description":"out of date","material":"oil"}
+{"id_type":767,"type_name":"Bathroom","description":"long-term use","material":"coal"}
+{"id_type":768,"type_name":"Kitchen","description":"damaged","material":"iron"}
+{"id_type":769,"type_name":"Bedroom","description":"out of date","material":"cement"}
+{"id_type":770,"type_name":"Bedroom","description":"just bought","material":"coal"}
+{"id_type":771,"type_name":"Bedroom","description":"good","material":"nickel"}
+{"id_type":772,"type_name":"Kitchen","description":"out of date","material":"zinc"}
+{"id_type":773,"type_name":"Bathroom","description":"out of date","material":"mercury"}
+{"id_type":774,"type_name":"Kitchen","description":"just bought","material":"cotton"}
+{"id_type":775,"type_name":"Bathroom","description":"damaged","material":"mortar"}
+{"id_type":776,"type_name":"Kitchen","description":"just bought","material":"polyester"}
+{"id_type":777,"type_name":"Bathroom","description":"long-term use","material":"copper"}
+{"id_type":778,"type_name":"Bedroom","description":"damaged","material":"brass"}
+{"id_type":779,"type_name":"Living room","description":"long-term use","material":"sand"}
+{"id_type":780,"type_name":"Living room","description":"just bought","material":"polyester"}
+{"id_type":781,"type_name":"Living room","description":"just bought","material":"copper"}
+{"id_type":782,"type_name":"Bathroom","description":"good","material":"oxygen"}
+{"id_type":783,"type_name":"Kitchen","description":"out of date","material":"tin"}
+{"id_type":784,"type_name":"Kitchen","description":"damaged","material":"nickel"}
+{"id_type":785,"type_name":"Bedroom","description":"long-term use","material":"paper"}
+{"id_type":786,"type_name":"Bedroom","description":"good","material":"iron"}
+{"id_type":787,"type_name":"Bedroom","description":"just bought","material":"bamboo"}
+{"id_type":788,"type_name":"Bathroom","description":"damaged","material":"mud"}
+{"id_type":789,"type_name":"Kitchen","description":"damaged","material":"straw"}
+{"id_type":790,"type_name":"Living room","description":"just bought","material":"tin"}
+{"id_type":791,"type_name":"Living room","description":"just bought","material":"silk"}
+{"id_type":792,"type_name":"Bedroom","description":"damaged","material":"man-made fibers"}
+{"id_type":793,"type_name":"Kitchen","description":"long-term use","material":"nickel"}
+{"id_type":794,"type_name":"Living room","description":"just bought","material":"chalk"}
+{"id_type":795,"type_name":"Kitchen","description":"damaged","material":"straw"}
+{"id_type":796,"type_name":"Kitchen","description":"just bought","material":"alloy"}
+{"id_type":797,"type_name":"Living room","description":"long-term use","material":"cotton"}
+{"id_type":798,"type_name":"Bedroom","description":"just bought","material":"copper"}
+{"id_type":799,"type_name":"Bedroom","description":"just bought","material":"mortar"}
+{"id_type":800,"type_name":"Bathroom","description":"long-term use","material":"chalk"}
+{"id_type":801,"type_name":"Living room","description":"damaged","material":"mercury"}
+{"id_type":802,"type_name":"Bedroom","description":"out of date","material":"oxygen"}
+{"id_type":803,"type_name":"Kitchen","description":"long-term use","material":"oxygen"}
+{"id_type":804,"type_name":"Bathroom","description":"just bought","material":"soil"}
+{"id_type":805,"type_name":"Living room","description":"damaged","material":"paraffin"}
+{"id_type":806,"type_name":"Bedroom","description":"damaged","material":"helium"}
+{"id_type":807,"type_name":"Bathroom","description":"out of date","material":"petrol"}
+{"id_type":808,"type_name":"Bathroom","description":"long-term use","material":"dust"}
+{"id_type":809,"type_name":"Bedroom","description":"out of date","material":"silver"}
+{"id_type":810,"type_name":"Bathroom","description":"just bought","material":"rubber"}
+{"id_type":811,"type_name":"Bathroom","description":"long-term use","material":"ash"}
+{"id_type":812,"type_name":"Kitchen","description":"just bought","material":"sand"}
+{"id_type":813,"type_name":"Kitchen","description":"long-term use","material":"magnesium"}
+{"id_type":814,"type_name":"Bedroom","description":"long-term use","material":"2lead"}
+{"id_type":815,"type_name":"Bathroom","description":"out of date","material":"cotton"}
+{"id_type":816,"type_name":"Kitchen","description":"just bought","material":"clay"}
+{"id_type":817,"type_name":"Kitchen","description":"out of date","material":"paraffin"}
+{"id_type":818,"type_name":"Kitchen","description":"good","material":"cotton"}
+{"id_type":819,"type_name":"Bedroom","description":"long-term use","material":"straw"}
+{"id_type":820,"type_name":"Kitchen","description":"good","material":"glass"}
+{"id_type":821,"type_name":"Bathroom","description":"damaged","material":"mercury"}
+{"id_type":822,"type_name":"Kitchen","description":"damaged","material":"paraffin"}
+{"id_type":823,"type_name":"Bathroom","description":"good","material":"carbon dioxide"}
+{"id_type":824,"type_name":"Kitchen","description":"long-term use","material":"ice"}
+{"id_type":825,"type_name":"Living room","description":"out of date","material":"soil"}
+{"id_type":826,"type_name":"Kitchen","description":"damaged","material":"carbon dioxide"}
+{"id_type":827,"type_name":"Bedroom","description":"damaged","material":"oxygen"}
+{"id_type":828,"type_name":"Kitchen","description":"damaged","material":"uranium"}
+{"id_type":829,"type_name":"Living room","description":"out of date","material":"sand"}
+{"id_type":830,"type_name":"Bedroom","description":"just bought","material":"charcoal"}
+{"id_type":831,"type_name":"Living room","description":"damaged","material":"oxygen"}
+{"id_type":832,"type_name":"Kitchen","description":"long-term use","material":"zinc"}
+{"id_type":833,"type_name":"Bathroom","description":"just bought","material":"glass"}
+{"id_type":834,"type_name":"Bedroom","description":"damaged","material":"silk"}
+{"id_type":835,"type_name":"Bathroom","description":"long-term use","material":"uranium"}
+{"id_type":836,"type_name":"Living room","description":"long-term use","material":"gas"}
+{"id_type":837,"type_name":"Living room","description":"just bought","material":"brickbronze"}
+{"id_type":838,"type_name":"Living room","description":"damaged","material":"leather"}
+{"id_type":839,"type_name":"Kitchen","description":"just bought","material":"brass"}
+{"id_type":840,"type_name":"Bathroom","description":"good","material":"ice"}
+{"id_type":841,"type_name":"Bathroom","description":"damaged","material":"brickbronze"}
+{"id_type":842,"type_name":"Bathroom","description":"just bought","material":"man-made fibers"}
+{"id_type":843,"type_name":"Bathroom","description":"out of date","material":"rubber"}
+{"id_type":844,"type_name":"Bedroom","description":"long-term use","material":"asbestos"}
+{"id_type":845,"type_name":"Bathroom","description":"out of date","material":"oxygen"}
+{"id_type":846,"type_name":"Bedroom","description":"good","material":"brickbronze"}
+{"id_type":847,"type_name":"Living room","description":"good","material":"clay"}
+{"id_type":848,"type_name":"Kitchen","description":"good","material":"stone"}
+{"id_type":849,"type_name":"Bedroom","description":"damaged","material":"slate"}
+{"id_type":850,"type_name":"Living room","description":"long-term use","material":"straw"}
+{"id_type":851,"type_name":"Kitchen","description":"out of date","material":"linen"}
+{"id_type":852,"type_name":"Kitchen","description":"just bought","material":"stone"}
+{"id_type":853,"type_name":"Kitchen","description":"good","material":"paper"}
+{"id_type":854,"type_name":"Bedroom","description":"just bought","material":"sand"}
+{"id_type":855,"type_name":"Kitchen","description":"good","material":"leather"}
+{"id_type":856,"type_name":"Kitchen","description":"good","material":"oil"}
+{"id_type":857,"type_name":"Kitchen","description":"damaged","material":"man-made fibers"}
+{"id_type":858,"type_name":"Bedroom","description":"long-term use","material":"zinc"}
+{"id_type":859,"type_name":"Bathroom","description":"just bought","material":"brickbronze"}
+{"id_type":860,"type_name":"Kitchen","description":"just bought","material":"alloy"}
+{"id_type":861,"type_name":"Bedroom","description":"damaged","material":"brickbronze"}
+{"id_type":862,"type_name":"Bedroom","description":"damaged","material":"tin"}
+{"id_type":863,"type_name":"Bedroom","description":"good","material":"hydrogen"}
+{"id_type":864,"type_name":"Bedroom","description":"damaged","material":"cloth"}
+{"id_type":865,"type_name":"Bathroom","description":"damaged","material":"oxygen"}
+{"id_type":866,"type_name":"Living room","description":"just bought","material":"copper"}
+{"id_type":867,"type_name":"Bathroom","description":"out of date","material":"paraffin"}
+{"id_type":868,"type_name":"Living room","description":"good","material":"charcoal"}
+{"id_type":869,"type_name":"Bedroom","description":"good","material":"sand"}
+{"id_type":870,"type_name":"Kitchen","description":"just bought","material":"copper"}
+{"id_type":871,"type_name":"Living room","description":"good","material":"chalk"}
+{"id_type":872,"type_name":"Kitchen","description":"damaged","material":"clay"}
+{"id_type":873,"type_name":"Bathroom","description":"damaged","material":"mercury"}
+{"id_type":874,"type_name":"Kitchen","description":"good","material":"straw"}
+{"id_type":875,"type_name":"Bathroom","description":"just bought","material":"oil"}
+{"id_type":876,"type_name":"Kitchen","description":"good","material":"oil"}
+{"id_type":877,"type_name":"Bathroom","description":"long-term use","material":"steam"}
+{"id_type":878,"type_name":"Kitchen","description":"good","material":"brickbronze"}
+{"id_type":879,"type_name":"Living room","description":"just bought","material":"asbestos"}
+{"id_type":880,"type_name":"Living room","description":"just bought","material":"leather"}
+{"id_type":881,"type_name":"Kitchen","description":"good","material":"magnesium"}
+{"id_type":882,"type_name":"Living room","description":"damaged","material":"petrol"}
+{"id_type":883,"type_name":"Living room","description":"damaged","material":"aluminum"}
+{"id_type":884,"type_name":"Kitchen","description":"long-term use","material":"oil"}
+{"id_type":885,"type_name":"Living room","description":"out of date","material":"nylon"}
+{"id_type":886,"type_name":"Kitchen","description":"out of date","material":"glass"}
+{"id_type":887,"type_name":"Kitchen","description":"good","material":"silk"}
+{"id_type":888,"type_name":"Bedroom","description":"just bought","material":"linen"}
+{"id_type":889,"type_name":"Bathroom","description":"long-term use","material":"mortar"}
+{"id_type":890,"type_name":"Living room","description":"long-term use","material":"carbon dioxide"}
+{"id_type":891,"type_name":"Bedroom","description":"out of date","material":"polyester"}
+{"id_type":892,"type_name":"Bathroom","description":"good","material":"dust"}
+{"id_type":893,"type_name":"Kitchen","description":"just bought","material":"alloy"}
+{"id_type":894,"type_name":"Bedroom","description":"damaged","material":"glass"}
+{"id_type":895,"type_name":"Bedroom","description":"good","material":"silver"}
+{"id_type":896,"type_name":"Kitchen","description":"out of date","material":"steam"}
+{"id_type":897,"type_name":"Bedroom","description":"long-term use","material":"clay"}
+{"id_type":898,"type_name":"Living room","description":"good","material":"nickel"}
+{"id_type":899,"type_name":"Kitchen","description":"just bought","material":"brickbronze"}
+{"id_type":900,"type_name":"Bedroom","description":"good","material":"lace"}
+{"id_type":901,"type_name":"Bathroom","description":"out of date","material":"ash"}
+{"id_type":902,"type_name":"Bedroom","description":"damaged","material":"paper"}
+{"id_type":903,"type_name":"Kitchen","description":"damaged","material":"asbestos"}
+{"id_type":904,"type_name":"Bathroom","description":"out of date","material":"steel"}
+{"id_type":905,"type_name":"Kitchen","description":"out of date","material":"ash"}
+{"id_type":906,"type_name":"Bedroom","description":"long-term use","material":"carbon dioxide"}
+{"id_type":907,"type_name":"Bathroom","description":"damaged","material":"hydrogen"}
+{"id_type":908,"type_name":"Living room","description":"just bought","material":"straw"}
+{"id_type":909,"type_name":"Living room","description":"damaged","material":"bamboo"}
+{"id_type":910,"type_name":"Bedroom","description":"long-term use","material":"leather"}
+{"id_type":911,"type_name":"Living room","description":"just bought","material":"nylon"}
+{"id_type":912,"type_name":"Bedroom","description":"good","material":"platinum"}
+{"id_type":913,"type_name":"Bathroom","description":"long-term use","material":"tin"}
+{"id_type":914,"type_name":"Kitchen","description":"damaged","material":"cloth"}
+{"id_type":915,"type_name":"Kitchen","description":"long-term use","material":"soil"}
+{"id_type":916,"type_name":"Living room","description":"out of date","material":"cement"}
+{"id_type":917,"type_name":"Bathroom","description":"just bought","material":"ice"}
+{"id_type":918,"type_name":"Bedroom","description":"damaged","material":"petrol"}
+{"id_type":919,"type_name":"Kitchen","description":"long-term use","material":"coal"}
+{"id_type":920,"type_name":"Bedroom","description":"long-term use","material":"iron"}
+{"id_type":921,"type_name":"Bedroom","description":"long-term use","material":"uranium"}
+{"id_type":922,"type_name":"Bathroom","description":"damaged","material":"aluminum"}
+{"id_type":923,"type_name":"Bathroom","description":"damaged","material":"platinum"}
+{"id_type":924,"type_name":"Living room","description":"damaged","material":"rubber"}
+{"id_type":925,"type_name":"Living room","description":"long-term use","material":"coal"}
+{"id_type":926,"type_name":"Kitchen","description":"good","material":"paraffin"}
+{"id_type":927,"type_name":"Living room","description":"good","material":"steam"}
+{"id_type":928,"type_name":"Kitchen","description":"just bought","material":"platinum"}
+{"id_type":929,"type_name":"Kitchen","description":"good","material":"cement"}
+{"id_type":930,"type_name":"Bedroom","description":"good","material":"carbon dioxide"}
+{"id_type":931,"type_name":"Bedroom","description":"damaged","material":"aluminum"}
+{"id_type":932,"type_name":"Kitchen","description":"out of date","material":"silk"}
+{"id_type":933,"type_name":"Bedroom","description":"just bought","material":"chalk"}
+{"id_type":934,"type_name":"Bathroom","description":"out of date","material":"mud"}
+{"id_type":935,"type_name":"Bathroom","description":"good","material":"bamboo"}
+{"id_type":936,"type_name":"Bathroom","description":"just bought","material":"petrol"}
+{"id_type":937,"type_name":"Kitchen","description":"damaged","material":"nitrogen"}
+{"id_type":938,"type_name":"Bathroom","description":"just bought","material":"cloth"}
+{"id_type":939,"type_name":"Living room","description":"damaged","material":"oil"}
+{"id_type":940,"type_name":"Kitchen","description":"good","material":"gas"}
+{"id_type":941,"type_name":"Living room","description":"long-term use","material":"clay"}
+{"id_type":942,"type_name":"Bathroom","description":"damaged","material":"brickbronze"}
+{"id_type":943,"type_name":"Bathroom","description":"long-term use","material":"cardboard"}
+{"id_type":944,"type_name":"Bathroom","description":"damaged","material":"petrol"}
+{"id_type":945,"type_name":"Bedroom","description":"long-term use","material":"iron"}
+{"id_type":946,"type_name":"Kitchen","description":"out of date","material":"marble"}
+{"id_type":947,"type_name":"Living room","description":"damaged","material":"bamboo"}
+{"id_type":948,"type_name":"Kitchen","description":"long-term use","material":"gas"}
+{"id_type":949,"type_name":"Living room","description":"out of date","material":"tin"}
+{"id_type":950,"type_name":"Living room","description":"damaged","material":"gold"}
+{"id_type":951,"type_name":"Kitchen","description":"just bought","material":"brickbronze"}
+{"id_type":952,"type_name":"Bedroom","description":"out of date","material":"zinc"}
+{"id_type":953,"type_name":"Bathroom","description":"just bought","material":"platinum"}
+{"id_type":954,"type_name":"Bathroom","description":"damaged","material":"steel"}
+{"id_type":955,"type_name":"Living room","description":"out of date","material":"plaster"}
+{"id_type":956,"type_name":"Bathroom","description":"long-term use","material":"chalk"}
+{"id_type":957,"type_name":"Bathroom","description":"damaged","material":"slate"}
+{"id_type":958,"type_name":"Bathroom","description":"just bought","material":"straw"}
+{"id_type":959,"type_name":"Kitchen","description":"just bought","material":"coal"}
+{"id_type":960,"type_name":"Bathroom","description":"damaged","material":"bamboo"}
+{"id_type":961,"type_name":"Bathroom","description":"out of date","material":"paper"}
+{"id_type":962,"type_name":"Living room","description":"long-term use","material":"carbon dioxide"}
+{"id_type":963,"type_name":"Living room","description":"just bought","material":"silk"}
+{"id_type":964,"type_name":"Bedroom","description":"just bought","material":"ice"}
+{"id_type":965,"type_name":"Living room","description":"long-term use","material":"steel"}
+{"id_type":966,"type_name":"Kitchen","description":"just bought","material":"brass"}
+{"id_type":967,"type_name":"Bedroom","description":"long-term use","material":"mud"}
+{"id_type":968,"type_name":"Bedroom","description":"just bought","material":"mortar"}
+{"id_type":969,"type_name":"Bedroom","description":"long-term use","material":"mercury"}
+{"id_type":970,"type_name":"Kitchen","description":"damaged","material":"ash"}
+{"id_type":971,"type_name":"Bathroom","description":"out of date","material":"helium"}
+{"id_type":972,"type_name":"Kitchen","description":"out of date","material":"cardboard"}
+{"id_type":973,"type_name":"Bathroom","description":"just bought","material":"rubber"}
+{"id_type":974,"type_name":"Bathroom","description":"out of date","material":"oxygen"}
+{"id_type":975,"type_name":"Bedroom","description":"out of date","material":"nylon"}
+{"id_type":976,"type_name":"Living room","description":"just bought","material":"leather"}
+{"id_type":977,"type_name":"Bedroom","description":"good","material":"oil"}
+{"id_type":978,"type_name":"Kitchen","description":"just bought","material":"zinc"}
+{"id_type":979,"type_name":"Bathroom","description":"damaged","material":"ice"}
+{"id_type":980,"type_name":"Bedroom","description":"out of date","material":"straw"}
+{"id_type":981,"type_name":"Living room","description":"good","material":"lace"}
+{"id_type":982,"type_name":"Kitchen","description":"just bought","material":"cotton"}
+{"id_type":983,"type_name":"Bathroom","description":"long-term use","material":"brass"}
+{"id_type":984,"type_name":"Bathroom","description":"long-term use","material":"coal"}
+{"id_type":985,"type_name":"Living room","description":"just bought","material":"carbon dioxide"}
+{"id_type":986,"type_name":"Bedroom","description":"long-term use","material":"man-made fibers"}
+{"id_type":987,"type_name":"Bedroom","description":"damaged","material":"plaster"}
+{"id_type":988,"type_name":"Bedroom","description":"good","material":"iron"}
+{"id_type":989,"type_name":"Bedroom","description":"out of date","material":"helium"}
+{"id_type":990,"type_name":"Living room","description":"out of date","material":"magnesium"}
+{"id_type":991,"type_name":"Bathroom","description":"long-term use","material":"paper"}
+{"id_type":992,"type_name":"Kitchen","description":"just bought","material":"nitrogen"}
+{"id_type":993,"type_name":"Living room","description":"long-term use","material":"steam"}
+{"id_type":994,"type_name":"Living room","description":"just bought","material":"mercury"}
+{"id_type":995,"type_name":"Living room","description":"just bought","material":"lace"}
+{"id_type":996,"type_name":"Kitchen","description":"good","material":"cloth"}
+{"id_type":997,"type_name":"Bedroom","description":"just bought","material":"uranium"}
+{"id_type":998,"type_name":"Bathroom","description":"just bought","material":"paraffin"}
+{"id_type":999,"type_name":"Bedroom","description":"damaged","material":"fiberglass"}
+{"id_type":1000,"type_name":"Living room","description":"long-term use","material":"paraffin"}

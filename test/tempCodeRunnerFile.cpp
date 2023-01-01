@@ -1,0 +1,1 @@
+cout << setiosflags(ios::showpoint) << setprecision(1);

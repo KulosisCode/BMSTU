@@ -1,0 +1,2 @@
+Enter n:
+Reverse of 16 : 61

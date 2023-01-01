@@ -1,0 +1,167 @@
+\hypertarget{funcdz_8h}{}\doxysection{funcdz.\+h File Reference}
+\label{funcdz_8h}\index{funcdz.h@{funcdz.h}}
+
+
+This header file!  
+
+
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+\doxysubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{funcdz_8h_afa17a5d4e7c66aca92d39943dda31193}\label{funcdz_8h_afa17a5d4e7c66aca92d39943dda31193}} 
+\#define \mbox{\hyperlink{funcdz_8h_afa17a5d4e7c66aca92d39943dda31193}{MAX\+\_\+\+ARR}}~100
+\begin{DoxyCompactList}\small\item\em Maximal size of array. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{funcdz_8h_a5bca617ab5b79831176af3ad980fc3ba}\label{funcdz_8h_a5bca617ab5b79831176af3ad980fc3ba}} 
+\#define {\bfseries ERR\+\_\+\+EMPTY}~-\/1
+\item 
+\mbox{\Hypertarget{funcdz_8h_ac41e8b382ba410525fd1ec219862d274}\label{funcdz_8h_ac41e8b382ba410525fd1ec219862d274}} 
+\#define {\bfseries Input\+\_\+\+Error}~-\/2
+\item 
+\mbox{\Hypertarget{funcdz_8h_a75825dbcfd0ddb9893c67634e228dcda}\label{funcdz_8h_a75825dbcfd0ddb9893c67634e228dcda}} 
+\#define {\bfseries NOT\+\_\+\+EXIST}~-\/3
+\item 
+\mbox{\Hypertarget{funcdz_8h_ad0e9b37c0b9a195bac2ba6f8060768cd}\label{funcdz_8h_ad0e9b37c0b9a195bac2ba6f8060768cd}} 
+\#define {\bfseries ERR\+\_\+100}~-\/4
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{funcdz_8h_a42d6c6bce63327d7702affffc8af9ca1}{Read\+File}} (FILE $\ast$file, int a\mbox{[}$\,$\mbox{]}, int n)
+\begin{DoxyCompactList}\small\item\em Get number of array elements and elements themselves. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{funcdz_8h_a7c6a2e861472db79e8ca1c71ef8afe7f}{Sum\+Digits}} (int num)
+\begin{DoxyCompactList}\small\item\em Determines whether the sum of digits is even or odd. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{funcdz_8h_a2aceb9b2a3c3bad0b701f527cb1c3149}{Reverse\+Number}} (int num)
+\begin{DoxyCompactList}\small\item\em The reverse of the number. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{funcdz_8h_a6c21a67092f863b09d3b26ade2e41a38}{Conver\+Number\+To\+Base2}} (int num)
+\begin{DoxyCompactList}\small\item\em Convert a numbers to base 2. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{funcdz_8h_a4dfd9a965371b323952999d59b54eb1b}{Conver\+Number}} (int a\mbox{[}$\,$\mbox{]}, int n)
+\begin{DoxyCompactList}\small\item\em Convert a numbers. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{funcdz_8h_a51ec535f3dfad62fe730b755d6f205c3}{Print\+Arr}} (int a\mbox{[}$\,$\mbox{]}, int n)
+\begin{DoxyCompactList}\small\item\em Print elements of array. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This header file! 
+
+\begin{DoxyAuthor}{Author}
+Truong Van Hao 
+\end{DoxyAuthor}
+\begin{DoxyWarning}{Warning}
+The main code is in file \mbox{\hyperlink{homework_8c}{homework.\+c}} 
+\end{DoxyWarning}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{funcdz_8h_a4dfd9a965371b323952999d59b54eb1b}\label{funcdz_8h_a4dfd9a965371b323952999d59b54eb1b}} 
+\index{funcdz.h@{funcdz.h}!ConverNumber@{ConverNumber}}
+\index{ConverNumber@{ConverNumber}!funcdz.h@{funcdz.h}}
+\doxysubsubsection{\texorpdfstring{ConverNumber()}{ConverNumber()}}
+{\footnotesize\ttfamily void Conver\+Number (\begin{DoxyParamCaption}\item[{int}]{a\mbox{[}$\,$\mbox{]},  }\item[{int}]{n }\end{DoxyParamCaption})}
+
+
+
+Convert a numbers. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in,out}}  & {\em a} & pointer to array \\
+\hline
+\mbox{\texttt{ in}}  & {\em n} & pointer to number of elemnets \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funcdz_8h_a6c21a67092f863b09d3b26ade2e41a38}\label{funcdz_8h_a6c21a67092f863b09d3b26ade2e41a38}} 
+\index{funcdz.h@{funcdz.h}!ConverNumberToBase2@{ConverNumberToBase2}}
+\index{ConverNumberToBase2@{ConverNumberToBase2}!funcdz.h@{funcdz.h}}
+\doxysubsubsection{\texorpdfstring{ConverNumberToBase2()}{ConverNumberToBase2()}}
+{\footnotesize\ttfamily int Conver\+Number\+To\+Base2 (\begin{DoxyParamCaption}\item[{int}]{num }\end{DoxyParamCaption})}
+
+
+
+Convert a numbers to base 2. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em num} & pointer to a number \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+number (after convert to base 2) 
+\end{DoxyReturn}
+\mbox{\Hypertarget{funcdz_8h_a51ec535f3dfad62fe730b755d6f205c3}\label{funcdz_8h_a51ec535f3dfad62fe730b755d6f205c3}} 
+\index{funcdz.h@{funcdz.h}!PrintArr@{PrintArr}}
+\index{PrintArr@{PrintArr}!funcdz.h@{funcdz.h}}
+\doxysubsubsection{\texorpdfstring{PrintArr()}{PrintArr()}}
+{\footnotesize\ttfamily void Print\+Arr (\begin{DoxyParamCaption}\item[{int}]{a\mbox{[}$\,$\mbox{]},  }\item[{int}]{n }\end{DoxyParamCaption})}
+
+
+
+Print elements of array. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em a} & pointer to array \\
+\hline
+\mbox{\texttt{ in}}  & {\em n} & pointer to number of elemnets \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funcdz_8h_a42d6c6bce63327d7702affffc8af9ca1}\label{funcdz_8h_a42d6c6bce63327d7702affffc8af9ca1}} 
+\index{funcdz.h@{funcdz.h}!ReadFile@{ReadFile}}
+\index{ReadFile@{ReadFile}!funcdz.h@{funcdz.h}}
+\doxysubsubsection{\texorpdfstring{ReadFile()}{ReadFile()}}
+{\footnotesize\ttfamily int Read\+File (\begin{DoxyParamCaption}\item[{FILE $\ast$}]{file,  }\item[{int}]{a\mbox{[}$\,$\mbox{]},  }\item[{int}]{n }\end{DoxyParamCaption})}
+
+
+
+Get number of array elements and elements themselves. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em file} & pointer to file \\
+\hline
+\mbox{\texttt{ out}}  & {\em a} & pointer to arrray \\
+\hline
+\mbox{\texttt{ out}}  & {\em n} & pointer to number of elements \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+error code 
+\end{DoxyReturn}
+\mbox{\Hypertarget{funcdz_8h_a2aceb9b2a3c3bad0b701f527cb1c3149}\label{funcdz_8h_a2aceb9b2a3c3bad0b701f527cb1c3149}} 
+\index{funcdz.h@{funcdz.h}!ReverseNumber@{ReverseNumber}}
+\index{ReverseNumber@{ReverseNumber}!funcdz.h@{funcdz.h}}
+\doxysubsubsection{\texorpdfstring{ReverseNumber()}{ReverseNumber()}}
+{\footnotesize\ttfamily int Reverse\+Number (\begin{DoxyParamCaption}\item[{int}]{num }\end{DoxyParamCaption})}
+
+
+
+The reverse of the number. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em num} & pointer to a number \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+number (after reverse) 
+\end{DoxyReturn}
+\mbox{\Hypertarget{funcdz_8h_a7c6a2e861472db79e8ca1c71ef8afe7f}\label{funcdz_8h_a7c6a2e861472db79e8ca1c71ef8afe7f}} 
+\index{funcdz.h@{funcdz.h}!SumDigits@{SumDigits}}
+\index{SumDigits@{SumDigits}!funcdz.h@{funcdz.h}}
+\doxysubsubsection{\texorpdfstring{SumDigits()}{SumDigits()}}
+{\footnotesize\ttfamily int Sum\+Digits (\begin{DoxyParamCaption}\item[{int}]{num }\end{DoxyParamCaption})}
+
+
+
+Determines whether the sum of digits is even or odd. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em num} & pointer to a number \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1 or 0 (even or odd) 
+\end{DoxyReturn}

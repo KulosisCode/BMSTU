@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "header.h": "c",
+        "sort.h": "c",
+        "check_sort.h": "c",
+        "io.h": "c",
+        "key.h": "c",
+        "constan.h": "c",
+        "system_error": "c",
+        "xlocale": "c",
+        "list_funcs.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}

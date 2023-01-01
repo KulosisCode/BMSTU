@@ -1,0 +1,17 @@
+#include "edges.h"
+
+int edges_list_begin(edges_list_t &edges_list,edge_t * const array, const int &count)
+{
+    edges_list.array = array;
+    edges_list.count = count;
+
+    return OK;
+}
+
+int edges_list_check_array(const edges_list_t &edges_list)
+{
+    if (!edges_list.array || !edges_list.count)
+    {
+        return ERR_NO_POINT;
+    }
+}
